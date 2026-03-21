@@ -806,7 +806,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "bfd71a23c811486357c752b879ec7576c11cdff99fae33f5c53705bcc3287b2e"
+hash = "27a426eb23320636b8cc47932671c4147a96696ffd7644f901afd9d3d9061442"
 metafile = true
 
 [[files]]
@@ -871,7 +871,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "5aff706b484a368a4679b23cb2502154968b89251f17e0d4740ac189218c3dc7"
+hash = "4405bfe1f84a34b68b8236e71461bbbef6245faa747e2b11f7bba1fc2970ec31"
 metafile = true
 
 [[files]]
@@ -906,12 +906,12 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "f99d68db548845d3e5cad75d714429ea73deaa5d41d8d3404af8ca4eb74f1457"
+hash = "b4079f5fd72a1151b18795e13f72ec4dd08af2b28b1d62c7fa2392663b66778c"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "a6d352877abd54a69ae543417e5aa0c99dbfbdf445b93243f4d5fa23a5f8a1b7"
+hash = "d2e00fbd56c7828a807b93916f68880bc3a55012d28269258dddd9c1c01c8c6d"
 metafile = true
 
 [[files]]
@@ -946,7 +946,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "4af07dd765be426fec46e72aa0a0b435b42d85bffe1ee87a100e661d881c90f2"
+hash = "ed460bde18481b52f05f69a87e40a5425affe3885d3b84ea16bf1979a494b5bc"
 metafile = true
 
 [[files]]
@@ -1006,7 +1006,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "0a294ec59f287931a4748716730aa3a5509a778bb5c39eab881f21bdfef273e5"
+hash = "6d8b7998b6dcbad5b89bd6d53b7f5f7dfedec11af1130a8b81fadb8b110dc504"
 metafile = true
 
 [[files]]
@@ -1086,7 +1086,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-effects.pw.toml"
-hash = "4d2152f68c9066164f8f8f47705c53c2067e2777b02cc8305ce62b47c7e84646"
+hash = "c6848302edc2ed04d5712fb0a73b04587c7c3ead78e095b4f39a2f01fe8db193"
 metafile = true
 
 [[files]]
@@ -1096,12 +1096,12 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli-fabric.pw.toml"
-hash = "6c6c901e1f08cfc6efbbc61aa0ddf280c1b32f4341d1879343b540807c81cb37"
+hash = "c7b4c2b34910920611996501d19a8c485e26c4375ce35d85393ec0457bb97d4a"
 metafile = true
 
 [[files]]
 file = "mods/physics-mod.pw.toml"
-hash = "fc55bf9c5487525980819683fbb3d94a86863b4b76b2253f2fb6ccc158838683"
+hash = "6ec3b17a80139728c7a7f228552767728686ad6436aec503d1ccf0bfb64b5a4d"
 metafile = true
 
 [[files]]
@@ -1316,7 +1316,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "87f0c2e2375209d074e05608e47f71bebece1955065b2b523576353cbb5f0b67"
+hash = "07ae909efa3df40c985aecd542d29c289da90f9c068c261e5aa3e490e17808e1"
 metafile = true
 
 [[files]]
@@ -1748,7 +1748,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "a2e193863c525648df10588841ffa2419cf68911c9f382fa2e76bcbcd23af1e6"
+hash = "5e09b3d8b1b155c7b104b7e4bfd30e0f50f93c6c68e73a0905f31304b7b82994"
 metafile = true
 
 [[files]]

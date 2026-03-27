@@ -706,17 +706,17 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "b8e7e67084c9398b85143e0ecaf302e52d13e4ad036634a4fb800027123a8c75"
+hash = "f80b50be51a6bd459ad6c594bc81df1936ef0896774b7d69739ddf0ad2c3fd82"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "fa7fc7c2c05fee8678ffdef46da1847018183e3cfb6152bdec4619765c37e852"
+hash = "e6ffbd4f9cb8d42420d5e6e5afe335e372a96cb37b199d839f6ef2f925167e9b"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "068520363709db9632207ee223dcdc9dc3a33b295806b07b0f4e6b0556b9009a"
+hash = "e46c790ede7ca2b7b015b58b1941fd3eb758144a734dbabde2f871cbb5dcd280"
 metafile = true
 
 [[files]]
@@ -741,7 +741,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "c27a08b54ab9b474a57211f383f511d67fd0023035ee2e76d247667e15183e63"
+hash = "151e599df2c5f3df4234f50a3a6df42add337c8aaecb1a7d71340fe12f2482ca"
 metafile = true
 
 [[files]]
@@ -871,7 +871,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "4405bfe1f84a34b68b8236e71461bbbef6245faa747e2b11f7bba1fc2970ec31"
+hash = "230bcaeeee24a05e26d2fb5782ac78b7444d79871317a7fd89dea69bf12e69c3"
 metafile = true
 
 [[files]]
@@ -911,7 +911,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "d2e00fbd56c7828a807b93916f68880bc3a55012d28269258dddd9c1c01c8c6d"
+hash = "6312985acd3d877f2b547feb58c3ad1e446ca93d7cd6d67c7d14bd062599defc"
 metafile = true
 
 [[files]]
@@ -926,7 +926,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "26f3c572aaf4ad0303f12e4fa257cc4f34bc30f3e2ac1d1dc75f44632141876d"
+hash = "42a5bb2cfb65f58727cc745d913e19c8e5e28ad74b60869a57dc0fcb7bdd7d8d"
 metafile = true
 
 [[files]]
@@ -941,7 +941,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "7438e773f85e37b376469cbe8749525e3353ff38711ddb3911dde77bbd0e3388"
+hash = "e15a8fcb0f2769c8415fca3643a6841ec09c6db5a0550d1694104b08de5a1515"
 metafile = true
 
 [[files]]
@@ -961,7 +961,7 @@ metafile = true
 
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
-hash = "2edafdc423051b21edbe49f433e73e6ba3164dfb079673355003e0f889e7ddf3"
+hash = "b984aa6dd6a4d054a5172435d752f5c273b5fb41a8b93d7519f539acd77bf625"
 metafile = true
 
 [[files]]
@@ -991,7 +991,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "c2fe9a1900ceb3a6014ccb83344aa4ab5ddf65c8bf660044469c3c90c7ed9010"
+hash = "039336d7458d57f9eed8e8ce7ed8efd7d27f6801b0deffe8102e7883034eabfc"
 metafile = true
 
 [[files]]
@@ -1046,7 +1046,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "e4a100304602cacfec783e36b39074ebf3dac8139e328a026d867df7baecb360"
+hash = "cfd25a3e3b9250c16aa32ff0ce79de19e639e68fece42c73723f1b9839f68375"
 metafile = true
 
 [[files]]
@@ -1111,7 +1111,7 @@ metafile = true
 
 [[files]]
 file = "mods/platform.pw.toml"
-hash = "92c749a13a08a12f7cfb23b9e0f25a4cdc7ea1d2f4f1b67808bb2c997a5209ff"
+hash = "6e1e750ee6e1778a3448b94f08e1c94804eece850f19ff8a7883b491c4baf6e9"
 metafile = true
 
 [[files]]
@@ -1161,7 +1161,7 @@ metafile = true
 
 [[files]]
 file = "mods/pyrellium.pw.toml"
-hash = "3718949401bdf7cc62d648362c1a96be8adeed2c86067cb0252d120669a3901e"
+hash = "14b491dbd3d756e11c7ad6a4a7024e309aa687d0cfbdbf97318a0724eb487a57"
 metafile = true
 
 [[files]]
@@ -1406,7 +1406,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "b6d1dd8d52783cb0a1781d53a4fcbebbd39e6d72d628b2e8eecd551586f71980"
+hash = "44502c8ac4b56ab7747462035220efb5f723ef56018b0ee1ba7d38034220bfb0"
 metafile = true
 
 [[files]]
@@ -1599,7 +1599,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "options.txt"
-hash = "aa800bfef0fbce38ff153770c4863141d1623b25cf257fb301381dfab1e3402e"
+hash = "c8cbc7064ff2e25fe0172a6667831d188315a8379f839b8c23510b090f2a5e00"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
@@ -1668,7 +1668,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "5310da73a0fb83b049f5e5a3fdd82c73873da024d0ce663a2365c209c002fd0a"
+hash = "9ccc01c5b73a73990f2b1f32bfe408e3f1324625182d8ba8d6d7f2bb1100f0bb"
 metafile = true
 
 [[files]]
@@ -1723,7 +1723,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/recolourful-containers-gui-hud-dark.pw.toml"
-hash = "0340f00af2e55d663b8cf0bb445f7f5986df60f0ac3534da2166cad5d5afbe0e"
+hash = "4cef8945486bd6e9d925ae8e2857052ac8ba49c80addc971f3093c227ba676b1"
 metafile = true
 
 [[files]]
@@ -1743,12 +1743,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/sun-and-moon-circular.pw.toml"
-hash = "5f4c9bf3c0f4bf4c1f965e76023700b379da89ac3a3a662f313be11339e56ff1"
+hash = "926a7a719b3d145496862dabaa5d4ebe69911540ad2d947b18d4d82c982913bc"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "5e09b3d8b1b155c7b104b7e4bfd30e0f50f93c6c68e73a0905f31304b7b82994"
+hash = "2163a70fa1fdb922f576b786290b2c49643e83d69404bf784f41bcd9d110fac3"
 metafile = true
 
 [[files]]

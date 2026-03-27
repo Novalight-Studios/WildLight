@@ -1,13 +1,13 @@
 name = "Platform"
-filename = "Platform-fabric-1.21.1-1.2.11.5.jar"
+filename = "Platform-fabric-1.21.1-1.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "355c4ddaf0e9362c570ccd8d1576c6fae9290071"
+hash = "abc57a537cd2f2f5613d43455a31264095198154"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7577460
+file-id = 7811413
 project-id = 997634

@@ -1,13 +1,13 @@
 name = "Recolourful Containers GUI + HUD (DARK)"
-filename = "Recolourful Containers DARK 3.1 (1.19.4+).zip"
+filename = "Recolourful Containers DARK 3.1.1 (1.19.4+).zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/sQCUH0Mr/versions/85ROEWma/Recolourful%20Containers%20DARK%203.1%20%281.19.4%2B%29.zip"
+url = "https://cdn.modrinth.com/data/sQCUH0Mr/versions/CFpCrBbo/Recolourful%20Containers%20DARK%203.1.1%20%281.19.4%2B%29.zip"
 hash-format = "sha512"
-hash = "9c26c86157da7e74c6bfe624db02c525b0a975d5f0c3299f4116f7b803d63cae940b2935d199c899be9f270fa742756793d194e942a3d4b5e7e632ee4ce3e4a0"
+hash = "c353c7c94b3dd89e61be2be340411df38f7a4aba1b7fa050cbb99d7e3ebf012ba3144d2f209fd9f31940efb6db6ae26088e002fdc68006a19f958879ab2546f8"
 
 [update]
 [update.modrinth]
 mod-id = "sQCUH0Mr"
-version = "85ROEWma"
+version = "CFpCrBbo"

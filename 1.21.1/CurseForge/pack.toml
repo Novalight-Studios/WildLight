@@ -1,15 +1,15 @@
 name = "WildLight"
 author = "Alfakynz"
-version = "4.5.2"
+version = "4.5.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7f41f18038f4f6092eec5005498c47164303fba52f9d8a7a936752542d122456"
+hash = "2b6f34478add138db6e17faa3f3351d66046b6fee8690cc379ed1f0135f78ba8"
 
 [versions]
-fabric = "0.18.4"
+fabric = "0.18.5"
 minecraft = "1.21.1"
 
 [options]

@@ -1,13 +1,13 @@
 name = "Vanilla Backport"
-filename = "VanillaBackport-fabric-1.21.1-1.1.6.2.jar"
+filename = "VanillaBackport-fabric-1.21.1-1.1.6.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b8ac0b18d6420ee31aac5f8aa50d6462b4966e6b"
+hash = "39564fc06204353c24c22d26cd362af0732c147c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7814031
+file-id = 7830654
 project-id = 417430

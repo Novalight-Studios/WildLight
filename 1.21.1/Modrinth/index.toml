@@ -326,7 +326,7 @@ hash = "6f472441a8c7377731ff5f9ad43f46951595c8a4969d1ba4b1055aa185a38c23"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "b83a2e1dea6cd91f35bcc4fcc1786d22e2ddcc7a9def7c4910b5dcf6552d4ba7"
+hash = "6673f89fd7dd77fe94bd3fc7c4e28661435b5b54ae2e7e5a5a6f54ad9f1cec54"
 metafile = true
 
 [[files]]
@@ -491,7 +491,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "a5f056e7c75be2ee7290e72aa8ffd880f7e130e559d02b0395a0a3aabf413000"
+hash = "d3e9d79aae0dc39496f96fb35b06d21afcfde6da5a0bc7cf9f17a99c705a978e"
 metafile = true
 
 [[files]]
@@ -666,7 +666,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-lights.pw.toml"
-hash = "022efa6ce8fade5828ba182b42818ba8f2c1d0ca284ffaab7f91b2c572bb834b"
+hash = "f52baae87b25fd13316a790da63e73c50bd5acf9a81db14585dec2a2cd9adb36"
 metafile = true
 
 [[files]]
@@ -676,7 +676,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "26fbb6ed4d33303b68af2d305318ad333efc0577d16401481fcc1f0b1b030d6e"
+hash = "b6be9ab228ce37dfd2f0f05364ca24ba143d86bac31e25b9f03ab7750f2fceb4"
 metafile = true
 
 [[files]]
@@ -726,12 +726,12 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-workbenches.pw.toml"
-hash = "aa3caa9ea5c0a3bccf73600b85774ea68fda69247fb8a8b5cc28320e16c01119"
+hash = "3e2116c2ce4eb5ebddeebada1c7c80c5febe502c7eb60772384560eb64c2aa9d"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "91a85d57e811ba1a92b47e1b566fe6d1a9a987b6e466710eb481c87895cb542b"
+hash = "cbd461bced027900f6e97d74f4032bcc4c8894710719ac2c75a7469c51529b4e"
 metafile = true
 
 [[files]]
@@ -761,7 +761,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6ec22733a32cf6e59584fbf2a855e24ea2c05f46026e0799f34f34c0915c8367"
+hash = "a42d6d03c6764f037181b023e0b4e3c5574fdda5f9b837d1ca753dfa4180e1d5"
 metafile = true
 
 [[files]]
@@ -811,7 +811,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "e330b752cdcf9cd701ee47e33c97397559ee671efe015348e4318f80c81bc98c"
+hash = "0fe1b7c22915e6c0812a9755c3187a8325990ee44024247fe70e050abd2b88fc"
 metafile = true
 
 [[files]]
@@ -936,7 +936,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "5f887e7a58b43becfba0d6c4357f512cb16d7959745c4be581d2c4241860f7eb"
+hash = "0623bc338fdea21411144a78687feda9ca96a3e3f0d903eb560923454118189d"
 metafile = true
 
 [[files]]
@@ -1051,7 +1051,7 @@ metafile = true
 
 [[files]]
 file = "mods/naturally-trimmed.pw.toml"
-hash = "4426d74ed8d5e5dfe0c7fac02f4ce85ff27f445baae84b347a7e396514e65eb0"
+hash = "7ff0bb9921f051eab0d0b0ab5d6bb13eca47c3b6b20caad6a42d77124d72770c"
 metafile = true
 
 [[files]]
@@ -1331,12 +1331,12 @@ metafile = true
 
 [[files]]
 file = "mods/spawn-animations.pw.toml"
-hash = "ac6bcad096289d2d7f4833c1cc4e43c8b913ab155ce0bcd271e13a567bcdf127"
+hash = "463aba1cd986ba8d86c635fb85a15deb680fcf67e0fdfb6ab6b3444d16894258"
 metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "d31748b6ef69414c55e409dad360c7dd1ecd93ba9bb1a28eb330c4e05fdce4ff"
+hash = "fcccbdb6c4d42b794c50d8f73bce63b3f088451551522bb88bfe1d1f99a01d84"
 metafile = true
 
 [[files]]
@@ -1421,7 +1421,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "cb137b92e69cdd80ef31fd8952ceaac17c48a047efe41ff01cdca92f5eaa3f18"
+hash = "bb8df58bad4333c0191a8175787c72701f8f2272357df37dc454e842f2915f9e"
 metafile = true
 
 [[files]]
@@ -1763,7 +1763,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "c56825ef0f02e351c103d3eaf3ff204f881361f6c14c075f56754406db77ae08"
+hash = "2fde209b2bcb8713888b4fbe3b5a4e2faff44f7cc42831bcdb4f0b30cad0b650"
 metafile = true
 
 [[files]]

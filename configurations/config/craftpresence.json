@@ -128,7 +128,7 @@
       "buttons": {}
     },
     "dynamicIcons": {
-      "WildLight": "https://raw.githubusercontent.com/Alfakynz/WildLight/refs/heads/main/1.21.1/configurations/icon.png"
+      "WildLight": "https://github.com/Novalight-Studios/WildLight/raw/refs/heads/main/configurations/icon.png"
     },
     "dynamicVariables": {
       "mods": "{general.mods} Mod(s)",

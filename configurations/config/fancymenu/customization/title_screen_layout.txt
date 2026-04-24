@@ -199,7 +199,7 @@ element {
 
 element {
   button_element_executable_block_identifier = b5368199-a8e5-477e-bc25-f44d23347fdf-1754143656281
-  [executable_action_instance:8b07cb02-1182-4b4c-966d-311cf411460c-1754143782587][action_type:openlink] = https://github.com/Alfakynz/WildLight
+  [executable_action_instance:8b07cb02-1182-4b4c-966d-311cf411460c-1754143782587][action_type:openlink] = https://github.com/Novalight-Studios/WildLight
   [executable_block:b5368199-a8e5-477e-bc25-f44d23347fdf-1754143656281][type:generic] = [executables:8b07cb02-1182-4b4c-966d-311cf411460c-1754143782587;]
   restartbackgroundanimations = true
   nine_slice_custom_background = false

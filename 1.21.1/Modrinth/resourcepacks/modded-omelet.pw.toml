@@ -1,13 +1,13 @@
 name = "Modded Omelet - Modern Spawn Eggs"
-filename = "Modded Omelet.zip"
+filename = "Modded Omelet [1-20] [161].zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/SrktyNSI/versions/RkfCgDUk/Modded%20Omelet.zip"
+url = "https://cdn.modrinth.com/data/SrktyNSI/versions/3NFT448Z/Modded%20Omelet%20%5B1-20%5D%20%5B161%5D.zip"
 hash-format = "sha512"
-hash = "7e7e6dbf76888e1b4b415110f964b74c5d7d18aaad880e77b32ac9eba632f5f55b05b379cea8a1335aab11f898c54c9eb4483435d446a7165a90bb0b2220b04b"
+hash = "cfd8fc1184fba885b9c5be5a0c597db3ff6408adfa7a4c1a64816a65cd13aba043aad4e085f1a9e03e2887dfa3b79157537eb34259520da9d50a26674064d893"
 
 [update]
 [update.modrinth]
 mod-id = "SrktyNSI"
-version = "RkfCgDUk"
+version = "3NFT448Z"

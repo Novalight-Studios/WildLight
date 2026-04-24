@@ -1,0 +1,13 @@
+name = "Armour Sound Tweak Updated"
+filename = "armour-sound-tweak-updated-1.0.2-1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "407c02baf4486af443db8061b6459b5287a33eaa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6192864
+project-id = 1199514

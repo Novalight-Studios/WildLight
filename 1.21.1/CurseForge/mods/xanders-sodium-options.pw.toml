@@ -1,0 +1,13 @@
+name = "Xander's Sodium Options"
+filename = "xanders-sodium-options-2.4.2+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4662c12d681e924c583bd84c3c337191f41cefe2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6381427
+project-id = 678306

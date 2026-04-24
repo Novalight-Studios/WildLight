@@ -1,13 +1,13 @@
 name = "Not Enough Animations"
-filename = "notenoughanimations-fabric-1.12.0-mc1.21.1.jar"
+filename = "notenoughanimations-fabric-1.12.2-mc1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "407015892dc57bd39851c395f5592fa68db201ba"
+hash = "3fc300f0cf1bbfad9b9a887e32d9a031a08a613f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7818963
+file-id = 7927755
 project-id = 433760

@@ -1,0 +1,13 @@
+name = "Cool Rain"
+filename = "coolrain-1.4.0-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "32271790c96dfcb71134f6a40e8a5bf8179375f3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7599513
+project-id = 1196599

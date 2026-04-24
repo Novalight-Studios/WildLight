@@ -1,0 +1,13 @@
+name = "Armour Sound Tweak Updated"
+filename = "armour-sound-tweak-updated-1.0.2-1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zN5Zb52E/versions/oKQBywyE/armour-sound-tweak-updated-1.0.2-1.21.jar"
+hash-format = "sha512"
+hash = "db1c5cd3eeb94912863aeebd08dc162c2ae7aa8c49b548c01736f66285681c2f296bbe5fbb3fecd86256bf77d4519176ea8298723d2df9e74c611178b5cf0a1d"
+
+[update]
+[update.modrinth]
+mod-id = "zN5Zb52E"
+version = "oKQBywyE"

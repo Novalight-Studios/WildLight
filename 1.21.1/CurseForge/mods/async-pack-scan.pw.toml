@@ -1,0 +1,13 @@
+name = "Async Pack Scan"
+filename = "async-pack-scan-0.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c2fdb3da6c1de5a17d8e587e0babcee98f2c7004"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5427119
+project-id = 881560

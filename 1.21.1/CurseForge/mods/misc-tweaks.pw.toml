@@ -1,0 +1,13 @@
+name = "Misc Tweaks"
+filename = "misctweaks-1.3.0+1.21.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "59aced6b2189f7c1eac604ad3d17dbff26cdf902"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7696309
+project-id = 1227334

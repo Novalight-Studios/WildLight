@@ -69,6 +69,7 @@ It is recommended to allocate at least 4GB of RAM to Minecraft. This helps ensur
 
 - Thanks to [nNoidea](https://github.com/nNoidea) for Eating Animation support for Wilder Wild compatibility! (via [Eating Animation PR #62](https://github.com/Theoness1/EatingAnimation/pull/62)) (not anymore in this mod, but in this [resource pack](https://github.com/Alfakynz/Eating-Animation-Modded)).
 - Thanks to the [FrozenBlock team](https://modrinth.com/organization/tuit06dH) for [WilderWild](https://modrinth.com/project/AtHRJSUW), and to [voxelotl](https://modrinth.com/user/GgcBbYdM) for allowing me to add some of their textures to the resource pack!
+- Thanks to Annie for making the beautiful WildLight logo
 
 ## 🤝 Contributing
 

@@ -1,13 +1,13 @@
 name = "JourneyMap"
-filename = "journeymap-fabric-1.21.1-6.0.0-beta.65.jar"
+filename = "journeymap-fabric-1.21.1-6.0.0-beta.66.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "46702321fc194522ab56a78ac8b2120679090b6d"
+hash = "4d4e434574981974a1470124a6ec62ea1c897b6a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7980095
+file-id = 8006327
 project-id = 32274

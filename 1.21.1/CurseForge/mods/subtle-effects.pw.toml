@@ -1,14 +1,13 @@
 name = "Subtle Effects"
-filename = "SubtleEffects-fabric-1.21.1-1.14.1.jar"
+filename = "SubtleEffects-fabric-1.21.1-1.14.3.jar"
 side = "both"
-pin = true
 
 [download]
 hash-format = "sha1"
-hash = "52190ab881d11370a398128348d244bc76c2b1ba"
+hash = "bbd111b0e1d7dfd6addecf9a4ed18fd707665478"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7853604
+file-id = 8008311
 project-id = 1023913

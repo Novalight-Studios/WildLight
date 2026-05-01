@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "4f20967ee66eb96cbcfaa63bea9d3424ac45b7db414c9a491f31c86012f34fb5"
+hash = "08c7b708493f9aa8fe14ceb96bca18cc1c3e5b21a0c6c10ef72460daa9bf5b74"
 metafile = true
 
 [[files]]
@@ -682,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "f494105361f4e017cd4b304c49e76bd72951f8c63a7c2a6fd011749deb4a6140"
+hash = "671b588357dd3a7bc9667744051db7fc6dd35f191fa662fbe520349960232ff3"
 metafile = true
 
 [[files]]
@@ -702,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "92c83bd7e56f89170be549904a0ba2dd54de6349b0fefa5ffd48d50db071da05"
+hash = "cb60569bb515776a389d2e6f9073240b88b1385fa74a332921931031ef744380"
 metafile = true
 
 [[files]]
@@ -802,7 +802,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "4f878eecdb57a983f238a06f966b5a33eff89d5172e33bdd041cc4f7196e4749"
+hash = "c141a56218ee0fb48d3d4ee1a129166e2c58c172a360b4c3b549c3926c7bef13"
 metafile = true
 
 [[files]]
@@ -892,7 +892,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemphysic.pw.toml"
-hash = "2822af118f354bf2d74c0e125520cd5a376319ba45bebcbd7a16bfdd6207c2aa"
+hash = "efc86581387bfaa0dd5e01000d983cb27390db8e4f64c976ff004a13f243f9c4"
 metafile = true
 
 [[files]]
@@ -907,7 +907,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "067736fa0b51e7df6b488b966f1e1f608e32ebb0d86bcd40da8001f1670a7d8d"
+hash = "002e1909b501549f5348159fe23fb7922516c080ebb62b2da29ad0ef2626e15f"
 metafile = true
 
 [[files]]
@@ -1037,7 +1037,7 @@ metafile = true
 
 [[files]]
 file = "mods/naturally-trimmed.pw.toml"
-hash = "15612093a0689bae7d194cdccd2b2b1f90275d85a40289dba32f9f61a7a75ea6"
+hash = "1257dd3dbeaa5d83f58785a1e6e1c27b8e92d450d12f07c31357a6280d83ea37"
 metafile = true
 
 [[files]]
@@ -1097,12 +1097,12 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
+hash = "b564a26a650747e8518b336438fd1335180e26ea61e441446a554aeb311185c7"
 metafile = true
 
 [[files]]
 file = "mods/particle-effects.pw.toml"
-hash = "20bac852379fd293afbfd06e0fccb579dc84946e27e557f3a760d4843b788bb3"
+hash = "2d3074953ae4d9bbbd74c257a2bce4ef5d0deebd8f1c55ffb18a37c2d42ceb4f"
 metafile = true
 
 [[files]]
@@ -1307,7 +1307,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "21266f050fa23c79228c18c0e5fbbbb4f7aff7ed66470c7d0ea16d38992571b2"
+hash = "39b0c31561fba4814a23e0c398888652d5f610920b4e33681c194bc1668f9e75"
 metafile = true
 
 [[files]]
@@ -1402,7 +1402,7 @@ metafile = true
 
 [[files]]
 file = "mods/variants-and-ventures.pw.toml"
-hash = "0e34377120e0ee4c80263cf9ed05fd223d83ddfe7922bbfdf3f26e5eb658816d"
+hash = "aa54f4bfb5aa10d827060679cbff19310fe496d3b2b61a5f624dc5e0cf07048c"
 metafile = true
 
 [[files]]

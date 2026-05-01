@@ -1,6 +1,7 @@
 name = "oωo (owo-lib)"
 filename = "owo-lib-0.12.15.4+1.21.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

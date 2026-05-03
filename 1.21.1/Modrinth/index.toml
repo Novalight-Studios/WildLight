@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "08c7b708493f9aa8fe14ceb96bca18cc1c3e5b21a0c6c10ef72460daa9bf5b74"
+hash = "0bfc67385e480d69fdc32c212cd99a09b17c220e20966e9bae4e6798fb17b416"
 metafile = true
 
 [[files]]
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "a567cd22b6f35cb5f71b4aa394c01d341ce01274c9b6256cbcc6f48a450a2ba3"
+hash = "34cb9102708e368a116c6b11e98728e0c4b471a6afdf7ce9602f93cb75174509"
 metafile = true
 
 [[files]]
@@ -752,7 +752,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "1157104e93eab88b9d3c864fe5efea64497c6c4d5614aaa370a96e94a850014b"
+hash = "40693cb17982f1ae6171c1b412d5c2d78d1456b86d3eb0a5a59f0592b937435b"
 metafile = true
 
 [[files]]
@@ -982,7 +982,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "492fe2b4d82b00489ddc4d1f8c3f5489f7f847e999cfd6dec5de27e2ba683811"
+hash = "647807ff387e333abd790b47082a3cf6b7d41a2b27a4337ff65a611f096a7315"
 metafile = true
 
 [[files]]
@@ -1407,7 +1407,7 @@ metafile = true
 
 [[files]]
 file = "mods/villager-names-serilum.pw.toml"
-hash = "384337b9af46d36f7d45fbbd1e9ea5801704df31a0db000f862e16aac71c24a7"
+hash = "d7ca2c58d4a501c22b6a503ee74dfa70739dcb4c5d393d0b0daa8349ef49bd37"
 metafile = true
 
 [[files]]
@@ -1437,7 +1437,7 @@ metafile = true
 
 [[files]]
 file = "mods/wildlight-compat.pw.toml"
-hash = "9ad140d4e11dd5b30d8ec6402d3559a6c5acba07379060e2e478c834a082849b"
+hash = "0ef2b709c379091e0be33ef0c97b40a41219bf3a7d61d75e58e42cf300fdb752"
 metafile = true
 
 [[files]]
@@ -1744,7 +1744,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "955db3e6102ddad4d5d9d242c9ebd0632e6f6a8d11c766bbffad82202a06b1f2"
+hash = "754ee333b953f4fffc8b445bf58eb493adf1a8fcb7517801f47fa6eaead23a87"
 metafile = true
 
 [[files]]

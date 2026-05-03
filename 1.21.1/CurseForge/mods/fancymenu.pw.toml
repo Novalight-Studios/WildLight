@@ -1,6 +1,7 @@
 name = "FancyMenu"
 filename = "fancymenu_fabric_3.8.1_MC_1.21.1.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

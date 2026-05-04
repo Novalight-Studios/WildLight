@@ -16,7 +16,12 @@ onMounted(() => {
     <WikiNav />
     <section class="wiki-content">
       <h1>Resource Packs compatibility</h1>
-      <p>WildLight Compat adds some compatibility fixes between:</p>
+      <p>
+        <a href="https://github.com/Novalight-Studios/WildLight-Compat" target="_blank"
+          >WildLight Compat</a
+        >
+        adds some compatibility fixes between:
+      </p>
       <ul>
         <li>
           <a href="https://modrinth.com/project/sQCUH0Mr" target="_blank"
@@ -60,6 +65,25 @@ onMounted(() => {
             <li><a href="https://modrinth.com/project/Xy8aRQKS" target="_blank">Physics Mod</a></li>
             <li><a href="https://modrinth.com/project/AANobbMI" target="_blank">Sodium</a></li>
             <li><a href="https://modrinth.com/project/ZouiUX7t" target="_blank">Sounds</a></li>
+          </ul>
+        </li>
+        <li>
+          <a href="https://modrinth.com/project/6xwxDTgf" target="_blank">Vanilla Backport</a> with:
+          <ul>
+            <li>
+              <a href="https://modrinth.com/project/AtHRJSUW" target="_blank">Wilder Wild</a> (spawn
+              eggs from newer versions)
+            </li>
+          </ul>
+        </li>
+        <li>
+          <a href="https://modrinth.com/project/8AX2hHnX" target="_blank">Simple Music Control</a>
+          with:
+          <ul>
+            <li>
+              <a href="https://modrinth.com/project/AtHRJSUW" target="_blank">Wilder Wild</a> (music
+              names)
+            </li>
           </ul>
         </li>
       </ul>

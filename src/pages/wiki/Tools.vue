@@ -35,7 +35,7 @@ onMounted(() => {
         Since I needed to maintain two versions (CurseForge and Modrinth) of the modpack across
         different directories, I created
         <a href="https://github.com/Alfakynz/PackWize" target="_blank">PackWize</a>. Instead of
-        running Packwiz commands separately in each subdirectory—one for Modrinth, another for
+        running Packwiz commands separately in each subdirectory, one for Modrinth, another for
         CurseForge, and so on, PackWize allows me to run a single command at the project root that
         automatically executes the required Packwiz actions everywhere. This drastically simplifies
         the workflow and prevents repetitive manual steps.

@@ -30,10 +30,11 @@ onMounted(async () => {
       <p>
         This modpack uses <strong>Minecraft 1.21.1</strong>
         <br />
-        Other versions of Minecraft are not supported. I don't plan to support them for now.
+        Other versions of Minecraft are not supported. I plan to support a future version in which
+        Vulkan will be supported.
       </p>
       <h2>Fabric Version</h2>
-      <p>This modpack use <strong>Fabric 0.17.2</strong></p>
+      <p>This modpack use <strong>Fabric 0.19.2</strong></p>
       <h2>WildLight Version</h2>
       <p>
         The latest version of the modpack is <strong>{{ latestVersion }}</strong

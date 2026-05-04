@@ -23,7 +23,7 @@ onMounted(() => {
         default option.
       </p>
       <ul>
-        <li><b>Default</b>: The default setup (tested on a Mac Mini M2)</li>
+        <li><b>Default</b>: The default setup (tested on a Mac Mini M2, 6 GB allocated)</li>
         <li><b>Performance</b>: No shaders, fast rendering, maximum possible FPS</li>
         <li>
           <b>Balanced</b>: Uses shaders, offers a middle ground between Performance and Quality

@@ -25,7 +25,7 @@
         </a>
       </li>
       <li>
-        <a href="https://github.com/Alfakynz/WildLight" target="_blank">
+        <a href="https://github.com/Novalight-Studios/WildLight" target="_blank">
           <div>GitHub</div>
           <img src="/src/assets/images/icons/github.png" alt="GitHub" />
         </a>

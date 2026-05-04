@@ -25,14 +25,20 @@ onMounted(() => {
         <li>
           <strong>
             Open an issue on
-            <a href="https://github.com/Alfakynz/wildlight/issues" target="_blank" rel="noopener"
+            <a
+              href="https://github.com/Novalight-Studios/WildLight/issues"
+              target="_blank"
+              rel="noopener"
               >GitHub</a
             >:
           </strong>
           <ul>
             <li>
               Go to my
-              <a href="https://github.com/Alfakynz/wildlight/issues" target="_blank" rel="noopener"
+              <a
+                href="https://github.com/Novalight-Studios/WildLight/issues"
+                target="_blank"
+                rel="noopener"
                 >GitHub Issues page</a
               >.
             </li>

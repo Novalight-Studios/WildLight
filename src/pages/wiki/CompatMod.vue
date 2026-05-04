@@ -16,11 +16,16 @@ onMounted(() => {
     <WikiNav />
     <section class="wiki-content">
       <h1>Mods compatibility</h1>
-      <p>WildLight Compat adds some compatibility fixes between:</p>
+      <p>
+        <a href="https://github.com/Novalight-Studios/WildLight-Compat" target="_blank"
+          >WildLight Compat</a
+        >
+        adds some compatibility fixes between:
+      </p>
       <ul>
         <li>
           <a href="https://modrinth.com/project/Xy8aRQKS" target="_blank">Physics Mod</a> and Breeze
-          monsters: breeze particles were buggy, ground particles were to big.
+          mobs: breeze particles were buggy, ground particles were to big.
         </li>
         <li>
           <a href="https://modrinth.com/project/Xy8aRQKS" target="_blank">Physics Mod</a> and
@@ -50,6 +55,10 @@ onMounted(() => {
           <a href="https://github.com/TeamMidnightDust/VisualOverhaul/pull/99" target="_blank"
             >pull request #99</a
           >.
+        </li>
+        <li>
+          <a href="https://modrinth.com/project/VLAWWg1B" target="_blank">Useful Backpack</a>:
+          Allows you to close the backpack screen with the backpack keybind (V by default)
         </li>
       </ul>
     </section>

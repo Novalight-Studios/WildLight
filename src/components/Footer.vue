@@ -2,7 +2,7 @@
   <footer>
     <div class="footer-category">
       <h3>Contact</h3>
-      <a href="https://github.com/Alfakynz" target="_blank" rel="noopener">GitHub</a>
+      <a href="https://github.com/Novalight-Studios" target="_blank" rel="noopener">GitHub</a>
       <a href="https://discord.gg/TcmUQHZ5U4" target="_blank" rel="noopener">Discord</a>
     </div>
     <div class="footer-category">

@@ -1,0 +1,13 @@
+name = "Sildur's Enhanced Default Shaders"
+filename = "Sildur's Enhanced Default v1.171 Fancy.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8fb51f76d6f7960fcd4d9bc428fe39b3e3539de6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5442776
+project-id = 544140

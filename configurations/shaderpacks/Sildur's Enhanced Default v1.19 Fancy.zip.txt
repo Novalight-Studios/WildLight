@@ -1,0 +1,4 @@
+#Sat May 23 23:32:31 CEST 2026
+animationSpeed=0.75
+shadowMapResolution=1024
+waves_amplitude=0.55

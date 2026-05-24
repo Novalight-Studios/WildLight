@@ -1,13 +1,13 @@
 name = "Towns and Towers"
-filename = "t_and_t-neoforge-fabric-1.13.7+1.21.1.jar"
+filename = "t_and_t-neoforge-fabric-1.13.9+1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "eb7666961fb0b0d0ff8bc01ff62194952f6b6b8c"
+hash = "2390523f45dc5204e82cfb23ecf4f34dfcc25d1e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7112985
+file-id = 8130049
 project-id = 626761

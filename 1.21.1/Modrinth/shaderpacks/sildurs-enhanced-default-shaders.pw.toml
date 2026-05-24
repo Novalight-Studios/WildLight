@@ -1,0 +1,13 @@
+name = "Sildur's Enhanced Default Shaders"
+filename = "Sildur's Enhanced Default v1.19 Fancy.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2jvH1Rcl/versions/iGZzk9Qi/Sildur%27s%20Enhanced%20Default%20v1.19%20Fancy.zip"
+hash-format = "sha512"
+hash = "75483799561fef131c57cec71c3bce499e7a2536d7a77f708cb36046cfbc582e278edbf095c53b47f1c2f1f9d90bac02d0ef85c4aaa06bbc2432f7343f28b2bc"
+
+[update]
+[update.modrinth]
+mod-id = "2jvH1Rcl"
+version = "iGZzk9Qi"

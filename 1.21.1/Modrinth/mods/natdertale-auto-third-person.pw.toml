@@ -1,0 +1,13 @@
+name = "Auto Third Person"
+filename = "auto-thirdperson-1.0.1-1.21.+.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aZ4i8cMP/versions/HrKocIie/auto-thirdperson-1.0.1-1.21.%2B.jar"
+hash-format = "sha512"
+hash = "a8ab19348fd942cf29e0c10f5b18f3706316c9c41ee90723513d05ad92176045cdc6aa5a708409db45b00999887152d547b8b9823abd8dacbec68b78ca379c2d"
+
+[update]
+[update.modrinth]
+mod-id = "aZ4i8cMP"
+version = "HrKocIie"

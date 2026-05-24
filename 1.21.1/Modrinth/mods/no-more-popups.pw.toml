@@ -1,13 +1,13 @@
 name = "No More Pop-ups"
-filename = "nomorepopups-fabric-1.20.1-2.2.0.jar"
+filename = "nomorepopups-fabric-1.20.1-2.2.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/sAdB6HVW/versions/2lrZIsYV/nomorepopups-fabric-1.20.1-2.2.0.jar"
+url = "https://cdn.modrinth.com/data/sAdB6HVW/versions/aQ5UEJws/nomorepopups-fabric-1.20.1-2.2.1.jar"
 hash-format = "sha512"
-hash = "6853a84735dcb1e50a3515f6858286950ceb8a41c83caebc8b62ea34edfe9abc7fe392ca77124b541a264fad0016c372a066f2391ab8448b2e255447bbc59b7d"
+hash = "38d705eb49682e2d037693d94f9ca7d5a50f6fb37aec2d4fb85d9f191e4cb18f7e36b8f1464e3818f3b921483a52286e862e9b2c166149f7c0ba3339caa88ef4"
 
 [update]
 [update.modrinth]
 mod-id = "sAdB6HVW"
-version = "2lrZIsYV"
+version = "aQ5UEJws"

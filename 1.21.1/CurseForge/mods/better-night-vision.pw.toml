@@ -1,0 +1,13 @@
+name = "Better Night Vision"
+filename = "betternightvision-1.0.4+1.21.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "729dd1a7b7c663a4dcee00346c9f1980230dd954"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6611383
+project-id = 1092083

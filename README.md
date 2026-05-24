@@ -37,7 +37,7 @@ You can check **Opions Profiles** menu to instantly load custom settings based o
 
 ### 🎨 A fresh look at a beautiful UI ✨
 
-The new UI starts at the launch of the game, a little but appreciated mod **Dark Loading Screen**, after, you'll remark a revisited menu thanks to **FancyMenu**. All the GUI has also changed by the **Recolourfull Containers GUI + HUD (DARK)** resource pack. You'll also notice that there are a lot of icons into the buttons, they are created by **Icons**. All this new UI is now smooth when they appeared (**Smooth Gui**), when you scroll (**Smooth Scrolling**) and more. Some resource packs and mods has little UI bugs, so I created **WildLight compat** mod to patch them manually for a better experience.
+The new UI starts at the launch of the game, a little but appreciated mod **Dark Loading Screen**, after, you'll remark a revisited menu thanks to **FancyMenu**. All the GUI has also changed by the **Recolourfull Containers GUI + HUD (DARK)** resource pack. You'll also notice that there are a lot of icons into the buttons, they are created by **Icons**. All this new UI is now smooth when they appeared (**Smooth Gui**), when you scroll (**Smooth Scrolling**) and more. Some resource packs and mods has little UI bugs, so I created **WildLight Compat** mod to patch them manually for a better experience.
 
 ### 🛜 Multiplayer 🌍
 
@@ -85,7 +85,9 @@ If you have any questions, here's Discord server: https://discord.gg/TcmUQHZ5U4
 
 ## 🚀 Planned Features
 
-- A quest book to discover the mods in the modpack
+- A quest book to discover the mods in the modpack or custom advancements
+- A refreshed interface
+- Better performance
 
 ## 🌐 Looking for a server? Support me at the same time!
 

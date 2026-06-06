@@ -1,0 +1,13 @@
+name = "Soft Imprints"
+filename = "softimprints-fabric-1.21.1-2.5.01.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cbffe023b214edca76a7408fd21e9da0f1472b05"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8205654
+project-id = 1474300

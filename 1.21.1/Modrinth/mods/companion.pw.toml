@@ -1,13 +1,13 @@
 name = "Companion 🐕"
-filename = "Companion-1.21.1-Fabric-6.2.0.jar"
+filename = "Companion-1.21.1-Fabric-6.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4w0EzGRW/versions/KdfSNJS7/Companion-1.21.1-Fabric-6.2.0.jar"
+url = "https://cdn.modrinth.com/data/4w0EzGRW/versions/N5oZrhu4/Companion-1.21.1-Fabric-6.2.1.jar"
 hash-format = "sha512"
-hash = "ffecf42b13ffb63d24636d434383cf157d0b36e552acd52d16b88153185c240b305d1ce53bcc0ae7d23b892c1c1cd32e268d220fafb95aded91342ccdb3a7870"
+hash = "9f62e07fa4478c6ea5353149411c92a779c9f70c217451b3352974d41ac630125082f81741479828911d8d443bf17fb6f22875c7ba7fc47db81dcc0b2d536a8a"
 
 [update]
 [update.modrinth]
 mod-id = "4w0EzGRW"
-version = "KdfSNJS7"
+version = "N5oZrhu4"

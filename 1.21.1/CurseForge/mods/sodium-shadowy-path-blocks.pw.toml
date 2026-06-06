@@ -1,6 +1,7 @@
 name = "Sodium Shadowy Path Blocks"
 filename = "sodium-shadowy-path-blocks-fabric-4.0.0.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

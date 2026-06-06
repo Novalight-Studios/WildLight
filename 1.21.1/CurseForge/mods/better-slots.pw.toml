@@ -1,13 +1,13 @@
 name = "Better Slots"
-filename = "better-slots-fabric-1.21.1-1.0.1.jar"
+filename = "better-slots-fabric-1.20.1-1.0.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e8332507ba5f25bd97668a37cc439914e45c6a03"
+hash = "9c8301a9130ff1a11a7f2400f2c7c88235a73b55"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7359372
+file-id = 8168834
 project-id = 1409781

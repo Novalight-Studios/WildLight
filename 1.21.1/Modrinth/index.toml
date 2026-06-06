@@ -33,6 +33,10 @@ file = "config/dynamiccrosshair.json5"
 hash = "375dba1c06d9acf6795f60edbeb61699f72cde6a851841cf9913f9394e1a14d6"
 
 [[files]]
+file = "config/entity_texture_features.json"
+hash = "d657f85348ca106efeaa1a003c9e1ca7d6c708444343540ab09396efff6766c3"
+
+[[files]]
 file = "config/euphoria_patcher.properties"
 hash = "66793f6eb032dba20841b7b015cf96550baec9686ee9cf758edc2e41b193ec25"
 
@@ -61,8 +65,12 @@ file = "config/fancymenu/customizablemenus.txt"
 hash = "9773ad7514d9fc689be40b9a6a60bd751d06472aae28187af6899110908c2dcd"
 
 [[files]]
+file = "config/fancymenu/customization/options_screen_layout.txt"
+hash = "cf9a2c8451d022d9c6ecc047313e64e94df6d809ec9ddea7267a6db55cd3354a"
+
+[[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "18812698ed35e774c3c713d5c0edaa7d08189e3d4d2f7cd7747a2f4c30ce5819"
+hash = "4ea26e0620d798740f1bdbcd2aaadfd5d1eb45d77669f0db6384c4569f5bfafd"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -129,12 +137,20 @@ file = "config/fastquit.toml"
 hash = "de22af584433dfdfb4a14b85091bfbd5c6be697a306499c2d7c75740658dbad4"
 
 [[files]]
+file = "config/fbp/config.json"
+hash = "56b21e6587d04d56b68e51bacb170483fad6f79879906c753e9b52c7dbb46dc8"
+
+[[files]]
 file = "config/frozenlib.json5"
 hash = "4734817b2c2546f05aaba4dc07ebdee3e05a18893e84cc4eca81c1a58cb71473"
 
 [[files]]
 file = "config/immersiveui.yaml"
 hash = "0ad9097a5c12bb317717b09ecd86d02352fa78696140588c1176ec0a93698940"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/horse.json"
+hash = "1b5ffccae3e0caf49cf3d124d167e7d93ed98b50a9156edca749f3a4f82b2d46"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
@@ -173,6 +189,10 @@ file = "config/no-more-popups.json"
 hash = "31e5140ee7bb35c73c8ae74eb785eca3c81caf235d467fd4a38e75e86e0a6aa7"
 
 [[files]]
+file = "config/particle_core_config.toml"
+hash = "ebc2548be0dc43e0e3577f5f4757c402ac4f65edbde11f1815e2427652d0c681"
+
+[[files]]
 file = "config/physicsmod/physics_animations_client_config.json"
 hash = "d8a629b25da461374926b02b6649ed90154cb1bb6ab7e5208f519b5bcf29b08b"
 
@@ -205,6 +225,10 @@ file = "config/pickupnotifier/pickupnotifier-client.toml"
 hash = "7899a52dd46b3289956d4c3929d6840b52ac0bc460635556cca40ffa72a55512"
 
 [[files]]
+file = "config/puzzle.json"
+hash = "669716266465dfd0aa156d82d9f418acd0253563c1bb7747230ba9963a56ee8a"
+
+[[files]]
 file = "config/realisticbees.json5"
 hash = "bf1736f46540873e837591bcb6fe5fec405a1d11d2ae256ee23ee7734d54f49b"
 
@@ -234,11 +258,15 @@ hash = "c78c11894a8a90dfb0b6ff16077ad046c67196ad91a23c964a7a5bd44df252d2"
 
 [[files]]
 file = "config/subtle_effects/entities.toml"
-hash = "c5b45f0103356fedd17fa96fb7de3ea76b875b08c1457822ea86a53939aad3f9"
+hash = "7a90672e663afe3957cd12d6ac47fc020092ea09dd8aeca85fe88e0fd3f333e9"
 
 [[files]]
 file = "config/torch_hit-common.toml"
 hash = "e6ec25dca61906b2dac9992b1a0e65fab9a242d2c9d705c03c45756896d259d2"
+
+[[files]]
+file = "config/visuality.json"
+hash = "fef820f0378314357bd09b412d4dc59afccedddbbb3ad1141b086c6d118645b8"
 
 [[files]]
 file = "config/visualoverhaul.json"
@@ -330,16 +358,6 @@ hash = "d33e645ddda2b4b764b4e6618ff8b54bb6f6ac1151e58869fec973384b7d0007"
 metafile = true
 
 [[files]]
-file = "mods/async-pack-scan.pw.toml"
-hash = "f7078a5ce8e99fc186d0339dfa9ae259b66ae8f90c0443abd0533c1679941692"
-metafile = true
-
-[[files]]
-file = "mods/asyncparticles.pw.toml"
-hash = "eb7b60d035c7780bae23a4392cab3871471fb83b5230e3c7df64eb15b955c51c"
-metafile = true
-
-[[files]]
 file = "mods/auth-me.pw.toml"
 hash = "043b2b94a775368afe4db8c66f5414dbabf55bb7630b4b8859d33ccb32d1d23a"
 metafile = true
@@ -386,7 +404,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-slots.pw.toml"
-hash = "48c88ca0d188255c7508af3ae3d3a209fa54d2921b7a19cc6f893c01e8a2ec2a"
+hash = "ba172318a729bd565d77c443248f131ac5b0abd8fd84d47d4c275496792285fa"
 metafile = true
 
 [[files]]
@@ -481,7 +499,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "42a48ed20dbaadbef6c5dbbe702f49d72049dda3619c0b5211c78d64d0239be1"
+hash = "315dbcc0d4f3212a8a47fdfad9aa5ceed43373687326ecc54383620f1385830f"
 metafile = true
 
 [[files]]
@@ -526,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/companion.pw.toml"
-hash = "d3e4bbb27e5cba6a682de261f2fa88228fd2a61d15b0f5641e558feb63ad20ac"
+hash = "ed7a4dae1cb0d36c8c28374dfbc1455eb731f51fed3fbdb95ebc4cf9e05d4424"
 metafile = true
 
 [[files]]
@@ -561,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
-hash = "2f2b7b78eef365931a2f0e145a5d2f216e43aae378529d47ee08cb40c72ccc82"
+hash = "5c019a512db5cb7005a98d06a5df5f75df2c26719d8460dc2cc81c819eda989a"
 metafile = true
 
 [[files]]
@@ -656,7 +674,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "b6be9ab228ce37dfd2f0f05364ca24ba143d86bac31e25b9f03ab7750f2fceb4"
+hash = "c813b1d59264a2e248547f28775925ffd1c4484e16093069c486455e74a2b7d9"
 metafile = true
 
 [[files]]
@@ -731,7 +749,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "ac01b90470445f576de67f159313dfec0c9e2a813fa2d9413900a417144fd039"
+hash = "93c14684652eae26a5015d4b2663403d5384bcd63e0b196ec042b56cea725a86"
 metafile = true
 
 [[files]]
@@ -746,7 +764,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "337d97b990f76c91584b12600651ae7bd47a0824e45070b3d9330b0922149fc0"
+hash = "9d37d326d9557fdd25c97d72ac1bbd1e74c524aa5dca437a91d0de645dff6545"
 metafile = true
 
 [[files]]
@@ -770,13 +788,13 @@ hash = "29df9165f974e5d190751cc39d689f7db3c6584610bb322e34add7a8f571df7c"
 metafile = true
 
 [[files]]
-file = "mods/faster-random.pw.toml"
-hash = "605fe60f2ada4333e88ec2fa66cb57d0635292d83eee8d1ad40f2485d72ef013"
+file = "mods/fastquit.pw.toml"
+hash = "4387abb74dcfc93f9381c109fe76e7161ca7a91a1a642db4781b47f650c4ddab"
 metafile = true
 
 [[files]]
-file = "mods/fastquit.pw.toml"
-hash = "4387abb74dcfc93f9381c109fe76e7161ca7a91a1a642db4781b47f650c4ddab"
+file = "mods/fbp-renewed.pw.toml"
+hash = "2ded81f39d8e5d6ec63e997329859d4f991bd60a46cd5ec1748ce818274b2978"
 metafile = true
 
 [[files]]
@@ -806,12 +824,12 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-flowery-mooblooms-fabric.pw.toml"
-hash = "ca11bc13434dffcac0cb2500e3ea2eb62bb722f36d0d56ffbc1dfbe5d4315bbc"
+hash = "f1ac00dbb434bf307fa8f1dcb8d52951887fa5eaa3785a8be807d5b9caabab36"
 metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "c141a56218ee0fb48d3d4ee1a129166e2c58c172a360b4c3b549c3926c7bef13"
+hash = "0c2f42374022bcbd3b15b6432cca31dda311e2bd26ab5b02f3d036c90c32e399"
 metafile = true
 
 [[files]]
@@ -826,7 +844,7 @@ metafile = true
 
 [[files]]
 file = "mods/fwa.pw.toml"
-hash = "bdd3b6f6608174265773b8ce9cd8af6651aefcc17c9706853d140cdbf1cecf74"
+hash = "652ac595a47bf361361acd71a462ea644bab67a2b35df19ddf927a000924e4e8"
 metafile = true
 
 [[files]]
@@ -911,7 +929,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "a7cfafa635b14ec5ad6f77cde164b56ad46f2f1a0590c862485870639ea0faa8"
+hash = "5e92bc699ab4662329763f8cf0c731524bc3dca6e0fbba2ae695457190acd471"
 metafile = true
 
 [[files]]
@@ -926,7 +944,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "70b5190936f976f564e8cab526b18d65801842f09449c10885dde7d5bb6313be"
+hash = "ade2b2d906fa85f50d0785f64b890af75900405bac92808a614a8b79a4dd32df"
 metafile = true
 
 [[files]]
@@ -1036,7 +1054,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-structure-lib.pw.toml"
-hash = "1b24137fc88718c19aa7fd374d149f2cd91d0e4955fc095fba3e8ae1bf2c8cbf"
+hash = "2d4d566a52984796cf353139efdeed9f234ae52564af4f967ada769590a19053"
 metafile = true
 
 [[files]]
@@ -1061,7 +1079,7 @@ metafile = true
 
 [[files]]
 file = "mods/naturally-trimmed.pw.toml"
-hash = "94868d7e6a28553a1f182e638e5d0d336d197c0ba219f96090aa12c96b3ec719"
+hash = "895bff91aab2a689baf38c17826ec2fc4e838cde7e4b7805aabe8e2b4706331e"
 metafile = true
 
 [[files]]
@@ -1080,11 +1098,6 @@ hash = "e661e64b4003d9d3b28e900305c36a91f1deb1a4d840a3c5b889ffd3c445621f"
 metafile = true
 
 [[files]]
-file = "mods/noisium.pw.toml"
-hash = "0b35eacc51808809894ef78b91dfd614e056a34708e4bd2aa6f5ebeb7993a1c0"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "ad4d89ce4c87bfa256d047c31e2d721bb28a2745ae6cea07c76ec60ed7abf4b6"
 metafile = true
@@ -1092,11 +1105,6 @@ metafile = true
 [[files]]
 file = "mods/not-interested.pw.toml"
 hash = "3654cea5e00f8a240fb7efda47b575b450a560ed68b30deba74a25d196e39137"
-metafile = true
-
-[[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "fa28010fe3ba32b1f3e9aed4c432c359ebc54cfbf03196961c66461597f4188c"
 metafile = true
 
 [[files]]
@@ -1125,8 +1133,18 @@ hash = "b564a26a650747e8518b336438fd1335180e26ea61e441446a554aeb311185c7"
 metafile = true
 
 [[files]]
+file = "mods/particle-core.pw.toml"
+hash = "97156c7cbfd94c3f457f5ef89ab65f1b963b1559f98fd3923ab40cf8cc21a905"
+metafile = true
+
+[[files]]
 file = "mods/particle-effects.pw.toml"
 hash = "2d3074953ae4d9bbbd74c257a2bce4ef5d0deebd8f1c55ffb18a37c2d42ceb4f"
+metafile = true
+
+[[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "59929527a55bc610be12ebf89570d1c21d00b5383e84b8f75d950e8c486fbc36"
 metafile = true
 
 [[files]]
@@ -1137,11 +1155,6 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "c0fb35b9b9754549845f905fa6651d7edc5227599bb4e32c4829ca1a975cd93e"
-metafile = true
-
-[[files]]
-file = "mods/physicsmod.pw.toml"
-hash = "784589814777f45f477b565f8e8bfa0066a1968d81d2ed18d206f5115e62598d"
 metafile = true
 
 [[files]]
@@ -1196,7 +1209,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "5f6c009306036c61dc34c62cb45e3ed95274974ac0113ad159a75eba7ccd810c"
+hash = "ce710a786a9bb121c5f937b342810e4f4c3010cb101dd76d6f1cc1715a62348c"
 metafile = true
 
 [[files]]
@@ -1256,7 +1269,7 @@ metafile = true
 
 [[files]]
 file = "mods/seamless.pw.toml"
-hash = "3492ca74cdc795dbcfa4cff6cc9252303e0cd099b55959901b40d4bac9480ff4"
+hash = "c42f17d185f150c9962bed6b9dc0ee6e119ec3b700b7d1a8315e9a9e2481eae4"
 metafile = true
 
 [[files]]
@@ -1295,13 +1308,18 @@ hash = "69d9366753ade6e5dbcbbac31372fae83d6b37b81a63a797a217aa69e97f2992"
 metafile = true
 
 [[files]]
+file = "mods/snow-imprints.pw.toml"
+hash = "0cf10d4264b2a483533f75b658046818692825f3e90c2941da63e9bba8506850"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "1af09f16a643df0f61f2c799e981aa0b8c109999f0784584a6eff9a81f1c00c1"
+hash = "48ac56923e144f079bc9ac17ab65e81bdc3a30395c10f261d303ef61ee51df64"
 metafile = true
 
 [[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "6a9b663f2cd6c3f6f35ee30831a8e577aacc27b1851688d2179c9a20b19bde92"
+hash = "80aad47804d6e56951b271cfb9f9aa0d46af0ccacedab82019c2635669c475e9"
 metafile = true
 
 [[files]]
@@ -1426,12 +1444,12 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "541ec6716fce485f7477407c97dae7d070f9d807d2bd3f70918340c1d6171328"
+hash = "6275631f20f31207c28ee917b9b90b1ce8116b027a07250a4c81bd30f8fdf8e2"
 metafile = true
 
 [[files]]
 file = "mods/variants-and-ventures.pw.toml"
-hash = "aa54f4bfb5aa10d827060679cbff19310fe496d3b2b61a5f624dc5e0cf07048c"
+hash = "d349f58f44522c077ac6c7f4c97032333b9acbbbc55e2f1b047a946a705ce35e"
 metafile = true
 
 [[files]]
@@ -1466,7 +1484,7 @@ metafile = true
 
 [[files]]
 file = "mods/wildlight-compat.pw.toml"
-hash = "a66aa7ff2427d5b6b9a6d243a302eaa14f815feb6dc52cf2a1eab32b141d88f6"
+hash = "7f8fbbfd8f3fd0501e5c02817b20a8ba0f9fa263a41552f2612e97980c1588a2"
 metafile = true
 
 [[files]]
@@ -1556,7 +1574,7 @@ metafile = true
 
 [[files]]
 file = "options-profiles/0. Default/configuration.json"
-hash = "77a00d86bc2a4b150df76f407c30b55e5909c2d9c2be7740bbb9f1c69419e127"
+hash = "d181229c77ed3fac4f21181baa2267281e1de410bcd0b4744d7fe46459e78bb6"
 
 [[files]]
 file = "options-profiles/0. Default/iris.properties"
@@ -1564,7 +1582,7 @@ hash = "1f553f33d538e28bdda0aa96a296ecfe8968ea4e978a56d732162e5634f37400"
 
 [[files]]
 file = "options-profiles/0. Default/options.txt"
-hash = "f966f93c600d255b7e0919cd37b165085b612a63ae68fde17d94a796835ba741"
+hash = "2a0d8ab4cedd0e265f90aa4f1e5d2e016fa16318264075e60de9204e66f2ade7"
 
 [[files]]
 file = "options-profiles/0. Default/sodium-options.json"
@@ -1608,7 +1626,7 @@ hash = "50dc51234d93a1cac2298fb52f3a05276c4ec7e2d4c50ec71c77ae0f65c56b23"
 
 [[files]]
 file = "options-profiles/3. Quality/iris.properties"
-hash = "1897c9d62dc730b517bc11bbba2c4880a96f839af660f4d5cac34f00fb8f514d"
+hash = "b0e72cf92dbc9ede59d0872466a890e9e7b82ac319bafbb347dbc8f6b5816da7"
 
 [[files]]
 file = "options-profiles/3. Quality/options.txt"
@@ -1624,7 +1642,7 @@ hash = "e414f088eec5f6006bfbf3fc88afe73562de58a7298850ae9d3f15fb113ccfd9"
 
 [[files]]
 file = "options.txt"
-hash = "dbdb274ff485a38c4ddc17e27217f54756e997a3998a35c187380f65352d2f87"
+hash = "533766d4aabfe66023071ab6a8cc15608820ad7ff21adf645ed7f54fef04ce3c"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
@@ -1773,7 +1791,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "039796b7190abfcdd7ee0f591fa314033e9cc8308bad85e1ca59ce148e68ada5"
+hash = "f93fa6136e9aea38a023c7c48ecedf6d2baa7d8a89a8f1f952fea34876881c78"
 metafile = true
 
 [[files]]
@@ -1782,6 +1800,10 @@ hash = "c11b7cfc5a360158ba5c09bc1baab31638dd955028acca7fc5d2985a87491043"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.8.1 + EuphoriaPatches_1.9.2.txt"
+hash = "06575fd37b82a3af22df2fb4d9dbcea8f071dc6f857903e9166c0292f6ff8606"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.8.1 + EuphoriaPatches_1.9.3.txt"
 hash = "06575fd37b82a3af22df2fb4d9dbcea8f071dc6f857903e9166c0292f6ff8606"
 
 [[files]]

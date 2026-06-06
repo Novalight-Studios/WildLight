@@ -1,13 +1,13 @@
 name = "Better Slots"
-filename = "better-slots-fabric-1.21.1-1.0.1.jar"
+filename = "better-slots-fabric-1.20.1-1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/FfJwv52l/versions/BJTExz6V/better-slots-fabric-1.21.1-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/FfJwv52l/versions/YphJ0v41/better-slots-fabric-1.20.1-1.0.2.jar"
 hash-format = "sha512"
-hash = "bdd7420c8202e894a7e1a74c42fc11f9e31a4fd0807a3038d41e810871a0dde23667e464d9512e6054b5ead05ff64353245ad52a36fee7e4f79e3cd220e03aa1"
+hash = "a11ce5b3cce7397aad8d49822769dc0120dc9861e265a7bdb635833c126ed9a385be5e14e88d23c6652ec7a992832ce1fb172cc962785f779e520fdd918c1fb6"
 
 [update]
 [update.modrinth]
 mod-id = "FfJwv52l"
-version = "BJTExz6V"
+version = "YphJ0v41"

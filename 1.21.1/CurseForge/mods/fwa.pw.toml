@@ -1,13 +1,13 @@
 name = "Fancy World Animations"
-filename = "fwa+1.21.1-1.2.23.jar"
+filename = "fwa+1.21.1-1.2.24.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a067baf6ff3d86d4bc5b056ea28742055ad7236c"
+hash = "fd777527c50ef15eabaa8f482cda59e26b5542d4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8124926
+file-id = 8187070
 project-id = 1452982

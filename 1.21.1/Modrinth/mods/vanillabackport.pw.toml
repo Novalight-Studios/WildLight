@@ -1,13 +1,13 @@
 name = "Vanilla Backport"
-filename = "VanillaBackport-fabric-1.21.1-1.1.7.6.jar"
+filename = "VanillaBackport-fabric-1.21.1-1.1.7.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6xwxDTgf/versions/u3bUrtlS/VanillaBackport-fabric-1.21.1-1.1.7.6.jar"
+url = "https://cdn.modrinth.com/data/6xwxDTgf/versions/20GRfHQN/VanillaBackport-fabric-1.21.1-1.1.7.7.jar"
 hash-format = "sha512"
-hash = "bf946d22b9b9a3f20fc2ad6928d9e5525d95c9f35e753549f60286fa98f53c688f30d53c23e366e037b99e9c85c6a22232c215e25cd02b107fde6c5e68c49d54"
+hash = "4a733b40f2f1bfdf77adfd47bffd4eeb253a1de45fc057b0690f3b1bc2c4fde9ed131af4ed8b2ac0ad973829778718ff47da83d10dc014c3248246c1f2d24294"
 
 [update]
 [update.modrinth]
 mod-id = "6xwxDTgf"
-version = "u3bUrtlS"
+version = "20GRfHQN"

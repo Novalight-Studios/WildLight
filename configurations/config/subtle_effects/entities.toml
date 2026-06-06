@@ -111,7 +111,7 @@ creeperSmoke = "UPDATED"
 creeperSparks = true
 
 [splashes]
-splashEffects = true
+splashEffects = false
 splashRipples = true
 splashDroplets = true
 splashDropletSounds = true

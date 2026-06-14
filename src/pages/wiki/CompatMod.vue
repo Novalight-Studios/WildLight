@@ -24,22 +24,6 @@ onMounted(() => {
       </p>
       <ul>
         <li>
-          <a href="https://modrinth.com/project/Xy8aRQKS" target="_blank">Physics Mod</a> and Breeze
-          mobs: breeze particles were buggy, ground particles were to big.
-        </li>
-        <li>
-          <a href="https://modrinth.com/project/Xy8aRQKS" target="_blank">Physics Mod</a> and
-          <a href="https://modrinth.com/project/fnAffV0n" target="_blank">Deeper and Darker</a>:
-          portal particles were buggy, reinforced deepslate particles appeared instead of the portal
-          ones (see
-          <a href="https://github.com/haubna/PhysicsMod/issues/1099" target="_blank">#1099</a>).
-        </li>
-        <li>
-          <a href="https://modrinth.com/project/Xy8aRQKS" target="_blank">Physics Mod</a> and
-          <a href="https://modrinth.com/project/POQ2i9zu" target="_blank">Friends and Foes</a>:
-          wildfire particles were buggy, ground particles appeared instead of the mob ones.
-        </li>
-        <li>
           <a href="https://modrinth.com/project/idGcORfw" target="_blank"
             >Detail Armor Bar Compat</a
           >
@@ -49,6 +33,15 @@ onMounted(() => {
             >pull request #19</a
           >.
         </li>
+        <li>
+          <a href="https://modrinth.com/project/idGcORfw" target="_blank"
+            >Detail Armor Bar Compat</a
+          >
+          and
+          <a href="https://modrinth.com/project/a1llHwl4" target="_blank">Copper Age Backport</a>:
+          the armors were not compatible.
+        </li>
+
         <li>
           <a href="https://modrinth.com/project/YQnwl5Vv" target="_blank">Visual Overhaul</a> and
           all modded woods: the wood in the furnace wasn't textured. Waiting for

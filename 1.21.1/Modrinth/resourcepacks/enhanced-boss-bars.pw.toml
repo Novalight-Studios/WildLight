@@ -1,13 +1,13 @@
 name = "Enhanced Boss Bars"
-filename = "[1.5] Enhanced Boss Bars.zip"
+filename = "[1.6] Enhanced Boss Bars.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/U5SedJ9S/versions/hCwfKdKs/%5B1.5%5D%20Enhanced%20Boss%20Bars.zip"
+url = "https://cdn.modrinth.com/data/U5SedJ9S/versions/4dNK8b2b/%5B1.6%5D%20Enhanced%20Boss%20Bars.zip"
 hash-format = "sha512"
-hash = "ad9ef55aa64257bc7730cf1f4008b2f100ae745f8245ea6896bc5b6376b19de1c90d5ecc9e63be36801dd55e876d9b772640e12924d8cc19878f29139ec062ad"
+hash = "b1ba1ab0235b33eb650931c0e0534c552a6c720962f11972a00f7bbbbfdf3560c56e07e9f700e18f7531a4ce03a2f4266c5e62c6694ee9fd38cebb976fa5d919"
 
 [update]
 [update.modrinth]
 mod-id = "U5SedJ9S"
-version = "hCwfKdKs"
+version = "4dNK8b2b"

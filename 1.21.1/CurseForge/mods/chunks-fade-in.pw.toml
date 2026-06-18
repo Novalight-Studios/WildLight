@@ -1,13 +1,13 @@
 name = "Chunks fade in"
-filename = "chunksfadein-fabric-3.0.21-1.21.jar"
+filename = "chunksfadein-fabric-3.0.23-1.21.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "369163e58456c70dff66628e64c2c8d5c0d2494e"
+hash = "c6cab2c2462e9fce9ae1d49d1c418285c9499aa6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8138547
+file-id = 8213744
 project-id = 720811

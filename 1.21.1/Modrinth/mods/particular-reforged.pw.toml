@@ -1,0 +1,13 @@
+name = "Particular ✨ Reforged"
+filename = "particular-1.21.1-Fabric-1.5.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pYFUU6cq/versions/PASRyKTR/particular-1.21.1-Fabric-1.5.5.jar"
+hash-format = "sha512"
+hash = "182ce2f586af8100a7e492eaa695a37581ef0e7b7a9c7003e8a502c10c41f158cb00eb302ff3c77a87aa959c1cfc246e72ea4f7ce9b772b5815eac4b957f19e1"
+
+[update]
+[update.modrinth]
+mod-id = "pYFUU6cq"
+version = "PASRyKTR"

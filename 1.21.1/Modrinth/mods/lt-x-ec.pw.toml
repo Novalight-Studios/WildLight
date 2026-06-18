@@ -1,13 +1,13 @@
 name = "Legendary Tooltips x Equipment Compare"
-filename = "lt-x-ec-1.0.0.jar"
+filename = "ltxec-fabric-1.0.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/gCfAwaai/versions/kqQnUMYe/lt-x-ec-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/gCfAwaai/versions/Zj8OtcLg/ltxec-fabric-1.0.1.jar"
 hash-format = "sha512"
-hash = "d89814cde06ab0181e2efb7accf65ae2998fa670f0941b5d8c9d3af503a86ab26557f028c449ad4ea589024f2db2422b1277d22f30c28e5272cd0dabdb888583"
+hash = "e943b4e4e42cefc7072f3769eb247f5f445d6a2a5aef480e6770fe388c2647496a9df4a5c862058ffc72de4db219f23c4ee93215d7414112492d39331362258c"
 
 [update]
 [update.modrinth]
 mod-id = "gCfAwaai"
-version = "kqQnUMYe"
+version = "Zj8OtcLg"

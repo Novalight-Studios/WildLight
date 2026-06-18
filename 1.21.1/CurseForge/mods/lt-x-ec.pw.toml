@@ -1,13 +1,13 @@
 name = "Legendary Tooltips x Equipment Compare"
-filename = "lt-x-ec-1.0.0.jar"
+filename = "ltxec-fabric-1.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "71e5aa679f4d46dbbe810956adea149f10c5e807"
+hash = "0f9ee657b33896133e022516d914fd945e071202"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7633032
+file-id = 8247390
 project-id = 1463769

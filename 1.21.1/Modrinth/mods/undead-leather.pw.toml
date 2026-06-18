@@ -1,0 +1,13 @@
+name = "Undead Leather"
+filename = "UndeadLeather-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P0Iv9AVc/versions/32suzcf9/UndeadLeather-1.0.3.jar"
+hash-format = "sha512"
+hash = "97985b31ac9255215c46ebcde0f539dab2f2eb9fdf3b03edfc5509dacd583f399a4c5f8b548070f773fdf066f49ae38a53040d4f05ac9926823ed2a1df6b26ee"
+
+[update]
+[update.modrinth]
+mod-id = "P0Iv9AVc"
+version = "32suzcf9"

@@ -1,0 +1,13 @@
+name = "Undead Leather"
+filename = "UndeadLeather-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "38c5ec965c5c62aa64329c640b42d8bc24e8f171"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6709538
+project-id = 1212205

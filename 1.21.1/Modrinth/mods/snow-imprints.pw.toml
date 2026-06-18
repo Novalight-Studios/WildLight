@@ -1,13 +1,13 @@
 name = "Soft Imprints"
-filename = "softimprints-fabric-1.21.1-2.5.01.jar"
+filename = "softimprints-fabric-1.21.1-2.6.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/UhxJgB1o/versions/IIXZQ5Xm/softimprints-fabric-1.21.1-2.5.01.jar"
+url = "https://cdn.modrinth.com/data/UhxJgB1o/versions/1jgQNt70/softimprints-fabric-1.21.1-2.6.0.jar"
 hash-format = "sha512"
-hash = "5475ff3af4c8f0919a7cba735d7f80524ad7762d28e4bc35124307206ee055e6b8e8edff9e1141dacfc8725f5c6c8033b5c0d0b644e2a1d9e5c10f62d2603955"
+hash = "6e130bf048372513e770a7b8c2ecfe43b757efc19edc645fe80b3806bdc63a80bcad7b8b4abb0e89d57865d91a15fb16464e7c6b98adda7566eb4ad27d0eee4e"
 
 [update]
 [update.modrinth]
 mod-id = "UhxJgB1o"
-version = "IIXZQ5Xm"
+version = "1jgQNt70"

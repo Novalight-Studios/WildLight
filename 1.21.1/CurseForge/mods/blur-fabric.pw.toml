@@ -1,13 +1,13 @@
 name = "Blur+"
-filename = "blur-fabric-6.2.0+1.21.1.jar"
+filename = "blur-fabric-6.3.0+1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f7f49edb98d7e25f8beee4e691c9a7ae178b34dd"
+hash = "4cd90e82014008f6b604c3f0d654ef76eac2b05c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7655025
+file-id = 8242379
 project-id = 393563

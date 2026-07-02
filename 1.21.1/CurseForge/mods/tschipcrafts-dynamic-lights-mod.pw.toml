@@ -1,13 +1,13 @@
-name = "Dynamic Lights [Server] [Fabric/Quilt/Forge/NeoForge]"
-filename = "dynamiclights-v1.9.2-mc1.17-26.1.1-mod.jar"
+name = "Dynamic Lights [Server] [Fabric/NeoForge]"
+filename = "dynamiclights-v1.9.3-mc1.17-26.2.9-mod.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5a93379aea413209731701f7c2ee2c4961766479"
+hash = "4194919ace5fa7764af6f8f0f85500f664e5f0bd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7875448
+file-id = 8313020
 project-id = 910095

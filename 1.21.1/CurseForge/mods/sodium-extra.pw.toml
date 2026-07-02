@@ -1,6 +1,7 @@
 name = "Sodium Extra"
 filename = "sodium-extra-fabric-0.8.7+mc1.21.1.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

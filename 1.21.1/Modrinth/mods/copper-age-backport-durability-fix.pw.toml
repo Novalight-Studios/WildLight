@@ -1,0 +1,13 @@
+name = "Copper Age Backport Durability Fix"
+filename = "copperagebackport_durability_fix-fabric-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sH7YRQbz/versions/Uacz9jxf/copperagebackport_durability_fix-fabric-0.1.0.jar"
+hash-format = "sha512"
+hash = "b27609f08dda8c761e780c9a2e2e205adf4c8637775ce5ff8165279d54a1f770cdcd3c37116c3395ddc5a0dbdc29bdcc35a862c834b8bc728bb3632c2bacfd89"
+
+[update]
+[update.modrinth]
+mod-id = "sH7YRQbz"
+version = "Uacz9jxf"

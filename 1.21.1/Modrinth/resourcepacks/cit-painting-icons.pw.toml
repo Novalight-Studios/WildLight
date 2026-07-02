@@ -1,0 +1,13 @@
+name = "CIT Painting Icons"
+filename = "CIT Painting Icons (1.20.5-1.21.4) v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dWloHgVp/versions/NET358rG/CIT%20Painting%20Icons%20%281.20.5-1.21.4%29%20v1.0.0.zip"
+hash-format = "sha512"
+hash = "aa445ed1190c9a90c529bd8d10a2537917fa7b75be3197fc95f2be6983904233c773c71fde1a8dbc454acba95ee057c856c906fb4027a34678300b00844851a0"
+
+[update]
+[update.modrinth]
+mod-id = "dWloHgVp"
+version = "NET358rG"

@@ -8,7 +8,7 @@ Step into a world where survival meets subtle beauty. In WildLight, every sound,
 
 Put on your headphones and listen to the beautiful, magical sounds of nature. With mods like **AmbientSounds** for natural ambience, **Presence Footsteps** that add unique walking sounds, and **Sound Physics Remastered** which makes audio more realistic, you'll feel more immersed in the game more than ever before.
 
-For visuals, countless new particles and stunning shaders make the world more breathtaking than ever. **Particular** add beautiful little animations that make the game feel alive, with waterfalls, falling leaves, and so much more. I also love **Subtle Effect**, it makes fire look truly magical. And of course, with **Iris** for shaders and **Complementary Unbound** enhanced by **Euphoria Patches**, every visual detail looks absolutely incredible.
+For visuals, countless new particles and stunning shaders make the world more breathtaking than ever. **Particular** add beautiful little animations that make the game feel alive, with waterfalls, falling leaves, and so much more. I also love **Subtle Effects**, it makes fire look truly magical. And of course, with **Iris** for shaders and **Complementary Unbound** enhanced by **Euphoria Patches**, every visual detail looks absolutely incredible.
 
 ### 🌄 Diverse new landscapes and discoveries 🔍
 

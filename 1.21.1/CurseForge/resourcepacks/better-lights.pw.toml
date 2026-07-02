@@ -1,0 +1,14 @@
+name = "Better Lights"
+filename = "§6Better Lights.zip"
+side = "client"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/3MCobCxw/versions/8MZN6yoo/%C2%A76Better%20Lights.zip"
+hash-format = "sha512"
+hash = "aa17c1f64f0b78c4c958c513e1241600cdd12fa208e77cda5741262f6b559825c0c21f1d1d186207db584e54d2cb99d1f46ee54418d5000a608734685ec350af"
+
+[update]
+[update.modrinth]
+mod-id = "3MCobCxw"
+version = "8MZN6yoo"

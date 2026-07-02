@@ -1,0 +1,13 @@
+name = "Copper Age Backport Durability Fix"
+filename = "copperagebackport_durability_fix-fabric-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "66136779a08acd68bf5352bd2ce0673088e25c81"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7997307
+project-id = 1526218

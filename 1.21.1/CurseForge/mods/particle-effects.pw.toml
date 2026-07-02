@@ -1,13 +1,13 @@
 name = "Particle Effects"
-filename = "ParticleEffects-1.4.0+1.21.1+fabric.jar"
+filename = "ParticleEffects-1.5.0+1.21.1+fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f8a8ffa343816b5330d1c332218506ae0113e544"
+hash = "9f87706ca551c9fb9a082d6017e425474290debc"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8017619
+file-id = 8325464
 project-id = 1120746

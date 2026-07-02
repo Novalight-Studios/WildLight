@@ -1,0 +1,13 @@
+name = "Default 3D Compat"
+filename = "3D-Default-Compat.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "79da98775ee7e6d3fcdda8d3fd857e6e3863c645"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8358243
+project-id = 1583515

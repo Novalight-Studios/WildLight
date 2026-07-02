@@ -1,0 +1,13 @@
+name = "3D Default Compat"
+filename = "3D-Default-Compat.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yHnAkckW/versions/KB40zzH4/3D-Default-Compat.zip"
+hash-format = "sha512"
+hash = "716463d1094e6471ea64910a6d6cafc646f2fea36454ba01da3166883a524433d39444d27410d62750d35baf40b7473484b3260e14d030ad363a85d342467815"
+
+[update]
+[update.modrinth]
+mod-id = "yHnAkckW"
+version = "KB40zzH4"

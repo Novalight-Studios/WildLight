@@ -99,7 +99,7 @@
     advanced: {
         tooltips: {
             // Declares whether REI should append mod names to entries.
-            appendModNames: true,
+            appendModNames: false,
             // Declares whether favorites tooltip should be displayed.
             displayFavoritesTooltip: false,
             displayIMEHints: true,

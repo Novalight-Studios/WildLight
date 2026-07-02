@@ -1,0 +1,13 @@
+name = "Biome Spawn Point"
+filename = "biomespawnpoint-1.21.1-2.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/mtfbtanr/versions/WCzp4bMK/biomespawnpoint-1.21.1-2.4.jar"
+hash-format = "sha512"
+hash = "da8fd49be669c68636372ad1d7546eab2342e15f9b645224ac341ef4600ad40546d39e81f3ff3f3a47063cd433742a588f17a27fc256753308fe1a4db9fa5fbb"
+
+[update]
+[update.modrinth]
+mod-id = "mtfbtanr"
+version = "WCzp4bMK"

@@ -5,80 +5,83 @@ import { onMounted, ref } from 'vue'
 const latestVersion = ref<string | null>(null)
 
 onMounted(async () => {
-  const nav = document.querySelector('nav')
-  const main = document.querySelector('main')
-  if (nav && main) {
-    main.style.paddingTop = nav.offsetHeight + 'px'
-  }
+	const nav = document.querySelector('nav')
+	const main = document.querySelector('main')
+	if (nav && main) {
+		main.style.paddingTop = nav.offsetHeight + 'px'
+	}
 
-  try {
-    const res = await fetch(
-      'https://api.github.com/repos/Novalight-Studios/WildLight/releases/latest',
-    )
-    const data = await res.json()
-    latestVersion.value = data.tag_name.split('v')[1] // "X.X.X"
-  } catch (e) {
-    latestVersion.value = null
-  }
+	try {
+		const res = await fetch(
+			'https://api.github.com/repos/Novalight-Studios/WildLight/releases/latest',
+		)
+		const data = await res.json()
+		latestVersion.value = data.tag_name.split('v')[1] // "X.X.X"
+	} catch (e) {
+		latestVersion.value = null
+	}
 })
 </script>
 
 <template>
-  <main>
-    <WikiNav />
-    <section class="wiki-content">
-      <h1>Versions</h1>
-      <h2>Minecraft Version</h2>
-      <p>
-        This modpack uses <strong>Minecraft 1.21.1</strong>
-        <br />
-        Other versions of Minecraft are not supported. I plan to support a future version in which
-        Vulkan will be supported.
-      </p>
-      <h2>Fabric Version</h2>
-      <p>This modpack use <strong>Fabric 0.19.2</strong></p>
-      <h2>WildLight Version</h2>
-      <p>
-        The latest version of the modpack is <strong>{{ latestVersion }}</strong
-        >.
-      </p>
-      <h2>Modpack Versioning Scheme</h2>
-      <ul>
-        <li>
-          <strong>x.x.X</strong> &mdash; Update, remove, or change a mod, resource pack, shader, or
-          config.<br />
-          <em>(Example: 1.0.<b>1</b> &rarr; updated a mod or config)</em>
-        </li>
-        <li>
-          <strong>x.X.x</strong> &mdash; Add a new mod, resource pack, or shader.<br />
-          <em>(Example: 1.<b>1</b>.0 &rarr; added a new shader)</em>
-        </li>
-        <li>
-          <strong>X.x.x</strong> &mdash; Add a new dimension or theme to the modpack.<br />
-          <em>(Example: <b>2</b>.0.0 &rarr; added a new theme: better immersion in the world)</em>
-        </li>
-      </ul>
-      <p>
-        This versioning helps you track what kind of changes have been made to the modpack with each
-        release.
-      </p>
-    </section>
-  </main>
+	<main>
+		<WikiNav />
+		<section class="wiki-content">
+			<h1>Versions</h1>
+			<h2>Minecraft Version</h2>
+			<p>
+				This modpack uses <strong>Minecraft 1.21.1</strong>
+				<br />
+				Other versions of Minecraft are not supported. I plan to support a future version in
+				which Vulkan will be supported.
+			</p>
+			<h2>Fabric Version</h2>
+			<p>This modpack use <strong>Fabric 0.19.2</strong></p>
+			<h2>WildLight Version</h2>
+			<p>
+				The latest version of the modpack is <strong>{{ latestVersion }}</strong
+				>.
+			</p>
+			<h2>Modpack Versioning Scheme</h2>
+			<ul>
+				<li>
+					<strong>x.x.X</strong> &mdash; Update, remove, or change a mod, resource pack,
+					shader, or config.<br />
+					<em>(Example: 1.0.<b>1</b> &rarr; updated a mod or config)</em>
+				</li>
+				<li>
+					<strong>x.X.x</strong> &mdash; Add a new mod, resource pack, or shader.<br />
+					<em>(Example: 1.<b>1</b>.0 &rarr; added a new shader)</em>
+				</li>
+				<li>
+					<strong>X.x.x</strong> &mdash; Add a new dimension or theme to the modpack.<br />
+					<em
+						>(Example: <b>2</b>.0.0 &rarr; added a new theme: better immersion in the
+						world)</em
+					>
+				</li>
+			</ul>
+			<p>
+				This versioning helps you track what kind of changes have been made to the modpack
+				with each release.
+			</p>
+		</section>
+	</main>
 </template>
 
 <style scoped>
 main {
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  width: 100vw;
-  max-width: 100vw;
-  box-sizing: border-box;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	width: 100vw;
+	max-width: 100vw;
+	box-sizing: border-box;
 }
 
 @media (max-width: 1024px) {
-  main {
-    flex-direction: column;
-  }
+	main {
+		flex-direction: column;
+	}
 }
 </style>

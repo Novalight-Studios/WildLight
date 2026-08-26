@@ -3,124 +3,158 @@ import WikiNav from '../../components/WikiNav.vue'
 import { onMounted } from 'vue'
 
 onMounted(() => {
-  const nav = document.querySelector('nav')
-  const main = document.querySelector('main')
-  if (nav && main) {
-    main.style.paddingTop = nav.offsetHeight + 'px'
-  }
+	const nav = document.querySelector('nav')
+	const main = document.querySelector('main')
+	if (nav && main) {
+		main.style.paddingTop = nav.offsetHeight + 'px'
+	}
 })
 </script>
 
 <template>
-  <main>
-    <WikiNav />
-    <section class="wiki-content">
-      <h1>Resource Packs compatibility</h1>
-      <p>
-        <a href="https://github.com/Novalight-Studios/WildLight-Compat" target="_blank"
-          >WildLight Compat</a
-        >
-        adds some compatibility fixes between:
-      </p>
-      <ul>
-        <li>
-          <a href="https://modrinth.com/project/sQCUH0Mr" target="_blank"
-            >Recolourful Containers GUI + HUD (DARK)</a
-          >
-          with:
-          <ul>
-            <li>
-              <a href="https://modrinth.com/project/bRFWnJ87" target="_blank"
-                >Animal Feeding Trough</a
-              >
-            </li>
-            <li>
-              <a href="https://modrinth.com/project/IhBYAM6m" target="_blank"
-                >Enhanced Workbenches</a
-              >
-            </li>
-            <li>
-              <a href="https://modrinth.com/project/4I1XuqiY" target="_blank"
-                >Entity Model Features</a
-              >
-            </li>
-            <li>
-              <a href="https://modrinth.com/project/mOgUt4GM" target="_blank">Mod Menu</a>
-            </li>
-            <li>
-              <a href="https://modrinth.com/project/j7Ux0G0U" target="_blank">Not Interested!</a>
-            </li>
-            <li>
-              <a href="https://modrinth.com/project/tagwiZkJ" target="_blank">Polymorph</a>
-            </li>
-            <li>
-              <a href="https://modrinth.com/project/VLAWWg1B" target="_blank">Useful Backpacks</a>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <a href="https://modrinth.com/project/O7z3QKAG">Icons</a> with:
-          <ul>
-            <li><a href="https://modrinth.com/project/mOgUt4GM" target="_blank">Mod Menu</a></li>
-            <li>
-              <a href="https://modrinth.com/project/DnyS3EEW" target="_blank">Options Profiles</a>
-            </li>
-            <li><a href="https://modrinth.com/project/AANobbMI" target="_blank">Sodium</a></li>
-            <li><a href="https://modrinth.com/project/ZouiUX7t" target="_blank">Sounds</a></li>
-          </ul>
-        </li>
-        <li>
-          <a href="https://modrinth.com/project/6xwxDTgf" target="_blank">Vanilla Backport</a> with:
-          <ul>
-            <li>
-              <a href="https://modrinth.com/project/AtHRJSUW" target="_blank">Wilder Wild</a> (spawn
-              eggs from newer versions)
-            </li>
-          </ul>
-        </li>
-        <li>
-          <a href="https://modrinth.com/project/8AX2hHnX" target="_blank">Simple Music Control</a>
-          with:
-          <ul>
-            <li>
-              <a href="https://modrinth.com/project/AtHRJSUW" target="_blank">Wilder Wild</a> (music
-              names)
-            </li>
-            <li>
-              <a href="https://modrinth.com/project/6xwxDTgf" target="_blank">Vanilla Backport</a>
-              (music names)
-            </li>
-          </ul>
-        </li>
-        <li>
-          <a href="https://modrinth.com/project/3MCobCxw" target="_blank">Better Lights</a>: a bug
-          with chains
-        </li>
-        <li>
-          <a href="https://modrinth.com/project/nvQzSEkH" target="_blank">Jade</a>: some animals
-          didn't have a name
-        </li>
-        <li>
-          <a href="https://modrinth.com/project/dWloHgVp" target="_blank">CIT Painting Icons</a>:
-          icon for Dennis variant
-        </li>
-      </ul>
-    </section>
-  </main>
+	<main>
+		<WikiNav />
+		<section class="wiki-content">
+			<h1>Resource Packs compatibility</h1>
+			<p>
+				<a href="https://github.com/Novalight-Studios/WildLight-Compat" target="_blank"
+					>WildLight Compat</a
+				>
+				adds some compatibility fixes between:
+			</p>
+			<ul>
+				<li>
+					<a href="https://modrinth.com/project/sQCUH0Mr" target="_blank"
+						>Recolourful Containers GUI + HUD (DARK)</a
+					>
+					with:
+					<ul>
+						<li>
+							<a href="https://modrinth.com/project/bRFWnJ87" target="_blank"
+								>Animal Feeding Trough</a
+							>
+						</li>
+						<li>
+							<a href="https://modrinth.com/project/IhBYAM6m" target="_blank"
+								>Enhanced Workbenches</a
+							>
+						</li>
+						<li>
+							<a href="https://modrinth.com/project/4I1XuqiY" target="_blank"
+								>Entity Model Features</a
+							>
+						</li>
+						<li>
+							<a href="https://modrinth.com/project/mOgUt4GM" target="_blank"
+								>Mod Menu</a
+							>
+						</li>
+						<li>
+							<a href="https://modrinth.com/project/j7Ux0G0U" target="_blank"
+								>Not Interested!</a
+							>
+						</li>
+						<li>
+							<a href="https://modrinth.com/project/tagwiZkJ" target="_blank"
+								>Polymorph</a
+							>
+						</li>
+						<li>
+							<a href="https://modrinth.com/project/VLAWWg1B" target="_blank"
+								>Useful Backpacks</a
+							>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a href="https://modrinth.com/project/O7z3QKAG">Icons</a> with:
+					<ul>
+						<li>
+							<a href="https://modrinth.com/project/mOgUt4GM" target="_blank"
+								>Mod Menu</a
+							>
+						</li>
+						<li>
+							<a href="https://modrinth.com/project/DnyS3EEW" target="_blank"
+								>Options Profiles</a
+							>
+						</li>
+						<li>
+							<a href="https://modrinth.com/project/AANobbMI" target="_blank"
+								>Sodium</a
+							>
+						</li>
+						<li>
+							<a href="https://modrinth.com/project/ZouiUX7t" target="_blank"
+								>Sounds</a
+							>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a href="https://modrinth.com/project/6xwxDTgf" target="_blank"
+						>Vanilla Backport</a
+					>
+					with:
+					<ul>
+						<li>
+							<a href="https://modrinth.com/project/AtHRJSUW" target="_blank"
+								>Wilder Wild</a
+							>
+							(spawn eggs from newer versions)
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a href="https://modrinth.com/project/8AX2hHnX" target="_blank"
+						>Simple Music Control</a
+					>
+					with:
+					<ul>
+						<li>
+							<a href="https://modrinth.com/project/AtHRJSUW" target="_blank"
+								>Wilder Wild</a
+							>
+							(music names)
+						</li>
+						<li>
+							<a href="https://modrinth.com/project/6xwxDTgf" target="_blank"
+								>Vanilla Backport</a
+							>
+							(music names)
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a href="https://modrinth.com/project/3MCobCxw" target="_blank">Better Lights</a
+					>: a bug with chains
+				</li>
+				<li>
+					<a href="https://modrinth.com/project/nvQzSEkH" target="_blank">Jade</a>: some
+					animals didn't have a name
+				</li>
+				<li>
+					<a href="https://modrinth.com/project/dWloHgVp" target="_blank"
+						>CIT Painting Icons</a
+					>: icon for Dennis variant
+				</li>
+			</ul>
+		</section>
+	</main>
 </template>
 
 <style scoped>
 main {
-  flex-direction: row;
-  align-items: flex-start;
-  width: 100vw;
-  max-width: 100vw;
-  box-sizing: border-box;
+	flex-direction: row;
+	align-items: flex-start;
+	width: 100vw;
+	max-width: 100vw;
+	box-sizing: border-box;
 }
 
 @media (max-width: 1024px) {
-  main {
-    flex-direction: column;
-  }
+	main {
+		flex-direction: column;
+	}
 }
 </style>

@@ -12,66 +12,66 @@ import CompatModView from '../pages/wiki/CompatMod.vue'
 import CompatRPView from '../pages/wiki/CompatRP.vue'
 
 const routes = [
-  {
-    path: '/',
-    name: 'Home',
-    component: HomeView,
-  },
-  {
-    path: '/wiki',
-    name: 'Wiki',
-    component: WikiView,
-  },
-  {
-    path: '/wiki/install',
-    name: 'Install',
-    component: InstallView,
-  },
-  {
-    path: '/wiki/mods',
-    name: 'Mods',
-    component: ModsView,
-  },
-  {
-    path: '/wiki/bugs',
-    name: 'Bugs',
-    component: BugsView,
-  },
-  {
-    path: '/wiki/versions',
-    name: 'Versions',
-    component: VersionsView,
-  },
-  {
-    path: '/wiki/config',
-    name: 'Configurations',
-    component: ConfigView,
-  },
-  {
-    path: '/wiki/credits',
-    name: 'Credits',
-    component: CreditsView,
-  },
-  {
-    path: '/wiki/tools',
-    name: 'Tools',
-    component: ToolsView,
-  },
-  {
-    path: '/wiki/mods-compat',
-    name: 'Mods Compatibility',
-    component: CompatModView,
-  },
-  {
-    path: '/wiki/rp-compat',
-    name: 'Resourec Packs Compatibility',
-    component: CompatRPView,
-  },
+	{
+		path: '/',
+		name: 'Home',
+		component: HomeView,
+	},
+	{
+		path: '/wiki',
+		name: 'Wiki',
+		component: WikiView,
+	},
+	{
+		path: '/wiki/install',
+		name: 'Install',
+		component: InstallView,
+	},
+	{
+		path: '/wiki/mods',
+		name: 'Mods',
+		component: ModsView,
+	},
+	{
+		path: '/wiki/bugs',
+		name: 'Bugs',
+		component: BugsView,
+	},
+	{
+		path: '/wiki/versions',
+		name: 'Versions',
+		component: VersionsView,
+	},
+	{
+		path: '/wiki/config',
+		name: 'Configurations',
+		component: ConfigView,
+	},
+	{
+		path: '/wiki/credits',
+		name: 'Credits',
+		component: CreditsView,
+	},
+	{
+		path: '/wiki/tools',
+		name: 'Tools',
+		component: ToolsView,
+	},
+	{
+		path: '/wiki/mods-compat',
+		name: 'Mods Compatibility',
+		component: CompatModView,
+	},
+	{
+		path: '/wiki/rp-compat',
+		name: 'Resourec Packs Compatibility',
+		component: CompatRPView,
+	},
 ]
 
 const router = createRouter({
-  history: createWebHistory('/WildLight/'),
-  routes,
+	history: createWebHistory('/WildLight/'),
+	routes,
 })
 
 export default router

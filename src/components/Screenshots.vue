@@ -1,7 +1,7 @@
 <script setup>
 import { ref, onMounted } from 'vue'
-import ArrowLeft from './icons/arrow-left.vue'
-import ArrowRight from './icons/arrow-right.vue'
+import ArrowLeft from './icons/ArrowLeft.vue'
+import ArrowRight from './icons/ArrowRight.vue'
 
 const current = ref(0)
 const screenshots = ref([])

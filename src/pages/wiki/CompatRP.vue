@@ -51,6 +51,9 @@ onMounted(() => {
               <a href="https://modrinth.com/project/j7Ux0G0U" target="_blank">Not Interested!</a>
             </li>
             <li>
+              <a href="https://modrinth.com/project/tagwiZkJ" target="_blank">Polymorph</a>
+            </li>
+            <li>
               <a href="https://modrinth.com/project/VLAWWg1B" target="_blank">Useful Backpacks</a>
             </li>
           </ul>
@@ -62,7 +65,6 @@ onMounted(() => {
             <li>
               <a href="https://modrinth.com/project/DnyS3EEW" target="_blank">Options Profiles</a>
             </li>
-            <li><a href="https://modrinth.com/project/Xy8aRQKS" target="_blank">Physics Mod</a></li>
             <li><a href="https://modrinth.com/project/AANobbMI" target="_blank">Sodium</a></li>
             <li><a href="https://modrinth.com/project/ZouiUX7t" target="_blank">Sounds</a></li>
           </ul>
@@ -84,7 +86,23 @@ onMounted(() => {
               <a href="https://modrinth.com/project/AtHRJSUW" target="_blank">Wilder Wild</a> (music
               names)
             </li>
+            <li>
+              <a href="https://modrinth.com/project/6xwxDTgf" target="_blank">Vanilla Backport</a>
+              (music names)
+            </li>
           </ul>
+        </li>
+        <li>
+          <a href="https://modrinth.com/project/3MCobCxw" target="_blank">Better Lights</a>: a bug
+          with chains
+        </li>
+        <li>
+          <a href="https://modrinth.com/project/nvQzSEkH" target="_blank">Jade</a>: some animals
+          didn't have a name
+        </li>
+        <li>
+          <a href="https://modrinth.com/project/dWloHgVp" target="_blank">CIT Painting Icons</a>:
+          icon for Dennis variant
         </li>
       </ul>
     </section>

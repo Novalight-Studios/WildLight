@@ -12,7 +12,9 @@ onMounted(async () => {
   }
 
   try {
-    const res = await fetch('https://api.github.com/repos/Alfakynz/WildLight/releases/latest')
+    const res = await fetch(
+      'https://api.github.com/repos/Novalight-Studios/WildLight/releases/latest',
+    )
     const data = await res.json()
     latestVersion.value = data.tag_name.split('v')[1] // "X.X.X"
   } catch (e) {

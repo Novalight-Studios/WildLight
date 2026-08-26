@@ -50,6 +50,39 @@ onMounted(() => {
           >.
         </li>
         <li>
+          <a href="https://modrinth.com/project/4q8UOK1d" target="_blank">Subtle Effects</a> and
+          <a href="https://modrinth.com/project/a1llHwl4" target="_blank">Copper Age Backport</a>:
+          wrong particles on lights
+        </li>
+        <li>
+          <a href="https://modrinth.com/project/4q8UOK1d" target="_blank">Subtle Effects</a> and
+          <a href="https://modrinth.com/project/fnAffV0n" target="_blank">Deeper and Darker</a>:
+          Sludge trail particles
+        </li>
+        <li>
+          <a href="https://modrinth.com/project/4q8UOK1d" target="_blank">Subtle Effects</a> and
+          <a href="https://modrinth.com/project/XHXMTS5X" target="_blank">Soul Candles</a>:
+          particles on candles
+        </li>
+        <li>
+          <a href="https://modrinth.com/project/nvQzSEkH" target="_blank">Jade</a> and
+          <a href="https://modrinth.com/project/U5SedJ9S" target="_blank">Enhanced Boss Bar</a>:
+          tooltips behind the boss bar
+        </li>
+        <li>
+          <a href="https://modrinth.com/project/S2guHrs2" target="_blank">Fancy Block Particles</a>
+          and <a href="https://modrinth.com/project/dspVZXKP" target="_blank">Fast Better Grass</a>:
+          gray particles when breaking a block
+        </li>
+        <li>
+          <a href="https://modrinth.com/project/U5SedJ9S" target="_blank">Enhanced Boss Bar</a> with
+          multiple bosses: add more spaces between boss bars
+        </li>
+        <li>
+          <a href="https://modrinth.com/project/a1llHwl4" target="_blank">Copper Age Backport</a>:
+          remove the End Flashes backported
+        </li>
+        <li>
           <a href="https://modrinth.com/project/VLAWWg1B" target="_blank">Useful Backpack</a>:
           Allows you to close the backpack screen with the backpack keybind (V by default)
         </li>

@@ -49,7 +49,7 @@ onMounted(async () => {
   error.value = null
   try {
     const res = await fetch(
-      'https://raw.githubusercontent.com/Alfakynz/WildLight/refs/heads/main/1.21.1/PACK_CONTENT.md',
+      'https://raw.githubusercontent.com/Novalight-Studios/WildLight/refs/heads/main/1.21.1/PACK_CONTENT.md',
     )
     if (!res.ok) throw new Error('Failed to fetch mod list')
     const text = await res.text()

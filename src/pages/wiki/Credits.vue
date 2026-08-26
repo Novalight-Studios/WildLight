@@ -25,7 +25,7 @@ onMounted(() => {
           >)
           <br />
           Note: this compaibility is not anymore in this mod, but in this
-          <a href="https://github.com/Alfakynz/Eating-Animation-Modded" target="_blank"
+          <a href="https://github.com/Novalight-Studios/Eating-Animation-Modded" target="_blank"
             >resource pack</a
           >
         </li>

@@ -1,6 +1,8 @@
 <script setup lang="ts">
 import WikiNav from '../../components/WikiNav.vue'
+import Link from '@/components/common/Link.vue'
 import { onMounted } from 'vue'
+import { WILDLIGHT_URL } from '@/utils/index.ts'
 
 onMounted(() => {
 	const nav = document.querySelector('nav')
@@ -23,25 +25,9 @@ onMounted(() => {
 			</p>
 			<ol>
 				<li>
-					<strong>
-						Open an issue on
-						<a
-							href="https://github.com/Novalight-Studios/WildLight/issues"
-							target="_blank"
-							rel="noopener"
-							>GitHub</a
-						>:
-					</strong>
+					<strong> Open an issue on <Link :to="WILDLIGHT_URL">GitHub</Link> </strong>
 					<ul>
-						<li>
-							Go to my
-							<a
-								href="https://github.com/Novalight-Studios/WildLight/issues"
-								target="_blank"
-								rel="noopener"
-								>GitHub Issues page</a
-							>.
-						</li>
+						<li>Go to my <Link :to="WILDLIGHT_URL">GitHub Issues page</Link>.</li>
 						<li>
 							Click on <strong>New issue</strong> and fill out the template with as
 							much detail as possible (for bugs: steps to reproduce, expected
@@ -54,18 +40,14 @@ onMounted(() => {
 					</ul>
 				</li>
 				<li>
-					<strong
-						>Post a bug or idea on my
-						<a href="https://discord.gg/TcmUQHZ5U4" target="_blank" rel="noopener"
-							>Discord server</a
-						>:</strong
-					>
+					<strong>
+						Post a bug or idea on my
+						<Link to="https://discord.gg/TcmUQHZ5U4">Discord server</Link>:
+					</strong>
 					<ul>
 						<li>
 							Join the
-							<a href="https://discord.gg/TcmUQHZ5U4" target="_blank" rel="noopener"
-								>WildLight Discord</a
-							>.
+							<Link to="https://discord.gg/TcmUQHZ5U4">WildLight Discord</Link>.
 						</li>
 						<li>
 							For bugs, post in the <strong>#bugs</strong> channel.<br />

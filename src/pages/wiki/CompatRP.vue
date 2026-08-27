@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import WikiNav from '../../components/WikiNav.vue'
+import Link from '@/components/common/Link.vue'
 import { onMounted } from 'vue'
 
 onMounted(() => {
@@ -17,126 +18,99 @@ onMounted(() => {
 		<section class="wiki-content">
 			<h1>Resource Packs compatibility</h1>
 			<p>
-				<a href="https://github.com/Novalight-Studios/WildLight-Compat" target="_blank"
-					>WildLight Compat</a
-				>
+				<Link to="https://github.com/Novalight-Studios/WildLight-Compat">
+					WildLight Compat
+				</Link>
 				adds some compatibility fixes between:
 			</p>
 			<ul>
 				<li>
-					<a href="https://modrinth.com/project/sQCUH0Mr" target="_blank"
-						>Recolourful Containers GUI + HUD (DARK)</a
-					>
+					<Link to="https://modrinth.com/project/sQCUH0Mr">
+						Recolourful Containers GUI + HUD (DARK)
+					</Link>
 					with:
 					<ul>
 						<li>
-							<a href="https://modrinth.com/project/bRFWnJ87" target="_blank"
-								>Animal Feeding Trough</a
-							>
+							<Link to="https://modrinth.com/project/bRFWnJ87">
+								Animal Feeding Trough
+							</Link>
 						</li>
 						<li>
-							<a href="https://modrinth.com/project/IhBYAM6m" target="_blank"
-								>Enhanced Workbenches</a
-							>
+							<Link to="https://modrinth.com/project/IhBYAM6m">
+								Enhanced Workbenches
+							</Link>
 						</li>
 						<li>
-							<a href="https://modrinth.com/project/4I1XuqiY" target="_blank"
-								>Entity Model Features</a
-							>
+							<Link to="https://modrinth.com/project/4I1XuqiY">
+								Entity Model Features
+							</Link>
 						</li>
 						<li>
-							<a href="https://modrinth.com/project/mOgUt4GM" target="_blank"
-								>Mod Menu</a
-							>
+							<Link to="https://modrinth.com/project/mOgUt4GM">Mod Menu</Link>
 						</li>
 						<li>
-							<a href="https://modrinth.com/project/j7Ux0G0U" target="_blank"
-								>Not Interested!</a
-							>
+							<Link to="https://modrinth.com/project/j7Ux0G0U">Not Interested!</Link>
 						</li>
 						<li>
-							<a href="https://modrinth.com/project/tagwiZkJ" target="_blank"
-								>Polymorph</a
-							>
+							<Link to="https://modrinth.com/project/tagwiZkJ">Polymorph</Link>
 						</li>
 						<li>
-							<a href="https://modrinth.com/project/VLAWWg1B" target="_blank"
-								>Useful Backpacks</a
-							>
+							<Link to="https://modrinth.com/project/VLAWWg1B">Useful Backpacks</Link>
 						</li>
 					</ul>
 				</li>
 				<li>
-					<a href="https://modrinth.com/project/O7z3QKAG">Icons</a> with:
+					<Link to="https://modrinth.com/project/O7z3QKAG">Icons</Link> with:
 					<ul>
 						<li>
-							<a href="https://modrinth.com/project/mOgUt4GM" target="_blank"
-								>Mod Menu</a
-							>
+							<Link to="https://modrinth.com/project/mOgUt4GM">Mod Menu</Link>
 						</li>
 						<li>
-							<a href="https://modrinth.com/project/DnyS3EEW" target="_blank"
-								>Options Profiles</a
-							>
+							<Link to="https://modrinth.com/project/DnyS3EEW">Options Profiles</Link>
 						</li>
 						<li>
-							<a href="https://modrinth.com/project/AANobbMI" target="_blank"
-								>Sodium</a
-							>
+							<Link to="https://modrinth.com/project/AANobbMI">Sodium</Link>
 						</li>
 						<li>
-							<a href="https://modrinth.com/project/ZouiUX7t" target="_blank"
-								>Sounds</a
-							>
+							<Link to="https://modrinth.com/project/ZouiUX7t">Sounds</Link>
 						</li>
 					</ul>
 				</li>
 				<li>
-					<a href="https://modrinth.com/project/6xwxDTgf" target="_blank"
-						>Vanilla Backport</a
-					>
+					<Link to="https://modrinth.com/project/6xwxDTgf">Vanilla Backport</Link>
 					with:
 					<ul>
 						<li>
-							<a href="https://modrinth.com/project/AtHRJSUW" target="_blank"
-								>Wilder Wild</a
-							>
+							<Link to="https://modrinth.com/project/AtHRJSUW">Wilder Wild</Link>
 							(spawn eggs from newer versions)
 						</li>
 					</ul>
 				</li>
 				<li>
-					<a href="https://modrinth.com/project/8AX2hHnX" target="_blank"
-						>Simple Music Control</a
-					>
+					<Link to="https://modrinth.com/project/8AX2hHnX">Simple Music Control</Link>
 					with:
 					<ul>
 						<li>
-							<a href="https://modrinth.com/project/AtHRJSUW" target="_blank"
-								>Wilder Wild</a
-							>
+							<Link to="https://modrinth.com/project/AtHRJSUW">Wilder Wild</Link>
 							(music names)
 						</li>
 						<li>
-							<a href="https://modrinth.com/project/6xwxDTgf" target="_blank"
-								>Vanilla Backport</a
-							>
+							<Link to="https://modrinth.com/project/6xwxDTgf">Vanilla Backport</Link>
 							(music names)
 						</li>
 					</ul>
 				</li>
 				<li>
-					<a href="https://modrinth.com/project/3MCobCxw" target="_blank">Better Lights</a
-					>: a bug with chains
+					<Link to="https://modrinth.com/project/3MCobCxw">Better Lights</Link>: a bug
+					with chains
 				</li>
 				<li>
-					<a href="https://modrinth.com/project/nvQzSEkH" target="_blank">Jade</a>: some
-					animals didn't have a name
+					<Link to="https://modrinth.com/project/nvQzSEkH">Jade</Link>: some animals
+					didn't have a name
 				</li>
 				<li>
-					<a href="https://modrinth.com/project/dWloHgVp" target="_blank"
-						>CIT Painting Icons</a
-					>: icon for Dennis variant
+					<Link to="https://modrinth.com/project/dWloHgVp">CIT Painting Icons</Link>: icon
+					for Dennis variant
 				</li>
 			</ul>
 		</section>

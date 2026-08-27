@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import WikiNav from '../../components/WikiNav.vue'
+import Link from '@/components/common/Link.vue'
 import { onMounted } from 'vue'
 
 onMounted(() => {
@@ -18,29 +19,26 @@ onMounted(() => {
 			<h1>Credits</h1>
 			<ul>
 				<li>
-					Thanks to <a href="https://github.com/nNoidea" target="_blank">nNoidea</a> for
-					Eating Animation support for Wilder Wild compatibility! (via
-					<a href="https://github.com/Theoness1/EatingAnimation/pull/62" target="_blank"
-						>Eating Animation PR #62</a
+					Thanks to <Link to="https://github.com/nNoidea">nNoidea</Link> for Eating
+					Animation support for Wilder Wild compatibility! (via
+					<Link to="https://github.com/Theoness1/EatingAnimation/pull/62">
+						Eating Animation PR #62 </Link
 					>)
 					<br />
 					Note: this compaibility is not anymore in this mod, but in this
-					<a
-						href="https://github.com/Novalight-Studios/Eating-Animation-Modded"
+					<Link
+						to="https://github.com/Novalight-Studios/Eating-Animation-Modded"
 						target="_blank"
-						>resource pack</a
+						>resource pack</Link
 					>
 				</li>
 				<li>
 					Thanks to the
-					<a href="https://modrinth.com/organization/tuit06dH" target="_blank"
-						>FrozenBlock team</a
-					>
+					<Link to="https://modrinth.com/organization/tuit06dH">FrozenBlock team</Link>
 					for
-					<a href="https://modrinth.com/project/AtHRJSUW" target="_blank">WilderWild</a>,
-					and to
-					<a href="https://modrinth.com/user/GgcBbYdM" target="_blank">voxelotl</a> for
-					allowing me to add some of their textures to the resource pack!
+					<Link to="https://modrinth.com/project/AtHRJSUW">WilderWild</Link>, and to
+					<Link to="https://modrinth.com/user/GgcBbYdM">voxelotl</Link> for allowing me to
+					add some of their textures to the resource pack!
 				</li>
 				<li>Thanks to Annie for making the beautiful WildLight logo</li>
 			</ul>

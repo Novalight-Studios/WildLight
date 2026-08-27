@@ -7,7 +7,7 @@ const featuresHtml = ref<string>('Loading features...')
 async function fetchFeatures() {
 	try {
 		const response = await fetch(
-			'https://raw.githubusercontent.com/Alfakynz/WildLight/refs/heads/main/README.md',
+			'https://raw.githubusercontent.com/Novalight-Studios/WildLight/refs/heads/main/README.md',
 		)
 		const text = await response.text()
 

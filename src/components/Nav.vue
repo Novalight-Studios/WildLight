@@ -1,3 +1,7 @@
+<script setup lang="ts">
+import Link from './common/Link.vue'
+import { WILDLIGHT_URL } from '@/utils'
+</script>
 <template>
 	<nav>
 		<ul>
@@ -13,22 +17,22 @@
 				</router-link>
 			</li>
 			<li>
-				<a href="https://modrinth.com/project/6QzexKXD" target="_blank">
+				<Link to="https://modrinth.com/project/6QzexKXD">
 					<div>Modrinth</div>
 					<img src="/src/assets/images/icons/modrinth.png" alt="Modrinth" />
-				</a>
+				</Link>
 			</li>
 			<li>
-				<a href="https://www.curseforge.com/minecraft/modpacks/wildlight" target="_blank">
+				<Link to="https://www.curseforge.com/minecraft/modpacks/wildlight">
 					<div>CurseForge</div>
 					<img src="/src/assets/images/icons/curseforge.png" alt="CurseForge" />
-				</a>
+				</Link>
 			</li>
 			<li>
-				<a href="https://github.com/Novalight-Studios/WildLight" target="_blank">
+				<Link :to="WILDLIGHT_URL">
 					<div>GitHub</div>
 					<img src="/src/assets/images/icons/github.png" alt="GitHub" />
-				</a>
+				</Link>
 			</li>
 		</ul>
 	</nav>

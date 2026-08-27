@@ -10,7 +10,7 @@ const screenshots = ref([])
 onMounted(async () => {
 	try {
 		const res = await fetch(
-			'https://api.github.com/repos/Alfakynz/WildLight/contents/Media/screenshots',
+			'https://api.github.com/repos/Novalight-Studios/WildLight/contents/Media/screenshots',
 		)
 		const data = await res.json()
 

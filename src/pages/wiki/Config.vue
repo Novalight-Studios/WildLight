@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import WikiNav from '../../components/WikiNav.vue'
+import Link from '@/components/common/Link.vue'
 import { onMounted } from 'vue'
 
 onMounted(() => {
@@ -18,7 +19,7 @@ onMounted(() => {
 			<h1>Configuration</h1>
 			<p>
 				You can use the
-				<a href="https://modrinth.com/project/DnyS3EEW" target="_blank">Options Profiles</a>
+				<Link to="https://modrinth.com/project/DnyS3EEW">Options Profiles</Link>
 				mod included in the pack to select a preconfigured option. There are 3 configured
 				options and 1 default option.
 			</p>

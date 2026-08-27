@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { ref, onMounted } from 'vue'
 import WikiNav from '../../components/WikiNav.vue'
+import Link from '@/components/common/Link.vue'
 
 onMounted(() => {
 	const nav = document.querySelector('nav')
@@ -93,7 +94,7 @@ onMounted(async () => {
 					<h2 id="mods">Mods</h2>
 					<ul>
 						<li v-for="mod in mods" :key="mod.url">
-							<a :href="mod.url" target="_blank" rel="noopener">{{ mod.name }}</a>
+							<Link :to="mod.url">{{ mod.name }}</Link>
 						</li>
 					</ul>
 				</div>
@@ -101,7 +102,7 @@ onMounted(async () => {
 					<h2 id="resource-packs">Resource Packs</h2>
 					<ul>
 						<li v-for="pack in resourcePacks" :key="pack.url">
-							<a :href="pack.url" target="_blank" rel="noopener">{{ pack.name }}</a>
+							<Link :to="pack.url">{{ pack.name }}</Link>
 						</li>
 					</ul>
 				</div>
@@ -109,9 +110,7 @@ onMounted(async () => {
 					<h2 id="shaders">Shaders</h2>
 					<ul>
 						<li v-for="shader in shaders" :key="shader.url">
-							<a :href="shader.url" target="_blank" rel="noopener">{{
-								shader.name
-							}}</a>
+							<Link :to="shader.url">{{ shader.name }}</Link>
 						</li>
 					</ul>
 				</div>

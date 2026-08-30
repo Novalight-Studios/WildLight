@@ -1,13 +1,13 @@
 name = "Iris & Oculus Search"
-filename = "IrisSearch-1.3.0-fabric.jar"
+filename = "IrisSearch-1.6.1-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "29030f9ba2dc57c823df05bb8ea3e3ffce951c89"
+hash = "7c78a8912d7d172b0640e4d8091acded86df951e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8345830
+file-id = 8729983
 project-id = 1583035

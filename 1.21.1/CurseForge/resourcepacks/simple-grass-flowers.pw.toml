@@ -1,13 +1,13 @@
 name = "Simple Grass Flowers"
-filename = "Simple Grass Flowers v1.9.5.zip"
+filename = "Simple Grass Flowers v2.0.0.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2f430322ca2afdee2962180a23a577bbb7dea240"
+hash = "afb56cfc90e663526352f7bd75a3c733178fca45"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6374224
+file-id = 8514351
 project-id = 551206

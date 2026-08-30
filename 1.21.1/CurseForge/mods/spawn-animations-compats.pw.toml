@@ -1,13 +1,13 @@
 name = "Spawn Animations Compats [Fabric/Quilt/Forge/NeoForge]"
-filename = "spawn-animations-compats-16.0.jar"
+filename = "spawn-animations-compats-17.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d0a2f8ed42a338adc30976d97b3aa40351f3ce33"
+hash = "ecd6948b6c8ba136098ca9e4a780b3ba40846618"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8307230
+file-id = 8745493
 project-id = 1577387

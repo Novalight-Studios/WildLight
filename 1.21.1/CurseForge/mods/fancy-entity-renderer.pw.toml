@@ -1,13 +1,13 @@
 name = "Fancy Entity Renderer"
-filename = "fancy-entity-renderer-fabric-1.21-0.4.8.jar"
+filename = "fancy-entity-renderer-fabric-1.21-0.4.9.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1f016327b1c7770bac82acb2b3a7ddaaccd3fcca"
+hash = "9bee061f853f963379c345d89d3f7b07edcdd010"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8257279
+file-id = 8700207
 project-id = 1173643

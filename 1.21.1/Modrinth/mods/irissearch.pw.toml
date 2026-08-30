@@ -1,13 +1,13 @@
 name = "IrisSearch"
-filename = "IrisSearch-1.3.0-fabric.jar"
+filename = "IrisSearch-1.6.1-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/bkAgg84v/versions/4VXP9V8f/IrisSearch-1.3.0-fabric.jar"
+url = "https://cdn.modrinth.com/data/bkAgg84v/versions/vl0ocX33/IrisSearch-1.6.1-fabric.jar"
 hash-format = "sha512"
-hash = "ce28740009e2b757024c77b0c975b6846c462896074ae75692905cb73d3f46a4208cd45286c3fe5bfa0805c56fc019ef3d91acf5c1efa7621c78edf1288b6cd5"
+hash = "261b2313dd70faffbce541d395756d30e0fdc1a670ee23c3326c45dac570cb60cf760165b61b6586665593780f8e20ee1dd678c3b50a8d5efa7c74ed27550a1f"
 
 [update]
 [update.modrinth]
 mod-id = "bkAgg84v"
-version = "4VXP9V8f"
+version = "vl0ocX33"

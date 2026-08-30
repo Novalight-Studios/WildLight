@@ -1,33 +1,33 @@
 {
-  "files.exclude": {
-    "**/.git": true,
-    "**/.svn": true,
-    "**/.hg": true,
-    "**/.DS_Store": true,
-    "**/Thumbs.db": true,
-    ".gradle": true,
-    ".idea": true,
-    "assets": true,
-    "build": true,
-    "libs": true,
-    "node_modules": true,
-    "run": true,
-    "screenshots": true,
-    "src": true,
-    ".gitattributes": true,
-    "package-lock.json": true
-  },
-  "hide-files.files": [
-    ".gradle",
-    ".idea",
-    "assets",
-    "build",
-    "libs",
-    "node_modules",
-    "run",
-    "screenshots",
-    "src",
-    ".gitattributes",
-    "package-lock.json"
-  ]
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        ".gradle": true,
+        ".idea": true,
+        "assets": true,
+        "build": true,
+        "libs": true,
+        "node_modules": true,
+        "run": true,
+        "screenshots": true,
+        "src": true,
+        ".gitattributes": true,
+        "package-lock.json": true
+    },
+    "hide-files.files": [
+        ".gradle",
+        ".idea",
+        "assets",
+        "build",
+        "libs",
+        "node_modules",
+        "run",
+        "screenshots",
+        "src",
+        ".gitattributes",
+        "package-lock.json"
+    ]
 }

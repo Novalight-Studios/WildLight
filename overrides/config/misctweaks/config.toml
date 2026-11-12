@@ -1,0 +1,40 @@
+# Don't change this! Version used to track needed updates.
+version = 2
+sneakingPreventsBerryBushDamage = true
+armorPreventsBerryBushDamage = true
+armorReducesBerryBushSlow = true
+berryBushSlowReduction = 1.7
+elytraSwimTweak = true
+soulSpeedNoDamage = true
+thornsNoDamage = true
+creeperExplosionDropsAllItems = true
+flammableCobweb = true
+fasterObsidianMining = true
+obsidianMiningSpeedMultiplier = 1.6
+obsidianBlocks = [
+    "#c:obsidians",
+    "minecraft:respawn_anchor",
+    "minecraft:crying_obsidian"
+]
+animalsSearchForFood = true
+randomizeDiscLoot = true
+preventShulkerDuplication = false
+
+[stableBlockDrops]
+noRandomHorizontalMovement = true
+alwaysSpawnDropInBlockCenter = true
+flingTowardsPlayer = true
+requireCrouchForFling = true
+flingMaxRange = 5.0
+
+[[flammableBlocks]]
+id = "minecraft:cobweb"
+igniteOdds = 600
+burnOdds = 60
+
+[[animalConfiguration]]
+id = "minecraft:wolf"
+doSearch = false
+searchRange = 16
+searchSpeed = 1.25
+searchGoalPriority = 2

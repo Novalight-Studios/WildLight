@@ -1,0 +1,22 @@
+{
+    animatedCategory: {
+        depthStrider: "animated",
+        fireAspect: "animated",
+        fireProtection: "animated",
+        flame: "animated",
+        respiration: "animated",
+        soulSpeed: "animated",
+        swiftSneak: "animated",
+        vanishingCurse: "animated",
+        staticVariants: {
+            respiration: "noBubbles",
+            soulSpeed: "noSoul",
+            vanishingCurse: "paper"
+        }
+    },
+    regularCategory: {
+        recipeBookButton: "opaque",
+        quickChargeVariant: "default",
+        packPng: "hd"
+    }
+}

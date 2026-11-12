@@ -1,0 +1,11 @@
+# Don't change this! Version used to track needed updates.
+version = 1
+lowerShield = true
+raiseHotbarPixels = 3
+perDimensionBrightness = [
+    [ "minecraft:overworld", -1 ]
+]
+
+[[shields]]
+id = "minecraft:shield"
+offset = -4.0

@@ -1,6 +1,6 @@
 # 🌲 WildLight
 
-Step into a world where survival meets subtle beauty. In WildLight, every sound, texture, and detail is crafted to pull you deeper into a refined Minecraft experience. Explore vast landscapes, survive harsh conditions, and uncover the forgotten logic of a world shaped by realism. This is not just Vanilla — it’s nature, reborn through immersion.
+Step into a world where survival meets subtle beauty. In WildLight, every sound, texture, and detail is crafted to pull you deeper into a refined Minecraft experience. Explore vast landscapes, and uncover the forgotten logic of a world shaped by realism. This is not just Vanilla: it’s nature, reborn through immersion.
 
 ## ✨ Features
 
@@ -57,9 +57,9 @@ For chat, **Better Selection** makes text easier and more pleasant to select, wh
 ### 👨‍💻 For dev
 
 1. Clone the repo: `git clone https://github.com/Alfakynz/WildLight.git`
-2. Install [packwiz](https://packwiz.infra.link/)
+2. Install [packman](https://github.com/Novalight-Studios/packman)
 3. Navigate to the WildLight directory: `cd WildLight`
-4. Use `packwiz` or [`packwize`](https://github.com/Alfakynz/PackWize) to edit the modpack
+4. Use `packman` to edit the modpack
 
 ## 🔧 Recommendation
 
@@ -85,9 +85,12 @@ If you have any questions, here's Discord server: https://discord.gg/TcmUQHZ5U4
 
 ## 🚀 Planned Features
 
+- **Update to mc 26.2**
+- **A refreshed interface**
+- **Better performance**
+- Rewrite the README
 - A quest book to discover the mods in the modpack or custom advancements
-- A refreshed interface
-- Better performance
+- Custom recipes
 
 ## 🌐 Looking for a server? Support me at the same time!
 

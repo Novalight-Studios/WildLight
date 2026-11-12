@@ -1,0 +1,2776 @@
+{
+  "name": "WildLight",
+  "version": "1.0.0",
+  "mc_version": "26.2",
+  "loader": "fabric",
+  "loader_version": "0.20.1",
+  "mods": [
+    {
+      "slug": "entity-model-features",
+      "name": "[EMF] Entity Model Features",
+      "modrinth": {
+        "projectID": "4I1XuqiY",
+        "versionID": "hyDf8pNd",
+        "path": "mods/entity_model_features-3.3.12-26.2-fabric.jar",
+        "hashes": {
+          "sha1": "34747e7aaf3b0b9f5b9edc3b9fd57fa0b545b531",
+          "sha512": "538944a63c2dab5f39d2468a7c977f65c45ed536b8214976dab5a30cc944879fa0bfc3f960233031e4b80f6940edb71edacd17e8949cca7e3ff6bcdf097870ff"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/4I1XuqiY/versions/hyDf8pNd/entity_model_features-3.3.12-26.2-fabric.jar"
+        ],
+        "fileSize": 665507
+      },
+      "curseforge": {
+        "projectID": 844662,
+        "fileID": 9188545,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "entitytexturefeatures",
+      "name": "[ETF] Entity Texture Features",
+      "modrinth": {
+        "projectID": "BVzZfTc1",
+        "versionID": "nJCXY7Tp",
+        "path": "mods/entity_texture_features-7.2.7-26.2-fabric.jar",
+        "hashes": {
+          "sha1": "b58fd0d4ab88fdd2f2a4fa76783c54d8a9233a88",
+          "sha512": "7cf853688ed9b4f508591811b348db304eb66af5452d4fd8340b37486c750388f73471cbdd073cec1456817ccf84281cd0256097835211b9042cfeee6258cfd2"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/BVzZfTc1/versions/nJCXY7Tp/entity_texture_features-7.2.7-26.2-fabric.jar"
+        ],
+        "fileSize": 798587
+      },
+      "curseforge": {
+        "projectID": 568563,
+        "fileID": 9420352,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "ambientsounds",
+      "name": "AmbientSounds",
+      "modrinth": {
+        "projectID": "fM515JnW",
+        "versionID": "jGlT0HRa",
+        "path": "mods/AmbientSounds_FABRIC_v6.3.6_mc26.2.jar",
+        "hashes": {
+          "sha1": "b4fa62c189907192933fae4853eeebeb6d57d836",
+          "sha512": "02163deeee68e4d7b884dd99efa90220ab3197616edbd305a6fabb0bf9b0ac61c74af97d1fa534155a71034736df2daa3cd384d207c964c7b78205a16b168e06"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/fM515JnW/versions/jGlT0HRa/AmbientSounds_FABRIC_v6.3.6_mc26.2.jar"
+        ],
+        "fileSize": 84821411
+      },
+      "curseforge": {
+        "projectID": 254284,
+        "fileID": 8299375,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "creativecore",
+      "name": "CreativeCore",
+      "modrinth": {
+        "projectID": "OsZiaDHq",
+        "versionID": "SI6rsPDj",
+        "path": "mods/CreativeCore_FABRIC_v2.14.16_mc26.2.jar",
+        "hashes": {
+          "sha1": "c9189bb8b0f760d3b84e73b77cf81ca809399c3d",
+          "sha512": "627a0821c5d833a5bc2fe8dee7c00ef67a6e6c69ddddeed5049c70883597956181778c30c143e1fcd201939c47b806de6a5aeee65b024342c0ff1a094db59a33"
+        },
+        "env": {
+          "client": "required",
+          "server": "optional"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/OsZiaDHq/versions/SI6rsPDj/CreativeCore_FABRIC_v2.14.16_mc26.2.jar"
+        ],
+        "fileSize": 1396350
+      },
+      "curseforge": {
+        "projectID": 257814,
+        "fileID": 8299367,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "fabric-api",
+      "name": "Fabric API",
+      "modrinth": {
+        "projectID": "P7dR8mSH",
+        "versionID": "ewUK83HI",
+        "path": "mods/fabric-api-0.161.0+26.2.jar",
+        "hashes": {
+          "sha1": "332da34ebb72171e603a0c538de17f4c54ea9e29",
+          "sha512": "2502fa5ade78e9a120b3747bc1a9a2167d6671743bea45bf115d3174c94121aeda87c549446d1a604a9c11fb828de17a551e3514ce42f3e93069dd14bdaee55b"
+        },
+        "env": {
+          "client": "optional",
+          "server": "optional"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/P7dR8mSH/versions/ewUK83HI/fabric-api-0.161.0%2B26.2.jar"
+        ],
+        "fileSize": 2566123
+      },
+      "curseforge": {
+        "projectID": 306612,
+        "fileID": 8913446,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "appleskin",
+      "name": "AppleSkin",
+      "modrinth": {
+        "projectID": "EsAfCjCV",
+        "versionID": "uo5bAN1Y",
+        "path": "mods/appleskin-fabric-mc26.2-3.0.10.jar",
+        "hashes": {
+          "sha1": "03a635bae2c5a5e66825a35ff130242752054b32",
+          "sha512": "ddf31d8fe239f66760632606221a9ea55d31907a9f7f8667331929cad348457ec2199cb90d410ee1a06e36bafc01a3bf152a06fd3c9b9e46f50841240875832b"
+        },
+        "env": {
+          "client": "optional",
+          "server": "optional"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/EsAfCjCV/versions/uo5bAN1Y/appleskin-fabric-mc26.2-3.0.10.jar"
+        ],
+        "fileSize": 181627
+      },
+      "curseforge": {
+        "projectID": 248787,
+        "fileID": 8271985,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "asyncparticles",
+      "name": "AsyncParticles",
+      "modrinth": {
+        "projectID": "c3onkd5k",
+        "versionID": "oM9ACnlx",
+        "path": "mods/AsyncParticles-26.2.2.11+26.2.jar",
+        "hashes": {
+          "sha1": "bffab2437cf2a29a3d02f9adcea7d1165f056b09",
+          "sha512": "39ae2bea9c417900f0bdfcac501e206e0f27af9daea28b81d2680588837dc01535e0b2b5f1d39972e46cbee16104393b65673a5c9e90380e97a14ebfbdc7f5ad"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/c3onkd5k/versions/oM9ACnlx/AsyncParticles-26.2.2.11%2B26.2.jar"
+        ],
+        "fileSize": 670306
+      },
+      "curseforge": {
+        "projectID": 1215753,
+        "fileID": 9242840,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "auto-gui-scale",
+      "name": "Auto GUI Scale",
+      "modrinth": {
+        "projectID": "Un1BZCMR",
+        "versionID": "pJwpq2Y8",
+        "path": "mods/auto-gui-scale-26.1-1.2.3.jar",
+        "hashes": {
+          "sha1": "49191a24e751f669065d0fb45a053910b368732e",
+          "sha512": "636105df3d6607d293f6b06743579dc382ab87b07b8f0008c0192f40bce8f39c285b2602782a1120db318c7c18c45cee3ca6bf1c4cb3a011f02ef80490b9ea24"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/Un1BZCMR/versions/pJwpq2Y8/auto-gui-scale-26.1-1.2.3.jar"
+        ],
+        "fileSize": 16800
+      },
+      "curseforge": {
+        "projectID": 1499688,
+        "fileID": 8687132,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "badoptimizations",
+      "name": "BadOptimizations",
+      "modrinth": {
+        "projectID": "g96Z4WVZ",
+        "versionID": "JmPs4Wie",
+        "path": "mods/BadOptimizations-2.4.1-26.2-fabric.jar",
+        "hashes": {
+          "sha1": "b36b001f869d04245523807d9ccb26a085f243b4",
+          "sha512": "f91c409d4ce68d027ac0a11b6d2828c5f6d057e749ff0ce596f3a84a65fc1e3905b08f4d97a21a7302e2bfaf4ff865907272bd9c7ffa8487701b22e40dfe2f97"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/g96Z4WVZ/versions/JmPs4Wie/BadOptimizations-2.4.1-26.2-fabric.jar"
+        ],
+        "fileSize": 60709
+      },
+      "curseforge": {
+        "projectID": 949555,
+        "fileID": 8260341,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "better-biome-blend",
+      "name": "Better Biome Blend",
+      "modrinth": {
+        "projectID": "Rs6c7WyL",
+        "versionID": "bXpRy5LE",
+        "path": "mods/betterbiomeblend-fabric-26.2-1.4.0.jar",
+        "hashes": {
+          "sha1": "5be5b726eaa40bb980d369f4a65e40a7b3126e6f",
+          "sha512": "10c145bc8b5c9b332e71dac38248ef31cd6f68fa45d6032556c30022bda6e9ba838f9ccdb97da15908a29120419c962a7c0627728f527e019f20cb2018b90a46"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/Rs6c7WyL/versions/bXpRy5LE/betterbiomeblend-fabric-26.2-1.4.0.jar"
+        ],
+        "fileSize": 69971
+      },
+      "curseforge": {
+        "projectID": 446253,
+        "fileID": 8365997,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "better-render-distance",
+      "name": "Better Render Distance",
+      "modrinth": {
+        "projectID": "iRXmuz7a",
+        "versionID": "J46KSMDr",
+        "path": "mods/BetterRenderDistance-1.2.1+mc26.2.jar",
+        "hashes": {
+          "sha1": "4faf189217e49f78dbda7beb2c9666c9dc810f4b",
+          "sha512": "b0288ca55a38e68e982c7b86e8e001a1e7fe71d546dfac467858a2eaa8774bcef582d182843fe6875c53ce21b8711c2e52d37775f875cd8d5ac04c830c131ac8"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/iRXmuz7a/versions/J46KSMDr/BetterRenderDistance-1.2.1%2Bmc26.2.jar"
+        ],
+        "fileSize": 67965
+      },
+      "curseforge": {
+        "projectID": 1452355,
+        "fileID": 8905587,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "better-slots",
+      "name": "Better Slots",
+      "modrinth": {
+        "projectID": "FfJwv52l",
+        "versionID": "b21rwKiX",
+        "path": "mods/better-slots-1.0.2.jar",
+        "hashes": {
+          "sha1": "ebf9ac64d68c857b7f304c2e5fd5e441bd9c80a7",
+          "sha512": "11c892b889c78903d61de5c84cc4b75fbd51d9867de271c00a146e7251322b22fad302e4de2cbc5c06b4a987b832ea74fd458c295db7cd096395243b9a0a6d3d"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/FfJwv52l/versions/b21rwKiX/better-slots-1.0.2.jar"
+        ],
+        "fileSize": 14363
+      },
+      "curseforge": {
+        "projectID": 1409781,
+        "fileID": 8168838,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "chat-heads",
+      "name": "Chat Heads",
+      "modrinth": {
+        "projectID": "Wb5oqrBJ",
+        "versionID": "rsO6BV1x",
+        "path": "mods/chat_heads-1.3.2-fabric-26.1.jar",
+        "hashes": {
+          "sha1": "5f57f341125ec6d5795fc4d60a20b6970b51a22e",
+          "sha512": "d5e79fefa0d5d597b2c66cd20ab7346daa512e68027995759808520809250f9960cadfa5f71516cd854d84dff2669d3928610145e58c994b0a711031627bd131"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/rsO6BV1x/chat_heads-1.3.2-fabric-26.1.jar"
+        ],
+        "fileSize": 98554
+      },
+      "curseforge": {
+        "projectID": 407206,
+        "fileID": 9060719,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "cherished-worlds",
+      "name": "Cherished Worlds",
+      "modrinth": {
+        "projectID": "3azQ6p0W",
+        "versionID": "VhoXPFdC",
+        "path": "mods/cherishedworlds-fabric-17.0.0+26.2.jar",
+        "hashes": {
+          "sha1": "78510781000844c1d8893f0b24324587d145a838",
+          "sha512": "f2d1482ee9c4e8e725e21fbc0168baee9f77ccaf606ec831e2ab5a49accb6eb8e4c352798e63f33c02a57ca8e728c946f7e3ed0dbc2a11c44d0d7810d9f4189d"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/3azQ6p0W/versions/VhoXPFdC/cherishedworlds-fabric-17.0.0%2B26.2.jar"
+        ],
+        "fileSize": 590802
+      },
+      "curseforge": {
+        "projectID": 308240,
+        "fileID": 8469802,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "continuity",
+      "name": "Continuity",
+      "modrinth": {
+        "projectID": "1IjD5062",
+        "versionID": "mgUN5Xz2",
+        "path": "mods/continuity-3.0.1+26.2.jar",
+        "hashes": {
+          "sha1": "8fa8bc108e84158b0828a4aa59bf906d31676eec",
+          "sha512": "3436b39fcdddce87f8eda0f35095067477636df2667195df3cb8eae2d002d3ff8ac44de97332668ee50e13ad91be5c532cbc6121878f1e6c904c98c1c9c67c0b"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/1IjD5062/versions/mgUN5Xz2/continuity-3.0.1%2B26.2.jar"
+        ],
+        "fileSize": 1040013
+      },
+      "curseforge": {
+        "projectID": 531351,
+        "fileID": 8261100,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "craftpresence",
+      "name": "CraftPresence",
+      "modrinth": {
+        "projectID": "DFqQfIBR",
+        "versionID": "GjRzcZtU",
+        "path": "mods/CraftPresence-2.7.1+26.2-fabric.jar",
+        "hashes": {
+          "sha1": "65b643ff56981c90066e26fb3f13da5458d16f3f",
+          "sha512": "f5c556e6d6e24cc262ebb209c0c4e34f9f936959f164db568f51034bd7df9602686335f7de61a4be7de9103d5749c484784edfdd592dcc6f872fc4ed86b3d248"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/DFqQfIBR/versions/GjRzcZtU/CraftPresence-2.7.1%2B26.2-fabric.jar"
+        ],
+        "fileSize": 1444483
+      },
+      "curseforge": {
+        "projectID": 297038,
+        "fileID": 8275522,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "unilib",
+      "name": "UniLib",
+      "modrinth": {
+        "projectID": "nT86WUER",
+        "versionID": "jmug71pF",
+        "path": "mods/UniLib-1.2.1+26.2-fabric.jar",
+        "hashes": {
+          "sha1": "ee3e1bc9a403368414a35e81b5334fffabb11bcb",
+          "sha512": "090d0a162cc413cac9849682cf2b6bdb9a8b4e511e5363e33e85f85d13f06082b19d3816e078351636f1b11d9d3e3e09c9e19a81c24e6822d86e99f53d58da40"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/nT86WUER/versions/jmug71pF/UniLib-1.2.1%2B26.2-fabric.jar"
+        ],
+        "fileSize": 1728279
+      },
+      "curseforge": {
+        "projectID": 1056812,
+        "fileID": 8275359,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "cubes-without-borders",
+      "name": "Cubes Without Borders",
+      "modrinth": {
+        "projectID": "ETlrkaYF",
+        "versionID": "ZM0HUAhK",
+        "path": "mods/cwb-5.0.0+26.2.jar",
+        "hashes": {
+          "sha1": "6114afaa2b54bdc79bf8dba1630ac1221f02522b",
+          "sha512": "ccd86e34dc252d59ec8ef5bbba0fb7f23f04facc4028e07b0bb6e8e0cf19b27c94a4c355886f9addd0a472ede0b21d19f95626fffb0b1ee4ce3d005b210e4cce"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/ETlrkaYF/versions/ZM0HUAhK/cwb-5.0.0%2B26.2.jar"
+        ],
+        "fileSize": 95279
+      },
+      "curseforge": {
+        "projectID": 975120,
+        "fileID": 9308996,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "debugify",
+      "name": "Debugify",
+      "modrinth": {
+        "projectID": "QwxR6Gcd",
+        "versionID": "p9lCmVmH",
+        "path": "mods/debugify-26.2.0.1.jar",
+        "hashes": {
+          "sha1": "6c21e7639c4f6c1a9587dd82f31ff2811289ef87",
+          "sha512": "83ab90cdabee7e9994a8ef80be9ede971a8508157f176a61b5e13b34cb38d68f8d3f245946822bffcd32c064257da59ced8a438ed5f681ec9721255b7f4f434d"
+        },
+        "env": {
+          "client": "optional",
+          "server": "optional"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/QwxR6Gcd/versions/p9lCmVmH/debugify-26.2.0.1.jar"
+        ],
+        "fileSize": 371602
+      },
+      "curseforge": {
+        "projectID": 596224,
+        "fileID": 8964349,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "cloth-config",
+      "name": "Cloth Config API",
+      "modrinth": {
+        "projectID": "9s6osm5g",
+        "versionID": "Nv3xnWXd",
+        "path": "mods/cloth-config-26.2.155.jar",
+        "hashes": {
+          "sha1": "babcf16dbd15e09d326e21ffe85ab3f7d843ef9e",
+          "sha512": "37b1e402f0df5a383656e21a38ee18cdd15cb4ba3fb62fbeba82ef4b959a4479fc32718ac0d9d154a7d9104c5f7315bfa67dbeced0b8ff240b8039d4848d5df1"
+        },
+        "env": {
+          "client": "optional",
+          "server": "optional"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/9s6osm5g/versions/Nv3xnWXd/cloth-config-26.2.155.jar"
+        ],
+        "fileSize": 1135186
+      },
+      "curseforge": {
+        "projectID": 348521,
+        "fileID": 8269699,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "durability-tooltip",
+      "name": "Durability Tooltip",
+      "modrinth": {
+        "projectID": "smUP7V3r",
+        "versionID": "mm3FDVjB",
+        "path": "mods/durabilitytooltip-1.2.0a-fabric-mc26.2.jar",
+        "hashes": {
+          "sha1": "5b48c9d613c1b9f2b87a2e02df72b614406cfd51",
+          "sha512": "098ad3a260db6918ef4131ff7608b10926d1bf5857f8d283826708f29b90b6bc80c24626306ba7dede027f646db3fb365bc26a1380b9e74c6e56b4beaa915ff0"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/smUP7V3r/versions/mm3FDVjB/durabilitytooltip-1.2.0a-fabric-mc26.2.jar"
+        ],
+        "fileSize": 21024
+      },
+      "curseforge": {
+        "projectID": 511040,
+        "fileID": 9009534,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "supermartijn642s-config-lib",
+      "name": "SuperMartijn642's Config Lib",
+      "modrinth": {
+        "projectID": "LN9BxssP",
+        "versionID": "iInTTGso",
+        "path": "mods/supermartijn642configlib-1.1.8a-fabric-mc26.2.jar",
+        "hashes": {
+          "sha1": "32c0220d9f22d16615f350cdfbb8cdffd19ca5aa",
+          "sha512": "5479b2dc62b73706817007803c4b2bac4c007705484d8b57daef20649793ae524f2123a66842e6490da766a0eada3c3469dcc1bba6b4a430dbdb16d221d6c9f1"
+        },
+        "env": {
+          "client": "optional",
+          "server": "optional"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/LN9BxssP/versions/iInTTGso/supermartijn642configlib-1.1.8a-fabric-mc26.2.jar"
+        ],
+        "fileSize": 206152
+      },
+      "curseforge": {
+        "projectID": 438332,
+        "fileID": 9009449,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "connected-paths-mod",
+      "name": "Connected Paths Mod",
+      "modrinth": {
+        "projectID": "8IFuRx0t",
+        "versionID": "g2nakYrI",
+        "path": "mods/connected-paths-fabric-1.0.2.jar",
+        "hashes": {
+          "sha1": "e081a6c4567c923d794854abb17bae3f479e7a2c",
+          "sha512": "e7fc0207469be8051f7035ae0c2c1ff765813e95eb5c1a9154320a4f4d116f8d30f6a0f913a0234a29f30be8786b1a29f1323079dbce22307a080920fc7102d9"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/8IFuRx0t/versions/g2nakYrI/connected-paths-fabric-1.0.2.jar"
+        ],
+        "fileSize": 2732800
+      },
+      "curseforge": {
+        "projectID": 1661379,
+        "fileID": 8914097,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "libjf",
+      "name": "LibJF",
+      "modrinth": {
+        "projectID": "WKwQAwke",
+        "versionID": "I5brbhNh",
+        "path": "mods/libjf-26.2.2.jar",
+        "hashes": {
+          "sha1": "47858ba5e5b037b125ecae097f5444785052065e",
+          "sha512": "83885e9d73ee54629dcb0e5f0f7ca00bf4616b1625cddb5ad0f9a650085fb7f30ccccc059e5789a9850296cb2ed3a890d1ce5c5361149d1381ada11cf7039c38"
+        },
+        "env": {
+          "client": "optional",
+          "server": "optional"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/WKwQAwke/versions/I5brbhNh/libjf-26.2.2.jar"
+        ],
+        "fileSize": 1507878
+      },
+      "curseforge": {
+        "projectID": 482600,
+        "fileID": 8731253,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "dynamic-fps",
+      "name": "Dynamic FPS",
+      "modrinth": {
+        "projectID": "LQ3K71Q1",
+        "versionID": "pC2JjFw1",
+        "path": "mods/dynamic-fps-3.11.9+minecraft-26.2.0-fabric.jar",
+        "hashes": {
+          "sha1": "e8cd9e4fbc6d42091faffc873b0801f1189ed6a5",
+          "sha512": "79b13548d7e9de9abfa23e062724a885e5341f371c500d6570056ecea7db00c2f7ace5a7288179ad8baec575b4aa992b91dccbc940c584cb5cddf0bc7aeb892f"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/LQ3K71Q1/versions/pC2JjFw1/dynamic-fps-3.11.9%2Bminecraft-26.2.0-fabric.jar"
+        ],
+        "fileSize": 188740
+      },
+      "curseforge": {
+        "projectID": 335493,
+        "fileID": 8260227,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "dynamic-lights",
+      "name": "Dynamic Lights",
+      "modrinth": {
+        "projectID": "7YjclEGc",
+        "versionID": "XAsq3xsq",
+        "path": "mods/dynamiclights-v1.9.3-mc1.17-26.2.9-mod.jar",
+        "hashes": {
+          "sha1": "4194919ace5fa7764af6f8f0f85500f664e5f0bd",
+          "sha512": "89bb5d380c5778dbca6d093a7dc82a280ab9c8142c801ccd04bbd6975ff6acf6110cef97b1641869f7bc6d963772f5689f00c90cea740d5420afed756f3caf2b"
+        },
+        "env": {
+          "client": "optional",
+          "server": "required"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/7YjclEGc/versions/XAsq3xsq/dynamiclights-v1.9.3-mc1.17-26.2.9-mod.jar"
+        ],
+        "fileSize": 426439
+      },
+      "curseforge": {
+        "projectID": 910095,
+        "fileID": 8313020,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "e4mc",
+      "name": "e4mc",
+      "modrinth": {
+        "projectID": "qANg5Jrr",
+        "versionID": "RNDvrMAd",
+        "path": "mods/e4mc-fabric-6.2.3-modern.jar",
+        "hashes": {
+          "sha1": "78a4feb50b8cb67a80ca172a56e85c9cd79d9fbb",
+          "sha512": "4e5dac0458cd533346d7a9572582a19f2f775371027ff0bfe445e025c2fa16ce22d9da924e73f64806373f82257e32b0e264cb0c29feaaa40fb03b6ff2cae8c9"
+        },
+        "env": {
+          "client": "required",
+          "server": "required"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/qANg5Jrr/versions/RNDvrMAd/e4mc-fabric-6.2.3-modern.jar"
+        ],
+        "fileSize": 663905
+      },
+      "curseforge": {
+        "projectID": 849519,
+        "fileID": 9030239,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "euphoria-patches",
+      "name": "Euphoria Patches",
+      "modrinth": {
+        "projectID": "4H6sumDB",
+        "versionID": "YYczPGkW",
+        "path": "mods/EuphoriaPatcher-1.10.5-r5.9.3-fabric.jar",
+        "hashes": {
+          "sha1": "3e2d5b02476337413fb1afba9bf74f9383338daf",
+          "sha512": "683d3b1d4c123247b1b0745683c7788ed0b30daeeb30d2e7f8b4d66193c7c7a0d228813fe47d83138af381423e37a9377dd7fd2e0818803b1e380d30ec4ad2e6"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/4H6sumDB/versions/YYczPGkW/EuphoriaPatcher-1.10.5-r5.9.3-fabric.jar"
+        ],
+        "fileSize": 4602936
+      },
+      "curseforge": {
+        "projectID": 915902,
+        "fileID": 8884683,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "fwa",
+      "name": "Fancy World Animations [FWA]",
+      "modrinth": {
+        "projectID": "IAzUFvS6",
+        "versionID": "cSXDNo3Z",
+        "path": "mods/fwa+26.2-1.3.4.jar",
+        "hashes": {
+          "sha1": "285fd04c0be4f391afd43decf6573b67add9d7fd",
+          "sha512": "3c65f24eb900cecd60b7684268d7764fc8820a5db93685a36b713c34546feb7ca4c71019af9a61539260dee3250b5cb72415a651c840b94016543a8d9c5409c9"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/IAzUFvS6/versions/cSXDNo3Z/fwa%2B26.2-1.3.4.jar"
+        ],
+        "fileSize": 220263
+      },
+      "curseforge": {
+        "projectID": 910095,
+        "fileID": 8313020,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "fast-ip-ping",
+      "name": "Fast IP Ping",
+      "modrinth": {
+        "projectID": "9mtu0sUO",
+        "versionID": "uA3MAgMy",
+        "path": "mods/fast-ip-ping-v1.0.12-mc26.2.jar",
+        "hashes": {
+          "sha1": "94fd6ea5f9f70bd385b2f0174e3856ca688b519f",
+          "sha512": "7d1aef1ff9c688bdb2859e25e7da634f61d511366c1c4d38ac6ca57fa46fa37792bde12cb47a35880ad9f5d232b67551fe74baab506c1a46b3ae164e2c3921e4"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/9mtu0sUO/versions/uA3MAgMy/fast-ip-ping-v1.0.12-mc26.2.jar"
+        ],
+        "fileSize": 11320
+      },
+      "curseforge": {
+        "projectID": 904356,
+        "fileID": 8905290,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "fastquit",
+      "name": "FastQuit",
+      "modrinth": {
+        "projectID": "x1hIzbuY",
+        "versionID": "ZZ5dfboC",
+        "path": "mods/fastquit-3.1.5+mc26.2.jar",
+        "hashes": {
+          "sha1": "0977eb0a35e1a1602bc9306ddbbb9177734131f0",
+          "sha512": "cb6e3547e3fd3c6df75cfa8bf948ded35e4ed7ccb81c401184c4f02c4b0694a141c673b238605e8719b4b48d2ba90616a3b921344cde2d68b58da3e33edca477"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/x1hIzbuY/versions/ZZ5dfboC/fastquit-3.1.5%2Bmc26.2.jar"
+        ],
+        "fileSize": 63310
+      },
+      "curseforge": {
+        "projectID": 708967,
+        "fileID": 8537736,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "ferrite-core",
+      "name": "FerriteCore",
+      "modrinth": {
+        "projectID": "uXXizFIs",
+        "versionID": "d5ddUdiB",
+        "path": "mods/ferritecore-9.0.0-fabric.jar",
+        "hashes": {
+          "sha1": "eac76ff0f3753422c61b2c44487d0d195d88d4bc",
+          "sha512": "d81fa97e11784c19d42f89c2f433831d007603dd7193cee45fa177e4a6a9c52b384b198586e04a0f7f63cd996fed713322578bde9a8db57e1188854ae5cbe584"
+        },
+        "env": {
+          "client": "optional",
+          "server": "optional"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/uXXizFIs/versions/d5ddUdiB/ferritecore-9.0.0-fabric.jar"
+        ],
+        "fileSize": 72677
+      },
+      "curseforge": {
+        "projectID": 459857,
+        "fileID": 7806040,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "immediatelyfast",
+      "name": "ImmediatelyFast",
+      "modrinth": {
+        "projectID": "5ZwdcRci",
+        "versionID": "pMWERcSu",
+        "path": "mods/ImmediatelyFast-Fabric-1.16.5+26.2.jar",
+        "hashes": {
+          "sha1": "0286260261591fe77ba0d332d5d5a2d2e868c2c6",
+          "sha512": "5836b089072c0fd796613d42c3bd01c7e401b6ad53de80328bb9d74d585de9be0ff0cfc4d6ffa1ed41008750573b0525eff8c064162a2f724ad16817a8fdaf22"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/5ZwdcRci/versions/pMWERcSu/ImmediatelyFast-Fabric-1.16.5%2B26.2.jar"
+        ],
+        "fileSize": 100500
+      },
+      "curseforge": {
+        "projectID": 686911,
+        "fileID": 8898470,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "iris",
+      "name": "Iris Shaders",
+      "modrinth": {
+        "projectID": "YL57xq9U",
+        "versionID": "gxZWWnKH",
+        "path": "mods/iris-fabric-1.11.4+mc26.2.jar",
+        "hashes": {
+          "sha1": "bd0b24731a94b8fe164531e6345718d30ab08ed2",
+          "sha512": "dee955580976aebc92373f5c2d88398ad1019b043c6254a41fe7ab8a6ca3a5ff29d58df2b22ec43a31198beb769e814658eef06fbf980066a2e2c216eeafd32a"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/YL57xq9U/versions/gxZWWnKH/iris-fabric-1.11.4%2Bmc26.2.jar"
+        ],
+        "fileSize": 2821616
+      },
+      "curseforge": {
+        "projectID": 455508,
+        "fileID": 8868971,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "sodium",
+      "name": "Sodium",
+      "modrinth": {
+        "projectID": "AANobbMI",
+        "versionID": "xJZxADzI",
+        "path": "mods/sodium-fabric-0.9.2+mc26.2.jar",
+        "hashes": {
+          "sha1": "62a70961a5b3e06938e06ab5f2dc4c5a51cf3323",
+          "sha512": "9b7a7aade8824543ce2a804fddfd04e37f57d1f91c00574e7dc87e554eb1835d888313ee6f715a7599bd729840cf01fd74e02aeae87b4e5a3c10c34a016e407c"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/AANobbMI/versions/xJZxADzI/sodium-fabric-0.9.2%2Bmc26.2.jar"
+        ],
+        "fileSize": 1885572
+      },
+      "curseforge": {
+        "projectID": 394468,
+        "fileID": 8859535,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "ixeris",
+      "name": "Ixeris",
+      "modrinth": {
+        "projectID": "p8RJPJIC",
+        "versionID": "qXHd9Vb4",
+        "path": "mods/Ixeris-4.6.11+26.2-fabric.jar",
+        "hashes": {
+          "sha1": "4163028d374ac1674daed4e317915445faf97c5a",
+          "sha512": "cfab4089bc5b14ced83e555c8c675c753217b199cc1e87560d04f5af303fb00fa8f8f041667204553395f91659634f99cd4309e63584e9baad63ff19a0d88adb"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/p8RJPJIC/versions/qXHd9Vb4/Ixeris-4.6.11%2B26.2-fabric.jar"
+        ],
+        "fileSize": 772000
+      },
+      "curseforge": {
+        "projectID": 1285307,
+        "fileID": 9381083,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "language-reload",
+      "name": "Language Reload",
+      "modrinth": {
+        "projectID": "uLbm7CG6",
+        "versionID": "doGx6rSt",
+        "path": "mods/language-reload-1.7.8+26.2.jar",
+        "hashes": {
+          "sha1": "3d5a85a0804aef395d3dffb0ee69acf634f4464c",
+          "sha512": "a52f0276f737bec32374a9db82677411483854ccb700502db8b9d8d9074d47408a8c3cbb44dc858b1192f58d5a59aa98031416876cc91d5ad5ae18fc03f33468"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/uLbm7CG6/versions/doGx6rSt/language-reload-1.7.8%2B26.2.jar"
+        ],
+        "fileSize": 79500
+      },
+      "curseforge": {
+        "projectID": 527334,
+        "fileID": 9053223,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "legendary-tooltips",
+      "name": "Legendary Tooltips",
+      "modrinth": {
+        "projectID": "atHH8NyV",
+        "versionID": "HWLtBiDe",
+        "path": "mods/LegendaryTooltips-26.2-fabric-1.6.2.1.jar",
+        "hashes": {
+          "sha1": "3de109b0e5c71566b8832e61c28536e621ca3e65",
+          "sha512": "69bfe1328762fb8214aeb52059d869d30f04e04883b6bbb5cd06637fddf438c47e82dd99a708c8c6e5ff4756fd2261b36daae4419ae9500a2cb9f5438eecd214"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/atHH8NyV/versions/HWLtBiDe/LegendaryTooltips-26.2-fabric-1.6.2.1.jar"
+        ],
+        "fileSize": 68107
+      },
+      "curseforge": {
+        "projectID": 542478,
+        "fileID": 8677161,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "iceberg",
+      "name": "Iceberg",
+      "modrinth": {
+        "projectID": "5faXoLqX",
+        "versionID": "c69GepxX",
+        "path": "mods/Iceberg-26.2-fabric-1.4.2.2.jar",
+        "hashes": {
+          "sha1": "5a6204dd615ddd11fe76fd0cc076d75e7a56e5e7",
+          "sha512": "898d28ef16643faefdc6e081380d93aca0f53ae648974d4f61a5ac7b450c5d11af457da01061cc6b2a75516fa207caf1c359afab4104940fe1bd030a2bfffe55"
+        },
+        "env": {
+          "client": "required",
+          "server": "required"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/5faXoLqX/versions/c69GepxX/Iceberg-26.2-fabric-1.4.2.2.jar"
+        ],
+        "fileSize": 360922
+      },
+      "curseforge": {
+        "projectID": 539382,
+        "fileID": 8954859,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "prism-lib",
+      "name": "Prism",
+      "modrinth": {
+        "projectID": "1OE8wbN0",
+        "versionID": "aqZytbKT",
+        "path": "mods/Prism-26.2-fabric-1.1.2.jar",
+        "hashes": {
+          "sha1": "a0d6ab08f450d21b19d5eaa20b63053ecc98c356",
+          "sha512": "00edae61c04990cc55efa58ef909d5ea52fce78bb714ec715122920ec897ceadb35b5bb27a4dccd6d0a448ffa63cbecad743702ea5df300cce6af060bfa0e839"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/1OE8wbN0/versions/aqZytbKT/Prism-26.2-fabric-1.1.2.jar"
+        ],
+        "fileSize": 60462
+      },
+      "curseforge": {
+        "projectID": 665526,
+        "fileID": 8348302,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "lmd",
+      "name": "Let Me Despawn",
+      "modrinth": {
+        "projectID": "vE2FN5qn",
+        "versionID": "j763u7jh",
+        "path": "mods/letmedespawn-fabric-26.2-1.26.11.1.jar",
+        "hashes": {
+          "sha1": "9a03113cece0c3d804e684505f774a69bafee713",
+          "sha512": "92bbe2c7563752ff47ad6fdaf66fc9f414f8287708e8e1217b8dbf84f095a185e35fb90ac8ded734fdb6a3553ec6d80087272c54e8e58c74611ec3877b499f2e"
+        },
+        "env": {
+          "client": "unsupported",
+          "server": "required"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/vE2FN5qn/versions/j763u7jh/letmedespawn-fabric-26.2-1.26.11.1.jar"
+        ],
+        "fileSize": 30351
+      },
+      "curseforge": {
+        "projectID": 663477,
+        "fileID": 9416022,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "almanac",
+      "name": "Almanac",
+      "modrinth": {
+        "projectID": "Gi02250Z",
+        "versionID": "PUsnRzLQ",
+        "path": "mods/almanac-fabric-26.2-1.26.11.1.jar",
+        "hashes": {
+          "sha1": "a15bfee20bf540f7b2c894bd7efcadf098f38626",
+          "sha512": "5236d1917c185f6b8e3cad43cbf3e74cfbf1ccc39930776e788ffa8523e073b402bc4a971d99776bd2c4ea821f548225201c3dfd45b45a6cdba12ab734cd94a7"
+        },
+        "env": {
+          "client": "unsupported",
+          "server": "required"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/Gi02250Z/versions/PUsnRzLQ/almanac-fabric-26.2-1.26.11.1.jar"
+        ],
+        "fileSize": 438553
+      },
+      "curseforge": {
+        "projectID": 1115285,
+        "fileID": 9416005,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "lithium",
+      "name": "Lithium",
+      "modrinth": {
+        "projectID": "gvQqBUqZ",
+        "versionID": "f7vZ0VWU",
+        "path": "mods/lithium-fabric-0.25.3+mc26.2.jar",
+        "hashes": {
+          "sha1": "435ad0289209bb72195e7a423756a03f5dfa5a9a",
+          "sha512": "148b638f3c6229fbaf487120a2344a0af5e411a5aa6533d5db9d75da0a8c0d8304f63eb4cca13f4d03b2c9b4c23d559dd74c1d832422ef8a3087bd005e62a8bd"
+        },
+        "env": {
+          "client": "optional",
+          "server": "optional"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/gvQqBUqZ/versions/f7vZ0VWU/lithium-fabric-0.25.3%2Bmc26.2.jar"
+        ],
+        "fileSize": 912850
+      },
+      "curseforge": {
+        "projectID": 360438,
+        "fileID": 8533307,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "macos-input-fixes",
+      "name": "MacOS Input Fixes",
+      "modrinth": {
+        "projectID": "x9BrsVME",
+        "versionID": "9ETC9GaF",
+        "path": "mods/macos-input-fixes-1.16.jar",
+        "hashes": {
+          "sha1": "8b648b1aa371af7c9450f5d4a1463a9f6372d32d",
+          "sha512": "471186a932de9ad1db8e14a076cdf3f377321e4bac58cf76bcd0ab445de9e3470673f7c8e71c58a83c61b10e2c46c24bc8d348c3a3ffc25f9da4003b0504ead1"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/x9BrsVME/versions/9ETC9GaF/macos-input-fixes-1.16.jar"
+        ],
+        "fileSize": 145470
+      },
+      "curseforge": {
+        "projectID": 678691,
+        "fileID": 9071691,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "make_bubbles_pop",
+      "name": "Make Bubbles Pop",
+      "modrinth": {
+        "projectID": "gPCdW0Wr",
+        "versionID": "CAFPNCYd",
+        "path": "mods/make_bubbles_pop-0.3.4-fabric-mc26.2.x.jar",
+        "hashes": {
+          "sha1": "9b1af574e6f3a0e532a9aa97b9eee18f00bc9e7f",
+          "sha512": "c5f4e6ecf5029014a6f3ca4fea156700dca522cb91ce3bca8f1b1c58c6d4e70239821b1bd55964d44ef06c82f31affbcbe392637f1a429cbf8b817536b88ea28"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/gPCdW0Wr/versions/CAFPNCYd/make_bubbles_pop-0.3.4-fabric-mc26.2.x.jar"
+        ],
+        "fileSize": 30757
+      },
+      "curseforge": {
+        "projectID": 605235,
+        "fileID": 8359057,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "modmenu",
+      "name": "Mod Menu",
+      "modrinth": {
+        "projectID": "mOgUt4GM",
+        "versionID": "iRo7AZXf",
+        "path": "mods/modmenu-20.0.3.jar",
+        "hashes": {
+          "sha1": "9fc381627b471c18d67156e846228f51ff2ea5b4",
+          "sha512": "c8224aa7a460d0c56ccb9978a112e4ad0d3eb17e2796e0c468a2392d220749f4f602838a11b3666145462c26078a879ab8a2fc177aa440f58e189c92a0088d6e"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/mOgUt4GM/versions/iRo7AZXf/modmenu-20.0.3.jar"
+        ],
+        "fileSize": 616919
+      },
+      "curseforge": {
+        "projectID": 308702,
+        "fileID": 8966634,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "placeholder-api",
+      "name": "Text Placeholder API",
+      "modrinth": {
+        "projectID": "eXts2L7r",
+        "versionID": "NDqH16LT",
+        "path": "mods/placeholder-api-3.1.0-beta.1+26.2.jar",
+        "hashes": {
+          "sha1": "99b57ccc1d4323c4ef71887828dac25ce4ce2103",
+          "sha512": "07b6fc802559d54ec6577f6e2788926ef391d755206c2bfb0528280977885cae4bc0c517d8a53eb6f34092015ebe6c41210627d255aa6504662daefa8fb76397"
+        },
+        "env": {
+          "client": "optional",
+          "server": "optional"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/eXts2L7r/versions/NDqH16LT/placeholder-api-3.1.0-beta.1%2B26.2.jar"
+        ],
+        "fileSize": 254973
+      },
+      "curseforge": {
+        "projectID": 1037459,
+        "fileID": 8271471,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "moreculling",
+      "name": "More Culling",
+      "modrinth": {
+        "projectID": "51shyZVL",
+        "versionID": "Qc7V2eKG",
+        "path": "mods/moreculling-fabric-26.2-1.8.2.jar",
+        "hashes": {
+          "sha1": "0c84eb55036d82e34b329658c481fd8b84c6f0e1",
+          "sha512": "7447bc7f269fdfee917ad99fa93d81db86f9b3379c7098e1172fda8a443e09aa4cfd68074a33f57cf40ea7d44135e74882b6b1a1ec9c8a9cd3e0e8d4ca64ca56"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/51shyZVL/versions/Qc7V2eKG/moreculling-fabric-26.2-1.8.2.jar"
+        ],
+        "fileSize": 364112
+      },
+      "curseforge": {
+        "projectID": 630104,
+        "fileID": 9512066,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "mouse-tweaks",
+      "name": "Mouse Tweaks",
+      "modrinth": {
+        "projectID": "aC3cM3Vq",
+        "versionID": "jOiTBIaB",
+        "path": "mods/MouseTweaks-fabric-mc26.2-2.31.jar",
+        "hashes": {
+          "sha1": "ad5b7e4ad6dc734152d41f05902b65aedb448d64",
+          "sha512": "bc77723465dc4aef7a3a8fa2fea3641df1e6ba7cc8a2d86cd2659ef65ca661f6a763d3997fdaed1f8ff6c78a4c6061f8074160ca3162a29021735779a6c55e46"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/aC3cM3Vq/versions/jOiTBIaB/MouseTweaks-fabric-mc26.2-2.31.jar"
+        ],
+        "fileSize": 75872
+      },
+      "curseforge": {
+        "projectID": 60089,
+        "fileID": 8260318,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "netherportalfix",
+      "name": "NetherPortalFix",
+      "modrinth": {
+        "projectID": "nPZr02ET",
+        "versionID": "GQpccFqg",
+        "path": "mods/netherportalfix-fabric-26.2-26.2.0.1.jar",
+        "hashes": {
+          "sha1": "dfe95129df4c97f932f50a3361dcd8bd4b029349",
+          "sha512": "59d02006e5f51bd9a7e57de05a39f6803e504303bc22fb3451e41756c41ff7333ff6348ee51cf3b585dcf27454c0556407523a1a0bc4a84639e0d0b331ce8b6b"
+        },
+        "env": {
+          "client": "unsupported",
+          "server": "required"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/nPZr02ET/versions/GQpccFqg/netherportalfix-fabric-26.2-26.2.0.1.jar"
+        ],
+        "fileSize": 215477
+      },
+      "curseforge": {
+        "projectID": 241160,
+        "fileID": 8260414,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "balm",
+      "name": "Balm",
+      "modrinth": {
+        "projectID": "MBAkmtvl",
+        "versionID": "qLWYe5p7",
+        "path": "mods/balm-fabric-26.2-26.2.0.9.jar",
+        "hashes": {
+          "sha1": "f46d8bc124a9e89d86ec14e8b8e8c6a0ab09e474",
+          "sha512": "a558ef7b432faf31e4dd35339d8d2b330343c0c84715ed3890eb1c2df5b7914c6f0beae919c8fc33ba8c2bbf6da4fb98c452c8efc5d90338d3051af70e4513a8"
+        },
+        "env": {
+          "client": "optional",
+          "server": "optional"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/MBAkmtvl/versions/qLWYe5p7/balm-fabric-26.2-26.2.0.9.jar"
+        ],
+        "fileSize": 1196564
+      },
+      "curseforge": {
+        "projectID": 531761,
+        "fileID": 8969716,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "no-more-popups",
+      "name": "No More Pop-ups",
+      "modrinth": {
+        "projectID": "sAdB6HVW",
+        "versionID": "X5NT9rpO",
+        "path": "mods/nomorepopups-fabric-26.2-2.3.1.jar",
+        "hashes": {
+          "sha1": "96c03e26539c520a97454e8b263e78598cde1019",
+          "sha512": "d9db0f4e83b691d6d21a05ba1c3ab242d97f77f4afde7ade538a970ffd231c71f97f153a6423f7e5b7bd8d2b50f03972f113a3f403bd26b910e778c76ec52857"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/sAdB6HVW/versions/X5NT9rpO/nomorepopups-fabric-26.2-2.3.1.jar"
+        ],
+        "fileSize": 36472
+      },
+      "curseforge": {
+        "projectID": 1320088,
+        "fileID": 9017183,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "obe",
+      "name": "Optimized Block Entities [OBE]",
+      "modrinth": {
+        "projectID": "AtOSAunf",
+        "versionID": "SpSJBNSj",
+        "path": "mods/obe+26.2-1.2.1.jar",
+        "hashes": {
+          "sha1": "b6bb3b0784f6ceee52940a60ac6583c9231f0a87",
+          "sha512": "5292ab7e7a73be5e9e66ea4740b25a59bb31570803c5b40c35f901b6b827da599ec21d44d012fd37d0513818f2583a39c5e874c10df0b5af67a8e3a79f14690f"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/AtOSAunf/versions/SpSJBNSj/obe%2B26.2-1.2.1.jar"
+        ],
+        "fileSize": 233911
+      },
+      "curseforge": {
+        "projectID": 1575743,
+        "fileID": 9423255,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "particle-core",
+      "name": "Particle Core",
+      "modrinth": {
+        "projectID": "RSeLon5O",
+        "versionID": "NPLw1nMG",
+        "path": "mods/particle_core-0.3.3+fix1+26.2.jar",
+        "hashes": {
+          "sha1": "1e04e1a40ea29c704c5ce008a8e737938a53a7f5",
+          "sha512": "7818227221913c2be92f7ef2882abfa85629e126fdd86c5715772df27334c1774aa30a87e88cd373d7d65cebdde2576592b10767ac62fcb5de2cf54d41a8bca5"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/RSeLon5O/versions/NPLw1nMG/particle_core-0.3.3%2Bfix1%2B26.2.jar"
+        ],
+        "fileSize": 141191
+      },
+      "curseforge": {
+        "projectID": 985426,
+        "fileID": 9118707,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "fabric-language-kotlin",
+      "name": "Fabric Language Kotlin",
+      "modrinth": {
+        "projectID": "Ha28R6CL",
+        "versionID": "SKW1BTL3",
+        "path": "mods/fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar",
+        "hashes": {
+          "sha1": "f1d4ab6ecd54d9782521333a87eb50724ecb03e0",
+          "sha512": "7fb475c4a7e7bdf8d0aca4b5798a58a354c51443d5b1fbde3e8cf34dfbf7191ef4238b5f07d08ec9490ec180b371624523326c3ad45d4ed2b2be541de9407e5d"
+        },
+        "env": {
+          "client": "optional",
+          "server": "optional"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/Ha28R6CL/versions/SKW1BTL3/fabric-language-kotlin-1.14.2%2Bkotlin.2.4.21.jar"
+        ],
+        "fileSize": 8142878
+      },
+      "curseforge": {
+        "projectID": 308769,
+        "fileID": 9106173,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "fzzy-config",
+      "name": "Fzzy Config",
+      "modrinth": {
+        "projectID": "hYykXjDp",
+        "versionID": "tZ4vc79R",
+        "path": "mods/fzzy_config-0.7.7+26.2.jar",
+        "hashes": {
+          "sha1": "0edaa24407199f73895550a027455df6012c368b",
+          "sha512": "fb8f7f838eaf469e5e545132f264a9f6cdc36bb99a4a7e1ce77f9915a2aa7b7e630692103169a64f55dbe5e5c9a224e0b026a98a027c6c13a819727ef2dde57e"
+        },
+        "env": {
+          "client": "required",
+          "server": "required"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/hYykXjDp/versions/tZ4vc79R/fzzy_config-0.7.7%2B26.2.jar"
+        ],
+        "fileSize": 2395514
+      },
+      "curseforge": {
+        "projectID": 1005914,
+        "fileID": 8883836,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "particle-rain",
+      "name": "Particle Rain",
+      "modrinth": {
+        "projectID": "nrikgvxm",
+        "versionID": "A1EBM0Vd",
+        "path": "mods/particlerain-4.0.3+26.2-fabric.jar",
+        "hashes": {
+          "sha1": "0e03ad3dbdeb7730a9e8658f1a06c93e0ccd6307",
+          "sha512": "0f285047a4b85b41aec6dd266a507ccaee5b62f2b63ed70f1814575ad4fe0419daa82929e5889d623ab35ecc145484ce9c419777b79508a030950731072c66f1"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/nrikgvxm/versions/A1EBM0Vd/particlerain-4.0.3%2B26.2-fabric.jar"
+        ],
+        "fileSize": 628239
+      },
+      "curseforge": {
+        "projectID": 421897,
+        "fileID": 9430145,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "presence-footsteps",
+      "name": "Presence Footsteps",
+      "modrinth": {
+        "projectID": "rcTfTZr3",
+        "versionID": "8TkGmrgl",
+        "path": "mods/PresenceFootsteps-1.13.3+26.2.jar",
+        "hashes": {
+          "sha1": "07791ec2f22d779c42cb06e71cff834da9d85456",
+          "sha512": "c0b6a1fc1340b7666903f680e12c45fdd24cb75a34ee5eea815e4f8b77752e3f4ecea1df5971ef87474316c97f94ac424c27a75b8b67ca1100467d6ad6181f79"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/rcTfTZr3/versions/8TkGmrgl/PresenceFootsteps-1.13.3%2B26.2.jar"
+        ],
+        "fileSize": 5749193
+      },
+      "curseforge": {
+        "projectID": 334259,
+        "fileID": 8887099,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "rrls",
+      "name": "Remove Reloading Screen",
+      "modrinth": {
+        "projectID": "ZP7xHXtw",
+        "versionID": "DVwuMj1w",
+        "path": "mods/rrls-5.2.8+mc.26.2.jar",
+        "hashes": {
+          "sha1": "b74544c874a3b679acad16a31e34bb23443a5357",
+          "sha512": "19e5e346de40f92a8e821bdaa1ddefd342b4f6b56e0bf526a24a08f8bdb8ef88cab1f6ddc893b092bdad196f24a31d1df0d006808a2d69689774cd2e8a503b58"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/ZP7xHXtw/versions/DVwuMj1w/rrls-5.2.8%2Bmc.26.2.jar"
+        ],
+        "fileSize": 119145
+      },
+      "curseforge": {
+        "projectID": 833233,
+        "fileID": 8549336,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "scalablelux",
+      "name": "ScalableLux",
+      "modrinth": {
+        "projectID": "Ps1zyz6x",
+        "versionID": "FuGn0NlI",
+        "path": "mods/ScalableLux-0.2.1+fabric.2b08348-all.jar",
+        "hashes": {
+          "sha1": "4f04d101866a35a50c713efec7181a33f9f657e2",
+          "sha512": "46cc3df58ad2723fb7f925da0e380e22481e15ceb0e61fbd7947f48d2902e7a67ae4d2d22df4faab4e3140ccf79aa9f59d91ec9959bd6e2afbf0fb90970a02fc"
+        },
+        "env": {
+          "client": "optional",
+          "server": "optional"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/Ps1zyz6x/versions/FuGn0NlI/ScalableLux-0.2.1%2Bfabric.2b08348-all.jar"
+        ],
+        "fileSize": 183405
+      },
+      "curseforge": {
+        "projectID": 1055925,
+        "fileID": 8235664,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "simple-snowy-fix-forge-fabric",
+      "name": "Simple Snowy Fix (Forge / Fabric)",
+      "modrinth": {
+        "projectID": "3WP3HZRG",
+        "versionID": "UozDVv1N",
+        "path": "mods/simple_snowy_fix-fabric-26.1-26.2-2.2.1.jar",
+        "hashes": {
+          "sha1": "679e0ab79127ef0e972dd275cb1a98fdd5c8a0ea",
+          "sha512": "3b927c82ce049a1c67847502c07c4f223444780e71475fc2658261016d421f6baca36dd3176cf49a7a15fd226815deacc0e4a162ca416fc012af61bd8ba0c6cd"
+        },
+        "env": {
+          "client": "unsupported",
+          "server": "required"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/3WP3HZRG/versions/UozDVv1N/simple_snowy_fix-fabric-26.1-26.2-2.2.1.jar"
+        ],
+        "fileSize": 119464
+      },
+      "curseforge": {
+        "projectID": 1211256,
+        "fileID": 8274401,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "sodium-extra",
+      "name": "Sodium Extra",
+      "modrinth": {
+        "projectID": "PtjYWJkn",
+        "versionID": "GJjGKm2A",
+        "path": "mods/sodium-extra-fabric-0.9.5+mc26.2.jar",
+        "hashes": {
+          "sha1": "ac099861fd861f5de2b62501f9c3c07ee81c5046",
+          "sha512": "bba7dbd8aeae0c6ae9b2f94f2899b2a6bd05be498c90959727f8e4fc515f85946ebcc9704ae0c29fa34c56ad755a66fd7815e8d27779eddb4decccc1723c7eae"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/PtjYWJkn/versions/GJjGKm2A/sodium-extra-fabric-0.9.5%2Bmc26.2.jar"
+        ],
+        "fileSize": 502161
+      },
+      "curseforge": {
+        "projectID": 447673,
+        "fileID": 9324160,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "sodium-shadowy-path-blocks",
+      "name": "Sodium Shadowy Path Blocks (SSPB)",
+      "modrinth": {
+        "projectID": "EIa1eiMm",
+        "versionID": "ygm51jhU",
+        "path": "mods/sodium-shadowy-path-blocks-fabric-7.0.0.jar",
+        "hashes": {
+          "sha1": "1399156a64c7bfbc38fa21af935495cfb74923c3",
+          "sha512": "8e8b87f5c50d0c183ff9aff5bbfc8334498b6f8da093de4adbf18773602f0c1de0d0bb71d1f5af35e7b811b3e788a55db525b67ea52ba0de6935f2e46f321a9e"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/EIa1eiMm/versions/ygm51jhU/sodium-shadowy-path-blocks-fabric-7.0.0.jar"
+        ],
+        "fileSize": 67690
+      },
+      "curseforge": {
+        "projectID": 556408,
+        "fileID": 7854083,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "sound",
+      "name": "Sounds",
+      "modrinth": {
+        "projectID": "ZouiUX7t",
+        "versionID": "kv2RxMQu",
+        "path": "mods/sounds-2.5.1+edge+26.2-fabric.jar",
+        "hashes": {
+          "sha1": "557183656b2a09545c7348507880c5f59293d16b",
+          "sha512": "7563d48eea3c195b516130359199ec981826bf1c1aa757b23f5e6f1aca7afb27a5992ac2f37231f9101c5ccb0d13b737a9af37c47169846f826e0b0243188311"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/ZouiUX7t/versions/kv2RxMQu/sounds-2.5.1%2Bedge%2B26.2-fabric.jar"
+        ],
+        "fileSize": 8140184
+      },
+      "curseforge": {
+        "projectID": 925889,
+        "fileID": 8343098,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "mru",
+      "name": "MRU",
+      "modrinth": {
+        "projectID": "SNVQ2c0g",
+        "versionID": "YQCP346A",
+        "path": "mods/mru-1.0.45+26.2-fabric.jar",
+        "hashes": {
+          "sha1": "b46a02a39ff7fcffd6e68b30dd777573406e3e2d",
+          "sha512": "681aae0b11b46f0744ca9ca0bf524df25e43223523a31000cfffc32dd2a8dea354c3b6119c89111b95d3c83e55403aa2bc2819e37601b8d7b8982f0fc8161726"
+        },
+        "env": {
+          "client": "optional",
+          "server": "optional"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/SNVQ2c0g/versions/YQCP346A/mru-1.0.45%2B26.2-fabric.jar"
+        ],
+        "fileSize": 168239
+      },
+      "curseforge": {
+        "projectID": 669659,
+        "fileID": 9401070,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "yacl",
+      "name": "YetAnotherConfigLib (YACL)",
+      "modrinth": {
+        "projectID": "1eAoo2KR",
+        "versionID": "DoR7RYgi",
+        "path": "mods/yet_another_config_lib_v3-3.9.7+26.2-fabric.jar",
+        "hashes": {
+          "sha1": "79c8ee7f8a0e775190dfff59be1e505e2f432998",
+          "sha512": "f36d91a9506ad9addbaaeecaea01d2b0cb5b060f52486b17688746cb597f0f3b23a80f8441f7a73a9cb8cde85af8809fe54825984b56345325359d505a80e7f2"
+        },
+        "env": {
+          "client": "optional",
+          "server": "optional"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/1eAoo2KR/versions/DoR7RYgi/yet_another_config_lib_v3-3.9.7%2B26.2-fabric.jar"
+        ],
+        "fileSize": 1125271
+      },
+      "curseforge": {
+        "projectID": 667299,
+        "fileID": 8935502,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "snow-under-trees",
+      "name": "Snow Under Trees",
+      "modrinth": {
+        "projectID": "Q3vyMuj2",
+        "versionID": "ubJYO77l",
+        "path": "mods/snowundertrees-fabric-26.1.2-1.6.1.jar",
+        "hashes": {
+          "sha1": "78d3b1c7252eadc01a3e58e5710252f6653ed510",
+          "sha512": "88b3ebd17b1844dc7586921bf1b9fc09e6d904f4f35bee3cc4690a42696207c665a7a4e8a2db2609a5a717f1807dee85c3d0443b03b0acaa9318a31c75d0066c"
+        },
+        "env": {
+          "client": "unsupported",
+          "server": "required"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/Q3vyMuj2/versions/ubJYO77l/snowundertrees-fabric-26.1.2-1.6.1.jar"
+        ],
+        "fileSize": 251934
+      },
+      "curseforge": {
+        "projectID": 353942,
+        "fileID": 8249270,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "forge-config-api-port",
+      "name": "Forge Config API Port",
+      "modrinth": {
+        "projectID": "ohNO6lps",
+        "versionID": "rSd3GiG8",
+        "path": "mods/ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar",
+        "hashes": {
+          "sha1": "a4083de0d8e0c19b993d21f7a576216efb5ceb23",
+          "sha512": "948b8d83de61a11aad2fc0bb0744a8b4848c9b2f0663c9aa015389d9560b3fa78518e609c44ec90278de0e159a92ebd721ccbdebb453aa455c353e5cd19413bf"
+        },
+        "env": {
+          "client": "optional",
+          "server": "optional"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/ohNO6lps/versions/rSd3GiG8/ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar"
+        ],
+        "fileSize": 609550
+      },
+      "curseforge": {
+        "projectID": 547434,
+        "fileID": 8292030,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "ticks",
+      "name": "Ticks",
+      "modrinth": {
+        "projectID": "X0B3FAp6",
+        "versionID": "6APaP1wS",
+        "path": "mods/ticks-1.0.2+26.2-fabric.jar",
+        "hashes": {
+          "sha1": "c4bae0cc924ba31783f21bbef48b3d5946573806",
+          "sha512": "923889e254e3fbdffe2d2e74d78ce39b6b2a5f4594672ea65277b21c8bc50f2ad87ff14c351e6a329372b3c4a97c2b884bbf2562605f41744a0ddbbbfdfba73a"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/X0B3FAp6/versions/6APaP1wS/ticks-1.0.2%2B26.2-fabric.jar"
+        ],
+        "fileSize": 17290
+      },
+      "curseforge": {
+        "projectID": 1626862,
+        "fileID": 9210872,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "respackopts",
+      "name": "Respackopts",
+      "modrinth": {
+        "projectID": "TiF5QWZY",
+        "versionID": "ajKcHatH",
+        "path": "mods/respackopts-26.2.2.jar",
+        "hashes": {
+          "sha1": "dfb14e9cd45e789d4a7f410983015395147867b8",
+          "sha512": "3f85acaa6c9119dd24d58c31f90de848eb6828f2ce4f28339e7ac6a19308ec550d6a97d2ef313a10ed19c7b31c8a89517450afdf5c0e7c91cc24afc98a787640"
+        },
+        "env": {
+          "client": "optional",
+          "server": "optional"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/TiF5QWZY/versions/ajKcHatH/respackopts-26.2.2.jar"
+        ],
+        "fileSize": 930821
+      },
+      "curseforge": {
+        "projectID": 430090,
+        "fileID": 8732029,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "particular-reforged",
+      "name": "Particular ✨ Reforged",
+      "modrinth": {
+        "projectID": "pYFUU6cq",
+        "versionID": "1VSvTbTm",
+        "path": "mods/particular-26.2-Fabric-1.5.7.jar",
+        "hashes": {
+          "sha1": "6ed9738b020c28008fa2719009dc07b34dec0771",
+          "sha512": "2904a35bd515a85083ea111c74408e30b34b9710c025c4a0d9993c7313ebebf35ff1c2c89fb21f268bb998090742117cb75d368b6cc791a44bbe823345c32b6a"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/pYFUU6cq/versions/1VSvTbTm/particular-26.2-Fabric-1.5.7.jar"
+        ],
+        "fileSize": 287963
+      },
+      "curseforge": {
+        "projectID": 1219053,
+        "fileID": 8662712,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "baguettelib",
+      "name": "BaguetteLib",
+      "modrinth": {
+        "projectID": "OfKzpbRU",
+        "versionID": "fFGGMnVe",
+        "path": "mods/baguettelib-26.2-Fabric-2.0.7.jar",
+        "hashes": {
+          "sha1": "f41cfe6d69bbc7fe436d039dbb7eb0457b5acb04",
+          "sha512": "708bbc603c102c488213b5f4234c1b1dbea18f301b411efb1339ae8f1a35a4eff97eda6fa3a71db7340020cbf327238896e8a12e47fab05d45b6a23614446788"
+        },
+        "env": {
+          "client": "unsupported",
+          "server": "required"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/OfKzpbRU/versions/fFGGMnVe/baguettelib-26.2-Fabric-2.0.7.jar"
+        ],
+        "fileSize": 108553
+      },
+      "curseforge": {
+        "projectID": 1264423,
+        "fileID": 8887470,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "subtle-effects",
+      "name": "Subtle Effects",
+      "modrinth": {
+        "projectID": "4q8UOK1d",
+        "versionID": "jBBK1eBb",
+        "path": "mods/SubtleEffects-fabric-26.2-1.15.1.jar",
+        "hashes": {
+          "sha1": "b0f8fbcdf48ff631fea5ada80d60482ab2eb470b",
+          "sha512": "7944d374562a717374a3246b9dea0b4ba8c63c55e2e733fe35b989df202950a9b537c4de4d01b888e14531b4718b522617909fb43725c384c9516fb55015e55c"
+        },
+        "env": {
+          "client": "required",
+          "server": "optional"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/4q8UOK1d/versions/jBBK1eBb/SubtleEffects-fabric-26.2-1.15.1.jar"
+        ],
+        "fileSize": 3511198
+      },
+      "curseforge": {
+        "projectID": 1023913,
+        "fileID": 9150664,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "dynamiccrosshair",
+      "name": "Dynamic Crosshair",
+      "modrinth": {
+        "projectID": "ZcR9weSm",
+        "versionID": "JGy4NTx0",
+        "path": "mods/dynamiccrosshair-9.14+26.2-fabric.jar",
+        "hashes": {
+          "sha1": "f06694a1d21e0c19f2cf03156df82656bd59db91",
+          "sha512": "23d0ef2cf46b1c2c2d82b6551abd9641c72925e8598dc12f67e18a73384282a04cf4265e4a1ae07f7f786c3fbf60b80608ee76261dae985634502289e98bdc3a"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/ZcR9weSm/versions/JGy4NTx0/dynamiccrosshair-9.14%2B26.2-fabric.jar"
+        ],
+        "fileSize": 536169
+      },
+      "curseforge": {
+        "projectID": 623800,
+        "fileID": 8286811,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "handycam",
+      "name": "Handycam",
+      "modrinth": {
+        "projectID": "kONpDzH3",
+        "versionID": "zuZK0Io7",
+        "path": "mods/handycam-1.3.1-fabric-26.2.jar",
+        "hashes": {
+          "sha1": "0795b9a347dc88ea7ee38edd7dd5895489ae9914",
+          "sha512": "b79fe4bc846c4f9aedf2f077dc5a50e49bb72606bbc19e477de7eab57b3fd5e90f7a6a7507ea7f8df4cf053caa7ed135c4a13420ffcee352ceced55445864ccf"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/kONpDzH3/versions/zuZK0Io7/handycam-1.3.1-fabric-26.2.jar"
+        ],
+        "fileSize": 112911
+      },
+      "curseforge": {
+        "projectID": 1588734,
+        "fileID": 8353124,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "coolrain",
+      "name": "Cool Rain",
+      "modrinth": {
+        "projectID": "iDyqnQLT",
+        "versionID": "zc88gNk3",
+        "path": "mods/coolrain-1.4.0-26.2.jar",
+        "hashes": {
+          "sha1": "afa1d97a1b942148b300ce8f1e668cd357bdebb6",
+          "sha512": "02c709c3a6983f38cc5b4fca92b238ebf61c5f5c1c4ae86458905f8e2d2e7064a83786db22d8fb97162ecf3e0646d896e4d6060f77f6356427bb44e17a97f6c5"
+        },
+        "env": {
+          "client": "required",
+          "server": "optional"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/iDyqnQLT/versions/zc88gNk3/coolrain-1.4.0-26.2.jar"
+        ],
+        "fileSize": 4139861
+      },
+      "curseforge": {
+        "projectID": 1196599,
+        "fileID": 8287467,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "not-enough-animations",
+      "name": "Not Enough Animations",
+      "modrinth": {
+        "projectID": "MPCX6s5C",
+        "versionID": "PtkLygDD",
+        "path": "mods/notenoughanimations-fabric-1.12.7-mc26.2.jar",
+        "hashes": {
+          "sha1": "d7769138a91c9d8a9437457539c1acd3b334787f",
+          "sha512": "47b7dd513c8388d4cca24571582b64a6a1c73bdefa52155e16dcee3e3a7252c126c8220831ee49084b26150df7bae4b3b08b3da985dd240eb4bd6feec1db3b9f"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/MPCX6s5C/versions/PtkLygDD/notenoughanimations-fabric-1.12.7-mc26.2.jar"
+        ],
+        "fileSize": 1867051
+      },
+      "curseforge": {
+        "projectID": 433760,
+        "fileID": 9396214,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "firstperson",
+      "name": "First Person",
+      "modrinth": {
+        "projectID": "tWTkGdbk",
+        "versionID": "kWi3qjCi",
+        "path": "mods/[26.2] First Person [1.4.0].jar",
+        "hashes": {
+          "sha1": "483c991adf0229afacb90a2464bdc61516b8623f",
+          "sha512": "b323eb2ff680106a8af03c63a170bc2781a4a1ab6e955c416f1a4def11f04a7f873c76f639f1ca9bd477be49dd8afdec2efeb32f07791fa8491d52b1d4a2af50"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/tWTkGdbk/versions/kWi3qjCi/%5B26.2%5D%20First%20Person%20%5B1.4.0%5D.jar"
+        ],
+        "fileSize": 34400
+      }
+    },
+    {
+      "slug": "not-enough-animations-emf-compat",
+      "name": "EMF Compat: Not Enough Animations",
+      "modrinth": {
+        "projectID": "IGCrWfL7",
+        "versionID": "efw5o1XH",
+        "path": "mods/emf_compat_not_enough_animations_fabric_26.2_1.2.1.jar",
+        "hashes": {
+          "sha1": "8833bdc4c1e62e51631b187dc2c49f4232d350a2",
+          "sha512": "4dace94900da8e72c4b6fbf13529958786eb3df2bf7d1c90313151c4bf1465488d1137e174307cee9b13463b81459f29933043f6cf3e728bd1b3fdac49076b44"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/IGCrWfL7/versions/efw5o1XH/emf_compat_not_enough_animations_fabric_26.2_1.2.1.jar"
+        ],
+        "fileSize": 112994
+      },
+      "curseforge": {
+        "projectID": 1605181,
+        "fileID": 9103622,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "emf-compat-core",
+      "name": "EMF Compat: Core",
+      "modrinth": {
+        "projectID": "hbGct5uU",
+        "versionID": "nvrwQEfY",
+        "path": "mods/emf_compat_core_fabric_26.2_2.4.0.jar",
+        "hashes": {
+          "sha1": "bf937beb6ead8ef3414c38c7553204ff3e9929a5",
+          "sha512": "02f5b0ae3f28859df168644919d813fcca2ab4cbdc810b768c0959ff4d646303b725141fd44a228332fbf3148382a419801df9774371036d71c71659d0199823"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/hbGct5uU/versions/nvrwQEfY/emf_compat_core_fabric_26.2_2.4.0.jar"
+        ],
+        "fileSize": 182771
+      },
+      "curseforge": {
+        "projectID": 1605113,
+        "fileID": 9524648,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "first-person-model",
+      "name": "First-person Model",
+      "modrinth": {
+        "projectID": "H5XMjpHi",
+        "versionID": "f4rPoQxS",
+        "path": "mods/firstperson-fabric-2.7.3-mc26.2.jar",
+        "hashes": {
+          "sha1": "9a5f7f95c274ce2aa110cf19297426d63955b561",
+          "sha512": "ce2d3df367b431eb0db33c64c95dc281581ad51d15f4776f7b1d0076588eb001dd087b535006dc6c3b8dbf57ba79d2952fb3a0811d35a9ec776b012c958b6052"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/H5XMjpHi/versions/f4rPoQxS/firstperson-fabric-2.7.3-mc26.2.jar"
+        ],
+        "fileSize": 1526783
+      },
+      "curseforge": {
+        "projectID": 333287,
+        "fileID": 8990503,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "sound-physics-remastered",
+      "name": "Sound Physics Remastered",
+      "modrinth": {
+        "projectID": "qyVF9oeo",
+        "versionID": "spaXzTE9",
+        "path": "mods/sound-physics-remastered-fabric-1.5.2+26.2.jar",
+        "hashes": {
+          "sha1": "d59f8b345a1b62b8045634eb94d2c7a8f0c3a2c9",
+          "sha512": "d5809918e129b324767f4ec9d3fcc6a604de7860f2512db9f3dd368d8894cc8376de6eb659e78ce85bb97020315a3af877d96f07aea160e04c7925e0521a367e"
+        },
+        "env": {
+          "client": "required",
+          "server": "optional"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/qyVF9oeo/versions/spaXzTE9/sound-physics-remastered-fabric-1.5.2%2B26.2.jar"
+        ],
+        "fileSize": 202335
+      },
+      "curseforge": {
+        "projectID": 535489,
+        "fileID": 9280040,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "betterf3",
+      "name": "BetterF3",
+      "modrinth": {
+        "projectID": "8shC1gFX",
+        "versionID": "TVXtAI9s",
+        "path": "mods/BetterF3-19.0.1-Fabric-26.2.jar",
+        "hashes": {
+          "sha1": "5e03d73e071df64c42653b63284029cf44a4bfef",
+          "sha512": "10bd5bab69c86a267722c134f5e3fcbd681d523cb49ec77f7f42bc60fb98b68638309fc002cbf54cc2c566127e31c19aaa6db92d657312cac8263496d56874d3"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/8shC1gFX/versions/TVXtAI9s/BetterF3-19.0.1-Fabric-26.2.jar"
+        ],
+        "fileSize": 719166
+      },
+      "curseforge": {
+        "projectID": 401648,
+        "fileID": 9062672,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "misctweaks",
+      "name": "MiscTweaks",
+      "modrinth": {
+        "projectID": "9sMkzzYU",
+        "versionID": "33nKJJQH",
+        "path": "mods/misctweaks-fabric-1.4.2+26.2.jar",
+        "hashes": {
+          "sha1": "4c243c117b01284d11fd34047b1f46a0337c4333",
+          "sha512": "2d52cbeb657dea58bf8971c2572dae7a83c766d1d8a2a951fb1d63fd4c3e3b22703ee9cec6812d3c0a71c5d6f68f9a4980a07f6c0884ec931ccf3e1f3aea81df"
+        },
+        "env": {
+          "client": "optional",
+          "server": "required"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/9sMkzzYU/versions/33nKJJQH/misctweaks-fabric-1.4.2%2B26.2.jar"
+        ],
+        "fileSize": 198408
+      },
+      "curseforge": {
+        "projectID": 1227334,
+        "fileID": 8800511,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "mixson",
+      "name": "mixson",
+      "modrinth": {
+        "projectID": "EgugIDm8",
+        "versionID": "76WpeR5z",
+        "path": "mods/mixson-2.2.0-multiloader.jar",
+        "hashes": {
+          "sha1": "d21e738c6e0d462b74053272773762e92e90054d",
+          "sha512": "0add1efe32cc073e822e4069afd4b2d2cd9e7175362519da4f954e36ba2012acf46aae681582da9e905df240f8f2e26ae23cc1b13da3107e5bf1c31c86ea6381"
+        },
+        "env": {
+          "client": "optional",
+          "server": "optional"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/EgugIDm8/versions/76WpeR5z/mixson-2.2.0-multiloader.jar"
+        ],
+        "fileSize": 62343
+      },
+      "curseforge": {
+        "projectID": 1548144,
+        "fileID": 8116751,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "smart-completion",
+      "name": "Smart Completion",
+      "modrinth": {
+        "projectID": "Go1Kxy32",
+        "versionID": "rjtNT0Mx",
+        "path": "mods/smartcompletion-26.2-fabric-3.0.0.jar",
+        "hashes": {
+          "sha1": "ec991522fb826705d385bb4d8349745a200d128a",
+          "sha512": "de6293ea20348a370aa9da206a4264173b196a067c3c1f302ac21e06f5d26db2af57a085518a6b2f2922f8f20979d0d761edd992de0c66370b7fd975aaffef0d"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/Go1Kxy32/versions/rjtNT0Mx/smartcompletion-26.2-fabric-3.0.0.jar"
+        ],
+        "fileSize": 121631
+      },
+      "curseforge": {
+        "projectID": 782653,
+        "fileID": 8473085,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "detail-armor-bar-reconstructed",
+      "name": "Detail Armor Bar Reconstructed",
+      "modrinth": {
+        "projectID": "Si9Uim4y",
+        "versionID": "lVIRNeQ4",
+        "path": "mods/DetailArmorBarReconstructed-5.3.2-26.2-fabric.jar",
+        "hashes": {
+          "sha1": "91d514394a4b9aff93806a39e53f5ca3a057c8cf",
+          "sha512": "1ac30c8483acb790f84723960d5bc855c187a626ca41bf427be201f621da49ffc3d6a2a00d46747e53513763975808e31eff788bd9f8a447a45bb689dacb800b"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/Si9Uim4y/versions/lVIRNeQ4/DetailArmorBarReconstructed-5.3.2-26.2-fabric.jar"
+        ],
+        "fileSize": 130392
+      },
+      "curseforge": {
+        "projectID": 1290628,
+        "fileID": 9381031,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "eclipseui",
+      "name": "EclipseUI",
+      "modrinth": {
+        "projectID": "99cGtHRy",
+        "versionID": "EW0sBZm4",
+        "path": "mods/EclipseUI-fabric-1.0.5+mc26.2-rc-2.jar",
+        "hashes": {
+          "sha1": "92e14d64171027113fbfb45bad5534fe31f81f15",
+          "sha512": "edc9e54b56c590f6b9e21178f6d0e05863a876ec6bb520b7842185785baca09b2ddb079a593314ce02b0296a384f4b61ff559bdac6584b1069534151a4e33a98"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/99cGtHRy/versions/EW0sBZm4/EclipseUI-fabric-1.0.5%2Bmc26.2-rc-2.jar"
+        ],
+        "fileSize": 1513486
+      },
+      "curseforge": {
+        "projectID": 1509307,
+        "fileID": 8264738,
+        "required": true,
+        "isLocked": false
+      }
+    }
+  ],
+  "resources_packs": [
+    {
+      "slug": "crystal-tooltips",
+      "name": "Crystal Tooltips",
+      "modrinth": {
+        "projectID": "FVonl8G5",
+        "versionID": "kwREDj2M",
+        "path": "resourcepacks/Crystal-Tooltips.zip",
+        "hashes": {
+          "sha1": "13b55b603b28b2e40fea45aa19d05820a031b6d0",
+          "sha512": "8b42b77d75923c72af61aa2249ee25e19cea26743dd5228414e18b692c9e1bd8428552d32e8e30a18828ccdb39b2adefe2bd13fc4a55a42269587d365c3ab987"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/FVonl8G5/versions/kwREDj2M/Crystal-Tooltips.zip"
+        ],
+        "fileSize": 65993
+      },
+      "curseforge": {
+        "projectID": 1373065,
+        "fileID": 9097607,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "fast-better-grass",
+      "name": "Fast Better Grass",
+      "modrinth": {
+        "projectID": "dspVZXKP",
+        "versionID": "U9zNcnWW",
+        "path": "resourcepacks/Fast Better Grass.zip",
+        "hashes": {
+          "sha1": "3a344f8e36a2e748f11dce1c246b5c6ce91141f1",
+          "sha512": "cc3641e82595f3e72f3075e7c5647fa4d65188c1d9e498be42e8169a03ccd71907fcb625d5ad51a9e8aabcd41e2ab56ec1e4f3be19dfdadff6c06c7736ae915c"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/dspVZXKP/versions/U9zNcnWW/Fast%20Better%20Grass.zip"
+        ],
+        "fileSize": 10928
+      },
+      "curseforge": {
+        "projectID": 819030,
+        "fileID": 8259877,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "vanilla-plus-hud",
+      "name": "Vanilla+ HUD",
+      "modrinth": {
+        "projectID": "BSuopNBj",
+        "versionID": "eRFdx89r",
+        "path": "resourcepacks/Vanilla-plus-HUD.zip",
+        "hashes": {
+          "sha1": "e8c72d2a88410c6d970b9ea379da54b1a9372cde",
+          "sha512": "045f7d2f719166ff06c734cd8462a8a0b8898c5b5b341b7b8ec129b703d5b94386ddeae79beb6b14188689de5bfd32bf86061ab6f74430f07e54a0f63878f860"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/BSuopNBj/versions/eRFdx89r/Vanilla-plus-HUD.zip"
+        ],
+        "fileSize": 44659
+      },
+      "curseforge": {
+        "projectID": 1491926,
+        "fileID": 7791073,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "translations-for-sodium",
+      "name": "Translations for Sodium",
+      "modrinth": {
+        "projectID": "yfDziwn1",
+        "versionID": "fgDarc1B",
+        "path": "resourcepacks/SodiumTranslations.zip",
+        "hashes": {
+          "sha1": "ad9631dfbf5b23ad80604110e4a00215a7f44f1d",
+          "sha512": "5237cbdf8f69b26234c3806b72a0e8ef84ea98edba6d1d376d73c9a4c024815f569a7e1c0fd6511176a23231f9706d53268f88200a676bac4e501c5cd30d5ff8"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/yfDziwn1/versions/fgDarc1B/SodiumTranslations.zip"
+        ],
+        "fileSize": 289761
+      },
+      "curseforge": {
+        "projectID": 867964,
+        "fileID": 9486933,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "eating-animation-resource-pack",
+      "name": "Eating Animation Resource Pack",
+      "modrinth": {
+        "projectID": "xOCLHTN8",
+        "versionID": "DQQNYLfR",
+        "path": "resourcepacks/Eating Animation v1.1.zip",
+        "hashes": {
+          "sha1": "008abb9f86097743c2eba400bd6de04fbf7a5465",
+          "sha512": "b8ce53f7c0fbf6e385046736f1bdc0abe8cdb481980f3fd06466aa6fa1d514bb66943fc7d090db500e26280f35741f74fff740c8a3fc7f3a0c48c9efb8fcb0dc"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/xOCLHTN8/versions/DQQNYLfR/Eating%20Animation%20v1.1.zip"
+        ],
+        "fileSize": 124971
+      }
+    },
+    {
+      "slug": "fresh-animations",
+      "name": "Fresh Animations",
+      "modrinth": {
+        "projectID": "50dA9Sha",
+        "versionID": "xfE3qfr5",
+        "path": "resourcepacks/FreshAnimations_v1.11.2_26.1+.zip",
+        "hashes": {
+          "sha1": "8176a3c13963aac2adc1f12214ceabfc45127ab2",
+          "sha512": "c0a529479b9e43465d8b5c5f939711fded92d92fd26053b75fcbe0560046e23655f2d429d108b286cbfceb0470960b5a519ac2311ab108899b7529b76a9e9e30"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/50dA9Sha/versions/xfE3qfr5/FreshAnimations_v1.11.2_26.1%2B.zip"
+        ],
+        "fileSize": 778725
+      },
+      "curseforge": {
+        "projectID": 453763,
+        "fileID": 9394038,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "fresh-animations-extensions",
+      "name": "Fresh Animations: Extensions",
+      "modrinth": {
+        "projectID": "YAVTU8mK",
+        "versionID": "zphVu6Oe",
+        "path": "resourcepacks/FA+All_Extensions-v1.10.1.zip",
+        "hashes": {
+          "sha1": "33c6cc4d621ba7f27e2d5c45269ac28f2287deae",
+          "sha512": "7accd41fc3b4286e08085b3dcc3818c6c4d1c0e4a90d6b13bed125a827131531706d20c62ec87edd271c8880077c25d7731acaae88e5f5ec0fa92f5600e6859e"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/YAVTU8mK/versions/zphVu6Oe/FA%2BAll_Extensions-v1.10.1.zip"
+        ],
+        "fileSize": 548952
+      },
+      "curseforge": {
+        "projectID": 813608,
+        "fileID": 9389506,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "icons",
+      "name": "Icons",
+      "modrinth": {
+        "projectID": "O7z3QKAG",
+        "versionID": "5mLQJaIu",
+        "path": "resourcepacks/Icons v.1.14.zip",
+        "hashes": {
+          "sha1": "febb55bee872325eaeaa1d361c275d212762c902",
+          "sha512": "0a0e8dbc1b25dee08b72942f55c83061cbf02ab1aafd728bd333f844e507f766d201dbededada7d7252d0f399dd1fb1d713ea1e53e93721788a2218160394cd4"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/O7z3QKAG/versions/5mLQJaIu/Icons%20v.1.14.zip"
+        ],
+        "fileSize": 9414964
+      },
+      "curseforge": {
+        "projectID": 422346,
+        "fileID": 8906797,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "icons-additions",
+      "name": "Icons - Additions",
+      "modrinth": {
+        "projectID": "2aHPb3sX",
+        "versionID": "m9yefrGs",
+        "path": "resourcepacks/Icons-Additions-1.2.1.zip",
+        "hashes": {
+          "sha1": "6d9926a4de85f6d95b5c78bb10b9bcd204e091b6",
+          "sha512": "ee752746b63a70711c0c7ac59025f8c17eb2e08871f4fd1dee7f225ee056d3f46bf2b5025de4951c3c5bb359b99cfcae5c34c9729e7b60597e2f81743f988790"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/2aHPb3sX/versions/m9yefrGs/Icons-Additions-1.2.1.zip"
+        ],
+        "fileSize": 7419
+      },
+      "curseforge": {
+        "projectID": 1225527,
+        "fileID": 7035274,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "icons-compats",
+      "name": "Icons Compats",
+      "modrinth": {
+        "projectID": "l4AXiRxt",
+        "versionID": "YIV5gQhV",
+        "path": "resourcepacks/Icons Compats.zip",
+        "hashes": {
+          "sha1": "cf8f6f1f976c03d48f532c0dcf151feeba3458fc",
+          "sha512": "53afc95a6df8c932fbf7822b21f6edf1d2b9fffaa5b305c4181313c524f5d6e0c9e69747793a7c854d0c9c1f9f9a47965203dcc73f7ef2004e7772288b69c23d"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/l4AXiRxt/versions/YIV5gQhV/Icons%20Compats.zip"
+        ],
+        "fileSize": 216896
+      },
+      "curseforge": {
+        "projectID": 1577414,
+        "fileID": 9383879,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "circular_sun_and_moon",
+      "name": "Circular Sun and Moon ☀️🌙",
+      "modrinth": {
+        "projectID": "cJsM7Iic",
+        "versionID": "WjCtkN80",
+        "path": "resourcepacks/Circular-Sun-and-Moon.zip",
+        "hashes": {
+          "sha1": "afdfe8e8fd77533d3ea1e7271c8b0137f7d66639",
+          "sha512": "e46671d28f806148fc62c2b3c3d813a39cb3740a237866132f6f7d121e96b20d03567198a9ea420f2ef59f3fffee3019bec47b9ea2221dbc15d94922d8c8aaee"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/cJsM7Iic/versions/WjCtkN80/Circular-Sun-and-Moon.zip"
+        ],
+        "fileSize": 73503
+      },
+      "curseforge": {
+        "projectID": 381084,
+        "fileID": 8330341,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "circular-logs",
+      "name": "Circular Logs",
+      "modrinth": {
+        "projectID": "OAHZ2XF7",
+        "versionID": "qMp4qr9F",
+        "path": "resourcepacks/Circular Logs 1.0.14.zip",
+        "hashes": {
+          "sha1": "a3bd1db16e187ed46852b5ffd6531fbcf5c0614e",
+          "sha512": "7606cb0011ed0f5ecb52f77b1cad9f9a0b119545425bf5e54210b4da8e74b05aa7d846776941da379b78e49a77237f31f012e1baa60c4c4af53a0c37b28d26cf"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/OAHZ2XF7/versions/qMp4qr9F/Circular%20Logs%201.0.14.zip"
+        ],
+        "fileSize": 168780
+      }
+    }
+  ],
+  "shaders": [
+    {
+      "slug": "complementary-reimagined",
+      "name": "Complementary Shaders - Reimagined",
+      "modrinth": {
+        "projectID": "HVnmMxH1",
+        "versionID": "Bqen1mJX",
+        "path": "shaderpacks/ComplementaryReimagined_r5.9.3.zip",
+        "hashes": {
+          "sha1": "838139b54cddb56b2e83cd260d8efd960ac536d6",
+          "sha512": "45304b1d7862afdb2177b7e6226fc9c6737911d17a4ad46cc9c519ca4deb935f05072cd337cd8b19a15bb8062b57b54eceec7bdee4cd572d94858e2946d37d85"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/HVnmMxH1/versions/Bqen1mJX/ComplementaryReimagined_r5.9.3.zip"
+        ],
+        "fileSize": 553397
+      },
+      "curseforge": {
+        "projectID": 627557,
+        "fileID": 8884654,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "complementary-unbound",
+      "name": "Complementary Shaders - Unbound",
+      "modrinth": {
+        "projectID": "R6NEzAwj",
+        "versionID": "B1kyfoUZ",
+        "path": "shaderpacks/ComplementaryUnbound_r5.9.3.zip",
+        "hashes": {
+          "sha1": "2ee08300e1d6f039e63eae8484dddf57b3aaaf67",
+          "sha512": "a085d1d8cda67cd17a2b414eeba48bbd809da069f269bab46246235ec8fe714a275013c70d0504527b0987d810deddddba4564332414ab3b3bd7435932ff808c"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/R6NEzAwj/versions/B1kyfoUZ/ComplementaryUnbound_r5.9.3.zip"
+        ],
+        "fileSize": 553400
+      },
+      "curseforge": {
+        "projectID": 385587,
+        "fileID": 8884656,
+        "required": true,
+        "isLocked": false
+      }
+    },
+    {
+      "slug": "photon-shader",
+      "name": "Photon Shaders",
+      "modrinth": {
+        "projectID": "lLqFfGNs",
+        "versionID": "BnGklH5y",
+        "path": "shaderpacks/photon_v1.4.zip",
+        "hashes": {
+          "sha1": "96c7730f5891a42e39bbf1f0f5a98fa99628a7fe",
+          "sha512": "2dec87084dccf91a72a06235ecbfb3627f066699b5f70583f06077cba61433aedbfa6af28eb68bf1cdc726149cc3d9a587517cfab59e6a24e9d6a40b6874d655"
+        },
+        "env": {
+          "client": "required",
+          "server": "unsupported"
+        },
+        "downloads": [
+          "https://cdn.modrinth.com/data/lLqFfGNs/versions/BnGklH5y/photon_v1.4.zip"
+        ],
+        "fileSize": 3857333
+      },
+      "curseforge": {
+        "projectID": 1312687,
+        "fileID": 9255112,
+        "required": true,
+        "isLocked": false
+      }
+    }
+  ]
+}

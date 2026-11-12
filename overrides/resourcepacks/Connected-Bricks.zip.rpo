@@ -1,0 +1,29 @@
+{
+    minecraft: {
+        bricks: true,
+        cinnabar_bricks: true,
+        cracked_deepslate_bricks: true,
+        cracked_deepslate_tiles: true,
+        cracked_nether_bricks: true,
+        cracked_polished_blackstone_bricks: true,
+        cracked_stone_bricks: true,
+        cut_copper: true,
+        deepslate_bricks: true,
+        deepslate_tiles: true,
+        end_stone_bricks: true,
+        exposed_cut_copper: true,
+        mossy_stone_bricks: true,
+        mud_bricks: true,
+        nether_bricks: true,
+        oxidized_cut_copper: true,
+        polished_blackstone_bricks: true,
+        purpur_block: true,
+        quartz_bricks: true,
+        red_nether_bricks: true,
+        resin_bricks: true,
+        stone_bricks: true,
+        sulfur_bricks: true,
+        tuff_bricks: true,
+        weathered_cut_copper: true
+    }
+}

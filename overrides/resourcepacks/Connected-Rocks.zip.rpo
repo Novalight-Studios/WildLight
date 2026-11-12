@@ -1,0 +1,33 @@
+{
+    minecraft: {
+        amethyst_block: true,
+        andesite: true,
+        basalt_side: true,
+        basalt_top: true,
+        bedrock: true,
+        blackstone: true,
+        blackstone_top: true,
+        calcite: true,
+        cinnabar: true,
+        cobbled_deepslate: true,
+        cobblestone: true,
+        crying_obsidian: true,
+        deepslate: true,
+        deepslate_top: true,
+        diorite: true,
+        dripstone_block: true,
+        end_stone: true,
+        granite: true,
+        mossy_cobblestone: true,
+        netherrack: true,
+        potent_sulfur: true,
+        prismarine: true,
+        raw_copper_block: true,
+        raw_gold_block: true,
+        raw_iron_block: true,
+        smooth_basalt: true,
+        stone: true,
+        sulfur: true,
+        tuff: true
+    }
+}
